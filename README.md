@@ -21,7 +21,9 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+Voor dit project maakten we gebruik van volgende ontwerpmethode:
 ![Schermafbeelding 2024-12-14 085941](https://github.com/user-attachments/assets/c3c640f5-2841-4d0c-ae7b-8fe3b7908140)
+Dit semester vervulden we de Discover en Define fase.
 
 ## Discovery
 Max. 1000 woorden
@@ -36,13 +38,31 @@ Definieer de belangrijkste designbeslissingen
 
 ## Definition
 Max. 1000 woorden
-### Doestellingen
+
+Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep.
+
+### Wave 1: conceptvalidatie
+#### Protocol
+[Wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
+#### Doestellingen
 Wat wilde je bereiken?
-### Materiaal & methoden
+#### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
-### Resultaten
+#### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
+#### Conclusies & implicaties
+Definieer de belangrijkste designbeslissingen
+
+### Wave 2: vorm van communicatie
+#### Protocol
+[Wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
+#### Doestellingen
+Wat wilde je bereiken?
+#### Materiaal & methoden
+Hoe onderzocht je dit? Wees volledig.
+#### Resultaten
+Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+#### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials

@@ -1,9 +1,9 @@
 # FlowGuard
-*Omschrijving van je concept in 1 zin* 
+*De tool die helpt om een effeciënte en gezonde workflow te onderhouden* 
 
 *Projectteam: Daan Dobbelaere; Jasper Dekeyser*
 
-Datum
+6/11/2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
@@ -21,6 +21,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+![Schermafbeelding 2024-12-14 085941](https://github.com/user-attachments/assets/c3c640f5-2841-4d0c-ae7b-8fe3b7908140)
 
 ## Discovery
 Max. 1000 woorden

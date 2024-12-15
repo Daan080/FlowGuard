@@ -1,5 +1,5 @@
 # FlowGuard
-*De tool die helpt om een effeciënte en gezonde workflow te onderhouden* 
+*De tool die helpt om een efficiënte en gezonde workflow te onderhouden* 
 
 *Projectteam: Daan Dobbelaere; Jasper Dekeyser*
 
@@ -41,9 +41,24 @@ Max. 1000 woorden
 
 Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep.
 
-### Wave 1: conceptvalidatie
+### <ins>Wave 1: conceptvalidatie</ins>
+
+#### Doestellingen
+Wat wilde je bereiken?
+#### Materiaal & methoden
+Hoe onderzocht je dit? Wees volledig.
+#### Resultaten
+Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+#### Conclusies & implicaties
+Definieer de belangrijkste designbeslissingen
 #### Protocol
 [Wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
+#### Rapport
+[Wave 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EcPC2BOr4uxJpqWIRvKC0M4BQ8RbzJkPKD4grVZVPXoH9Q?e=gx1EWL)
+<br>
+<br>
+### <ins>Wave 2: vorm van communicatie</ins>
+
 #### Doestellingen
 Wat wilde je bereiken?
 #### Materiaal & methoden
@@ -52,18 +67,10 @@ Hoe onderzocht je dit? Wees volledig.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 #### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
-
-### Wave 2: vorm van communicatie
 #### Protocol
 [Wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
-#### Doestellingen
-Wat wilde je bereiken?
-#### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-#### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-#### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+#### Rapport
+[Wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
 
 ## Bill of materials
 - Welk

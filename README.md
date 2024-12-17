@@ -8,14 +8,11 @@
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-De sfeer en omgeving van de moderne kantoren zorgen onvermijdelijk voor stress en werkdruk. Vaak leiden deze werkdruk en stress tot mentale problemen en burn-outs. Dit door de veranderende sociale maatschappij en de nieuwe normalen hiervan.
 
-Om dit probleem te onderzoeken werden interviews afgenomen van werknemers en werkgevers die dagelijks aan een bureau werken. Het doel van deze interviews was om te zoeken naar de oorsprong van deze stress en werkdruk. De oorzaak was het beperkte efficiënte werk dat kan geleverd worden door de vele afleiding, de beperkte pauzes die men neemt en bij de beperkte voldoening die ze uit hun werk halen.
-
-De voorgestelde oplossing is een fysiek product dat op de gebruiker zijn bureau wordt gezet en verbonden is met een hartslagmeter, bevestigd rond de pols. De gebruiker dient het product in te stellen op vlak tijd en focusniveau. Het product communiceert dit naar collega's, waardoor minder gestoord wordt en de werkefficiëntie stijgt. Als de gebruiker te veel stress ervaart, zal de hartslagmeter dit dedecteren en kan het product een kort pauze aanraden.
-De werkeffiiëntie zal stijgen, het thuiswerk zal dan automatisch verminderen. De juist geplaatste pauzes voorkomen een opstapeling van stress en werkdruk.
-
-
+- Wat is het probleem?
+- Hoe heb je dit onderzocht?
+- Wat is jouw oplossing?
+- Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
 
 ## Introductie
@@ -32,13 +29,18 @@ Dit semester vervulden we de Discover en Define fase.
 ## Discovery
 Max. 1000 woorden
 ### Doestellingen
-Wat wilde je bereiken?
+De doelstelling van de discoveryfase waren vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was van het probleem, namelijk stress en werkdruk, terugbouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem. Hiervoor werd een SOTA-schema ingevuld: [probleem begrijpen](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYZiQVYa3X1GpeBhcyGcWEcBCuQ2lsjSfwrgRcfts3pVXg?e=htsKas) Nu kon de doelstelling worden opgesteld en de juiste methodes worden gekozen. Voor deze fase werden twee methoden gebruikt, namelijk een user interview en een liturature review. Bij het eerste onderzoek werd gekeken naar de grootte en omvang van het probleem, hoe de stress gemeten kan worden en in welke mate de kontooromgeving de fysieke gezondheid beïnvloedt. Omdat deze vragen allemaal objectieve, concrete antwoorden hebben, werd hiervoor een liturature revieuw gebruikt. Bij het tweede onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk. Omdat iedereen dit anders kan ervaren en diep moet worden geprobed werd hier geopteerd voor een user interview.
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+De liturature review werd uitgevoerd doorheen de volledige discoveryfase en werd geraporteerd in dit document:[report liturature review](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYjzPVNM5MlDtGjL6JG0BmEBA4-ypAOcKbPFT_Lwt5zPCQ?e=Kymsm6). Het is duidelijk dat het probleem groot is qua omvang en 
+zeer actueel is. Bij de tweede methode, namelijk de user interviews werden een 3-tal respondenten ondervraagt en is gebruikt gemaakt van diep proben om de oorzaak van het probleem te achterhalen. De interviews werden samengevat in dit document: [report interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZvQVpeR4VxAmggA3FAxTc0B6XfqyNkIsUj1BHddXhz0ng?e=vbvpyg)
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, onderappreciatie en weinig fysieke beweging/pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen onstaan die uitgroeien tot vermijdbare grotere problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden, hierdoor is meer werk gedaan, zal de werkdruk en thuiswerk verminderen. Ook belangrijk is de stress. Dit blijkt een probleem dat moeilijk te zien is en moeilijk valt te communiceren. Dit impliceert dat er nood is aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
+Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken.
 
 ## Definition
 Max. 1000 woorden

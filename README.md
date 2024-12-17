@@ -8,10 +8,14 @@
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
+De sfeer en omgeving van de moderne kantoren zorgen onvermijdelijk voor stress en werkdruk. Vaak leiden deze werkdruk en stress tot mentale problemen en burn-outs. Dit door de veranderende sociale maatschappij en de nieuwe normalen hiervan.
+
+Om dit probleem te onderzoeken werden interviews afgenomen van werknemers en werkgevers die dagelijks aan een bureau werken. Het doel van deze interviews was om te zoeken naar de oorsprong van deze stress en werkdruk. De oorzaak was het beperkte efficiënte werk dat kan geleverd worden door de vele afleiding, de beperkte pauzes die men neemt en bij de beperkte voldoening die ze uit hun werk halen.
+
+De voorgestelde oplossing is een fysiek product dat op de gebruiker zijn bureau wordt gezet en verbonden is met een hartslagmeter, bevestigd rond de pols. De gebruiker dient het product in te stellen op vlak tijd en focusniveau. Het product communiceert dit naar collega's, waardoor minder gestoord wordt en de werkefficiëntie stijgt. Als de gebruiker te veel stress ervaart, zal de hartslagmeter dit dedecteren en kan het product een kort pauze aanraden.
+De werkeffiiëntie zal stijgen, het thuiswerk zal dan automatisch verminderen. De juist geplaatste pauzes voorkomen een opstapeling van stress en werkdruk.
+
+
 - Hero sketch/render/image
 
 ## Introductie

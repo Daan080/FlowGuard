@@ -22,9 +22,10 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
-Voor dit project maakten we gebruik van volgende ontwerpmethode:
+Voor dit project maakten we gebruik van de ontwerpmethode genaamd de "double diamond". Deze is goed om :
 ![Schermafbeelding 2024-12-14 085941](https://github.com/user-attachments/assets/c3c640f5-2841-4d0c-ae7b-8fe3b7908140)
-Dit semester vervulden we de Discover en Define fase.
+
+Het eerste semster vervulden we de Discover en Define fase, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
 
 ## Discovery
 Max. 1000 woorden
@@ -40,7 +41,7 @@ Bij de tweede methode, namelijk de user interviews werden een 3-tal respondenten
 
 ### Conclusies & implicaties
 De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, onderappreciatie en weinig fysieke beweging/pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen onstaan die uitgroeien tot vermijdbare grotere problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden, hierdoor is meer werk gedaan, zal de werkdruk en thuiswerk verminderen. Ook belangrijk is de stress. Dit blijkt een probleem dat moeilijk te zien is en moeilijk valt te communiceren. Dit impliceert dat er nood is aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
-Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken.
+Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken. Om al deze zaken nog eens duidelijker te kaderen en eens na te denken over de requirments werd een inovatrix ingevuld: [inovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p)
 
 ## Definition
 Max. 1000 woorden

@@ -23,6 +23,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "double diamond". Deze helpt om meerdere malen te convergeren en te divergeren. Het eerste semester hebben we de eerste "diamond" doorlopen: de discovery en de define fase. Het tweede semester zijn we meer in detail gegaan en hebben we de rest van de ontwerpmethode doorlopen. Bij elke stap in het proces is nog eens gebruik gemaakt van extra, meer gedetaileerde, ontwerpmethoden om specifieke deelproblemen en stappen op te lossen en te vervolledigen.
+
 ![Schermafbeelding 2024-12-14 085941](https://github.com/user-attachments/assets/c3c640f5-2841-4d0c-ae7b-8fe3b7908140)
 
 Het eerste semster vervulden we de Discover en Define fase, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.

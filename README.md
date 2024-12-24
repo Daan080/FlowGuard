@@ -90,9 +90,27 @@ Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 #### Doelstellingen
 Bij het gebruik van ons product zullen er twee vormen van communicatie voorkomen: het aanraden van pauzes naar de gebruiker toe (product – gebruiker) en het communiceren van de werkstatus met collega's (product – collega's). Aan de hand van twee testen proberen we te achterhalen welke signalen optimaal zijn voor elke vorm van communicatie. 
 #### Materiaal & methoden
-We nemen contact op met een persoon binnen onze doelgroep en we spreken een datum af om langs te komen op kantoor en met iedereen op het bureau een individuele test af te leggen. Eerst en vooral geven we een korte uitleg over ons concept. Voor de eerste test laten we de testpersonen een typtest uitvoeren en worden er in willekeurige volgorde en frequentie signalen getoond via een prototype. Wanneer de testpersoon het signaal waarneemt, voert die een kleine actie uit zoals even rechtstaan. Achteraf worden er enkele vragen gesteld met een vragenlijst over het effect van de waargenomen signalen. Voor de tweede test krijgen de testpersonen een kleur te zien en beantwoorden ze na elke kleur enkele vragen over het effect van dat kleur. Er wordt afgesloten met de mogelijkheid om nog van mening te veranderen of zaken toe te voegen na het zien van alle kleuren. 
+We nemen contact op met een persoon binnen onze doelgroep en we spreken een datum af om langs te komen op kantoor en met iedereen op het bureau een individuele test af te leggen. Eerst en vooral geven we een korte uitleg over ons concept. De eerste test speelt zich af in een situatie waarin de gebruiker aan het werk is en geseind moeten worden dat het tijd is om te pauzeren. We laten de testpersonen een typtest uitvoeren en er worden in willekeurige volgorde en frequentie signalen getoond via een prototype. Wanneer de testpersoon het signaal waarneemt, voert die een kleine actie uit zoals even rechtstaan. Achteraf worden er enkele vragen gesteld met een vragenlijst over het effect van de waargenomen signalen. Voor de tweede test staat de testpersonen voor het dilemma of ze een collega mogen storen of niet. Ze krijgen een kleur te zien dat een werkstatus van hun collega representeert en beantwoorden na elke kleur enkele vragen over het effect van dat kleur. Er wordt afgesloten met de mogelijkheid om nog van mening te veranderen of zaken toe te voegen na het zien van alle kleuren. 
 #### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+##### Test 1 (product - gebruiker):
+|   | Gekleurd licht | Flikkerend licht | Geluid  | Trillen hub   | Trillen armband   |
+| -------- | :---: | :---: | :---: | :---: | :---: |
+|**Hoe hard valt het signaal op?** | 2.2 | 3.2 | 4.6 | 3.4 | 3.75 |
+|**Hoe aangenaam is het signaal?** | 4.4 | 3.4 | 3.2 | 2.8 | 3 |
+|**Hoe hard zet het signaal je aan tot actie?** | 2.8 | 3.2 | 4.2 | 2.6 | 3.5 |
+|**Hoe snel leidt het signaal je af?** | 2.6 | 3.4 | 4.4 | 2.8 | 4 |
+|**Hoe moeilijk is het signaal te negeren? (in het geval dat het eindeloos doorgaat)** | 2.2 | 3 | 4.6 | 3 | 4.5 |
+|**Hoe afleidend is het signaal voor je collega’s en omgeving?** | 2.2 | 3 | 4.8 | 4.6 | 1.5 |
+
+Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
+- **Gekleurd licht** is het aangenaamst en stoort de omgeving bijna niet, maar het valt het minst op en motiveert minder om actie te ondernemen.
+- **Flikkerend licht** trekt iets meer aandacht en zet meer aan tot actie, maar wordt als minder aangenaam ervaren dan gekleurd licht.
+- **Geluid** valt het meest op en zet het meest aan tot actie, maar het is zeer storend voor andere collega’s.
+- **Trillen via de hub** is redelijk opvallend en stoort de omgeving niet veel, maar het activeert het slechtst en wordt als het minst aangenaam ervaren. Dit komt waarschijnlijk door de associatie met het trillen van een gsm. Eén van de testpersonen had het trilsignaal zelfs niet opgemerkt omdat hij dacht dat het een gsm was van de observators.
+- **Trillen via een armband** biedt een mooie balans: het trekt voldoende aandacht, motiveert goed en stoort collega's bijna niet, al is het wat minder comfortabel en lastig te negeren.
+
+##### Test 2 (product - collega's):
+
 #### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 #### Protocol

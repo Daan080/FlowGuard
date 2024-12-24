@@ -105,11 +105,16 @@ We nemen contact op met een persoon binnen onze doelgroep en we spreken een datu
 Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
 - **Gekleurd licht** is het aangenaamst en stoort de omgeving bijna niet, maar het valt het minst op en motiveert minder om actie te ondernemen.
 - **Flikkerend licht** trekt iets meer aandacht en zet meer aan tot actie, maar wordt als minder aangenaam ervaren dan gekleurd licht.
-- **Geluid** valt het meest op en zet het meest aan tot actie, maar het is zeer storend voor andere collega’s.
-- **Trillen via de hub** is redelijk opvallend en stoort de omgeving niet veel, maar het activeert het slechtst en wordt als het minst aangenaam ervaren. Dit komt waarschijnlijk door de associatie met het trillen van een gsm. Eén van de testpersonen had het trilsignaal zelfs niet opgemerkt omdat hij dacht dat het een gsm was van de observators.
-- **Trillen via een armband** biedt een mooie balans: het trekt voldoende aandacht, motiveert goed en stoort collega's bijna niet, al is het wat minder comfortabel en lastig te negeren.
+- **Geluid** valt het meest op en zet het meest aan tot actie, maar het is zeer storend voor andere collega’s. Het geluid kan ook als het bel- of alarmsignaal van een gsm geïnterpreteerd worden, wat verwarrend kan zijn door alle gsm's aanwezig op een bureau.
+- **Trillen via de hub** is redelijk opvallend en stoort de omgeving niet veel, maar het activeert het slechtst en wordt als het minst aangenaam ervaren. Dit komt waarschijnlijk door de associatie met het trillen van een gsm. Eén van de testpersonen had het trilsignaal zelfs niet opgemerkt omdat hij dacht dat het een gsm van de observators was.
+- **Trillen via een armband** biedt een mooie balans: het trekt voldoende aandacht, motiveert goed tot actie en stoort collega's bijna niet. Het signaal is vrij lastig te negeren en op aangenaamheid scoort de armband maar middelmatig.
 
 ##### Test 2 (product - collega's):
+|   | Groen  | Geel | Oranje  | Rood   | Blauw   | Wit  |
+| -------- | --- | --- | --- | --- | --- | --- |
+|**Welke emotie roept deze kleur op?** | 2.2 | 3.2 | 4.6 | 3.4 | 3.75 |
+|**Wat zou de reden zijn dat jouw collega deze kleur zou gebruiken?** | 4.4 | 3.4 | 3.2 | 2.8 | 3 |
+|**Wat denk je dat hij/zij op dat moment aan het doen is?** | 2.8 | 3.2 | 4.2 | 2.6 | 3.5 |
 
 #### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen

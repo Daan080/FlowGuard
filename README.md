@@ -63,7 +63,7 @@ Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter t
 #### Doelstellingen
 Het doel van deze conceptvalidatie is om ons gevonden concept met de eerste mockups voor te stellen aan de doelgroep en hun meningen, inzichten en onduidelijkheden te capteren.
 #### Materiaal & methoden
-We contacteren telefonisch personen binnen onze doelgroep en we spreken een datum en plaats af om in alle rust een test af te nemen. Eerst maken we kort kennis en kaderen we ons project. Vervolgens beschrijven we ons concept zonder iets te laten zien en stellen we vragen over hun eerste indruk. Daarna tonen we de twee mockups en stellen we vragen over het uiterlijk van het product. Hierna stellen we vragen over onduidelijkheden die wij nog hebben en proberen we te achterhalen of onze hoofddoelen worden bereikt. Ten slotte is er nog ruimte voor reflectie en algemene conclusies. Hiervoor hebben we juist een laptop nodig om de antwoorden te capteren.
+We spreken een datum en plaats af om in alle rust een test af te nemen met elke deelnemer. Eerst maken we kort kennis en kaderen we ons project. Vervolgens beschrijven we ons concept zonder iets te laten zien en stellen we vragen over hun eerste indruk. Daarna tonen we de twee mockups en stellen we vragen over het uiterlijk van het product. Hierna stellen we vragen over onduidelijkheden die wij nog hebben en proberen we te achterhalen of onze hoofddoelen worden bereikt. Ten slotte is er nog ruimte voor reflectie en algemene conclusies. Hiervoor hebben we juist een laptop nodig om de antwoorden te capteren.
 #### Resultaten
 Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden. Voor fysieke beweging tijdens het werk verschillen de meningen: sommigen vinden dat er meer moet worden bewogen of rechtgestaan, maar een kleine meerderheid vindt dat niet nodig tijdens de werkuren.
 
@@ -88,9 +88,9 @@ Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 ### <ins>Wave 2: vorm van communicatie</ins>
 
 #### Doelstellingen
-Wat wilde je bereiken?
+Bij het gebruik van ons product zullen er twee vormen van communicatie voorkomen: het aanraden van pauzes naar de gebruiker toe (product – gebruiker) en het communiceren van de werkstatus met collega's (product – collega's). Aan de hand van twee testen proberen we te achterhalen welke signalen optimaal zijn voor elke vorm van communicatie. 
 #### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+We nemen contact op met een persoon binnen onze doelgroep en we spreken een datum af om langs te komen op kantoor en met iedereen op het bureau een individuele test af te leggen. Eerst en vooral geven we een korte uitleg over ons concept. Voor de eerste test laten we de testpersonen een typtest uitvoeren en worden er in willekeurige volgorde en frequentie signalen getoond via een prototype. Wanneer de testpersoon het signaal waarneemt, voert die een kleine actie uit zoals even rechtstaan. Achteraf worden er enkele vragen gesteld met een vragenlijst over het effect van de waargenomen signalen. Voor de tweede test krijgen de testpersonen een kleur te zien en beantwoorden ze na elke kleur enkele vragen over het effect van dat kleur. Er wordt afgesloten met de mogelijkheid om nog van mening te veranderen of zaken toe te voegen na het zien van alle kleuren. 
 #### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 #### Conclusies & implicaties

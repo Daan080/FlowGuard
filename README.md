@@ -48,7 +48,10 @@ Bij de tweede methode, namelijk de user interviews werden een 3-tal respondenten
 De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, onderappreciatie en weinig fysieke beweging/pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen ontstaan die uitgroeien tot grotere, vermijdbare problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden. Hierdoor is meer werk gedaan en zal de werkdruk en thuiswerk verminderen. Een ander belangrijk aspect is de stress, aangezien dit moeilijk blijkt te zien en moeilijk valt te communiceren. Er is nood aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
 <br>
 Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken. <ins> Om al deze zaken nog eens duidelijker te kaderen en eens na te denken over de requirements, werd een innovatrix ingevuld: [innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p) </ins>
-Hierna kon een correct en innovatief eerste concept opgesteld worden.[eerste concept]![image](https://github.com/user-attachments/assets/169d878a-6bec-4f0f-83af-8bdb21c2395a)
+Hierna kon een correct en innovatief eerste concept opgesteld worden.
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/169d878a-6bec-4f0f-83af-8bdb21c2395a)
 
 ## Definition
 Max. 1000 woorden

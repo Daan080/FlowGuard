@@ -72,10 +72,10 @@ In termen van communicatie benadrukken alle deelnemers respect voor de rust van 
 
 De dagelijkse evaluatie van werkprestaties en stressniveaus wordt door de meeste deelnemers gewaardeerd. Dit helpt hen reflecteren op hun werkdag en geeft inzicht in hun productiviteit. Een enkeling uitte echter zorgen dat tijdsregistratie juist extra stress en onzekerheid kan veroorzaken over je al dan niet goede workflow.
 
-Vrijwel iedereen benadrukte het belang van persoonlijke aanpassingsmogelijkheden. Dit ging over voor werk- en pauzeduur, syncronisatie en filtering van meldingen, het meten van stress door externe apparatuur en de soorten analyses op het einde van de dag.
+Vrijwel iedereen benadrukte het belang van persoonlijke aanpassingsmogelijkheden. Dat ging over voor werk- en pauzeduur, syncronisatie en filtering van meldingen, het meten van stress door externe apparatuur en de soorten analyses op het einde van de dag. Ook mocht alles niet te lang duren om in te stellen om het gebruiksgemak en de werkefficiëntie hoog te houden.
 
 #### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een intuïtieve instelling van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. Stressmetingen kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende meldingen gefilterd worden tijdens focusstand. Wat betreft de vormgeving moet het product herkenbaar en opvallend zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor focusstatus moet aanwezig zijn, liefst een kleurlicht. Ten slotte moeten gebruikers instellingen kunnen personaliseren, want iedereen werkt op een andere manier.
 #### Protocol
 [Wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
 #### Rapport

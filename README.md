@@ -114,28 +114,29 @@ Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
 Deze antwoorden zijn de meestvoorkomende per mogelijkheid. Voor de antwoorden per participant kan gekeken worden in het rapport.
 |   | Groen  | Geel | Oranje  | Rood   | Blauw   | Wit  |
 | -------- | --- | --- | --- | --- | --- | --- |
-|**Welke emotie roept deze kleur op?** | 2.2 | 3.2 | 4.6 | 3.4 | 3.75 |
+|**Welke emotie roept deze kleur op?** | rust, toegenkelijk, bereikbaar | ruime inbreng, van oppassen voor stress naar feest | 4.6 | 3.4 | 3.75 |
 |**Wat zou de reden zijn dat jouw collega deze kleur zou gebruiken?** | 4.4 | 3.4 | 3.2 | 2.8 | 3 |
 |**Wat denk je dat hij/zij op dat moment aan het doen is?** | 2.8 | 3.2 | 4.2 | 2.6 | 3.5 |
 
 #### Conclusies & implicaties
-Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Initieel wordt het meeste voorkeur gegeven aan trillen van een armband of communicatie met een geluid. Het laatste is echter te storend voor de omgeving, net als flikkerend licht en zal daardoor wegvallen. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Bij de communicatie van het product naar de collega's toe wordt gekeken welke lichtkleuren kunnen worden gebruikt in het product. Er wordt gezocht naar kleuren die verschillende gevoelens oproepen, gepast voor een werkomgeving. Hier wordt de voorkeur gegeven aan blauw, rood, groen en oranje.
+Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Initieel wordt het meeste voorkeur gegeven aan trillen van een armband of communicatie met een geluid. Het laatste is echter te storend voor de omgeving, net als flikkerend licht en zal daardoor wegvallen. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Bij de communicatie van het product naar de collega's toe wordt gekeken welke lichtkleuren kunnen worden gebruikt in het product. Er wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen, of kleuren waar nog een inbreng aan kan worden gegeven. Het laatste zijn dan vooral neutrale kleuren of kleuren zonder betekenis in het dagdaglijkse kleuren. Hier wordt de voorkeur gegeven aan blauw, rood, groen en oranje.
 #### Protocol
 [Wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
 #### Rapport
 [Wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
 
 ## Bill of materials
-- Arduino materiaal om juist kleur licht te schijnen op het juiste moment.
-- vormen (zelf te maken)
+- Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.
+- vormen om de esthetische kant te testen en de omvang (zelf te maken)
 - stressmeter (werkend met hartslagvariabiliteit)
-
+  --> idealiter te verbinden met de centrale interface om kleur te verkrijgen
+  
 ## Kritische reflectie
 In het algemeen zit het project op schema. De eerste stappen (discovery) gingen moeizaam, wat logisch is, maar er komt meer en meer vorm en structuur in het project. 
 Bij elke stap dat we zetten is er een duidelijke vooruitgang, wat helpt bij de voldoening die bij dit project moet horen. Er zijn duidelijk signalen vanuit de doelgroep die aantonen dat we een probleem hebben gevonden waar nog geen concrete oplossing voor is, maar deze is zeer gewild. De grootste uitdagingen die nu volgen is zijn blijven verbeteren van het product, maar hierbij ook rekening houden met de wensen van de doelgroep. We krijgen heel vele input en de interviews geven veel info, pains en gains, maar het is natuurlijk veel werk om deze allemaal om te zetten in prototypes die uiteindelijk tot een product zullen leiden.
 
 ## Bronnen
-•	Nws, V. (2021, 17 mei). Aantal langdurige burn-outs en depressies blijft stijgen tot meer dan 100.000: “Ons brein kent geen rust meer”. vrtnws.be. https://www.vrt.be/vrtnws/nl/2021/05/17/aantal-burn-outs-en-depressies-blijft-stijgen/ 
+•	Nws, V. (2021, 17 mei). Aantal langdurige burn-outs en depressies blijft stijgen tot meer dan 100.000: “Ons brein kent geen rust meer”. vrtnws.be.      https://www.vrt.be/vrtnws/nl/2021/05/17/aantal-burn-outs-en-depressies-blijft-stijgen/ 
 •	Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar 
 •	 S. Samima, M. Sarma and D. Samanta, "Detecting vigilance in people performing continual monitoring task", Proc. Int. Conf. Intell. Human Comput. Interact., pp. 202-214, 2017. 
 •	Attention and Concentration for Software Developers. (2023). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/10232991 

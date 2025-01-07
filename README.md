@@ -111,6 +111,7 @@ Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
 - **Trillen via een armband** biedt een mooie balans: het trekt voldoende aandacht, motiveert goed tot actie en stoort collega's bijna niet. Het signaal is vrij lastig te negeren en op aangenaamheid scoort de armband maar middelmatig.
 
 ##### Test 2 (product - collega's):
+Deze antwoorden zijn de meestvoorkomende per mogelijkheid. Voor de antwoorden per participant kan gekeken worden in het rapport.
 |   | Groen  | Geel | Oranje  | Rood   | Blauw   | Wit  |
 | -------- | --- | --- | --- | --- | --- | --- |
 |**Welke emotie roept deze kleur op?** | 2.2 | 3.2 | 4.6 | 3.4 | 3.75 |
@@ -125,18 +126,13 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 [Wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+- Arduino materiaal om juist kleur licht te schijnen op het juiste moment.
+- vormen (zelf te maken)
+- stressmeter (werkend met hartslagvariabiliteit)
 
 ## Kritische reflectie
-Max. 500 woorden
+In het algemeen zit het project op schema. De eerste stappen (discovery) gingen moeizaam, wat logisch is, maar er komt meer en meer vorm en structuur in het project. 
+Bij elke stap dat we zetten is er een duidelijke vooruitgang, wat helpt bij de voldoening die bij dit project moet horen. Er zijn duidelijk signalen vanuit de doelgroep die aantonen dat we een probleem hebben gevonden waar nog geen concrete oplossing voor is, maar deze is zeer gewild. De grootste uitdagingen die nu volgen is zijn blijven verbeteren van het product, maar hierbij ook rekening houden met de wensen van de doelgroep. We krijgen heel vele input en de interviews geven veel info, pains en gains, maar het is natuurlijk veel werk om deze allemaal om te zetten in prototypes die uiteindelijk tot een product zullen leiden.
 
 ## Bronnen
 •	Nws, V. (2021, 17 mei). Aantal langdurige burn-outs en depressies blijft stijgen tot meer dan 100.000: “Ons brein kent geen rust meer”. vrtnws.be. https://www.vrt.be/vrtnws/nl/2021/05/17/aantal-burn-outs-en-depressies-blijft-stijgen/ 

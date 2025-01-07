@@ -114,9 +114,9 @@ Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
 Deze antwoorden zijn de meestvoorkomende per mogelijkheid. Voor de antwoorden per participant kan gekeken worden in het rapport.
 |   | Groen  | Geel | Oranje  | Rood   | Blauw   | Wit  |
 | -------- | --- | --- | --- | --- | --- | --- |
-|**Welke emotie roept deze kleur op?** | rust, toegenkelijk, bereikbaar | ruime inbreng, van oppassen voor stress naar feest | 4.6 | 3.4 | 3.75 |
-|**Wat zou de reden zijn dat jouw collega deze kleur zou gebruiken?** | 4.4 | 3.4 | 3.2 | 2.8 | 3 |
-|**Wat denk je dat hij/zij op dat moment aan het doen is?** | 2.8 | 3.2 | 4.2 | 2.6 | 3.5 |
+|**Welke emotie roept deze kleur op?** | rust, toegenkelijk, bereikbaar | ruime inbreng, van oppassen voor stress naar feest | tussen groen en rood. Vooral een gevoel van stress en opletten. Eerder aan de kant van rood | opgelet! stress! gevaar! focus! | rust, kalmte, pauze | neutraal, sfeerlamp |
+|**Wat zou de reden zijn dat jouw collega deze kleur zou gebruiken?** | bereikbaar, rustige taak, mails checken  | taken waarbij je liever niet gestoord wordt, maar het is geen groot probleem | niet storen, stressvolle taak, druk bezig | zeer gefocust werk, niet storen anders ben ik de kluts kwijt | pauze, rustige taak | geen opdracht, misschien pauze |
+|**Wat denk je dat hij/zij op dat moment aan het doen is?** | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven |
 
 #### Conclusies & implicaties
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Initieel wordt het meeste voorkeur gegeven aan trillen van een armband of communicatie met een geluid. Het laatste is echter te storend voor de omgeving, net als flikkerend licht en zal daardoor wegvallen. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Bij de communicatie van het product naar de collega's toe wordt gekeken welke lichtkleuren kunnen worden gebruikt in het product. Er wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen, of kleuren waar nog een inbreng aan kan worden gegeven. Het laatste zijn dan vooral neutrale kleuren of kleuren zonder betekenis in het dagdaglijkse kleuren. Hier wordt de voorkeur gegeven aan blauw, rood, groen en oranje.

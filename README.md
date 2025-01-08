@@ -1,4 +1,4 @@
-# FlowGuard
+d# FlowGuard
 *De bureau-tool die helpt om een efficiënte en gezonde workflow te onderhouden.* 
 
 *Projectteam: Daan Dobbelaere; Jasper Dekeyser*
@@ -151,9 +151,7 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 - vibratiemotor waarvan frequentie en intensiteit geregeld kan worden
   
 ## Kritische reflectie
-In het algemeen zit het project op schema. Bij de eerste stappen hadden we moeite met het afbakenen van ons project, wat logisch is, maar er komt meer en meer vorm en structuur in het project. 
-Bij elke stap dat we zetten is er een duidelijke vooruitgang, wat helpt bij de voldoening die bij dit project moet horen. Er zijn duidelijk signalen vanuit de doelgroep die aantonen dat we een probleem hebben gevonden waar nog geen concrete oplossing voor is, maar deze is zeer gewild. De grootste uitdagingen die nu volgen zijn het blijven verbeteren van het product, maar hierbij ook rekening houden met de wensen van de doelgroep. We krijgen heel vele input en de interviews geven veel info, pains en gains, maar het is niet altijd even simpel om met alles rekening te houden en deze zaken om te zetten in prototypes die uiteindelijk tot een product zullen leiden.
-
+In het algemeen zit het project op schema. Bij de eerste stappen hadden we moeite met het afbakenen de essentie en zagen we soms de bos niet meer door de bomen. Door de conceptvalidatie kregen we echter validatie en feedback dat ons beter op het spoor bracht. Bij elke stap kwam er meer duidelijkheid en structuur. We kregen signalen vanuit de doelgroep die aantoonden dat we echt met een probleem zitten waar nog geen concrete oplossing voor is en waarvan de oplossing zeer gewild is. We merkten dus echt dat onze doelgroep de leidraad is en hun feedback ons het best vooruit zal helpen in dit project. We kregen heel veel input via de interviews en gebruikerstesten, maar het was niet altijd even simpel om met alles rekening te houden. Vooral omdat sommige antwoorden volledig verschilden met andere antwoorden. Daarom vinden we het belangrijk dat we belang hechten aan de mogelijkheid om ons product te personaliseren aan elke gebruiker, zonder alles te complex te maken. De grootste uitdagingen die nu volgen zijn het prototypen en realiseren van de vorm en elektronica van ons product, en evenveel belang hechten aan de feedback van onze doelgroep als in de eerste fasen.
 ## Bronnen
 •	Nws, V. (2021, 17 mei). Aantal langdurige burn-outs en depressies blijft stijgen tot meer dan 100.000: “Ons brein kent geen rust meer”. vrtnws.be.      https://www.vrt.be/vrtnws/nl/2021/05/17/aantal-burn-outs-en-depressies-blijft-stijgen/ 
 •	Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar 

@@ -6,21 +6,17 @@
 23/09/2024 - 08/01/2025
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Op de werkvloer van tegenwoordig is er te veel stress en werkdruk, waarvan wij denken dat ze te vermijden zijn. Onnodige stress en werkdruk kan leiden tot mentale en onrechtstreeks fysieke zorgen en in extreme gevallen tot burn-outs. 
 
+Uit meerdere literatuuronderzoeken en interviews met relevante participanten blijkt dat dit grotendeels ligt aan het feit dat men tegenwoordig constant bereikbaar is via de gsm en computer, maar ook dat er niet genoeg rekening gehouden wordt met elkaar. Dit laatste is vaak een gevolg van slechte communicatie of gaat over zaken die moeilijk te communiceren zijn, zoals stress.
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+In het zoeken naar een oplossing werden naast de literatuuronderoeken en interviews ook andere ontwerpmethodes gebruikt om de diepe oorzaken te zoeken en tot een concrete oplossing te komen.
+
+De oplossing dat we in dit dossier voorstellen is een product dat helpt om een gezonde balans te houden tussen werken en pauzes, en deze pauzes op fysisch niveau kan helpen verbeteren. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving. Dit door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s.
+Het product geeft een gevoel van voldoening  die men tegenwoordig zoekt op een werkdag. 
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen
-
-Volgens Riziv (Rijksinstituut voor ziekte- en invaliditeitsverzekering) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornissen en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress spelen hier een grote rol in, maar ook 
+Volgens Riziv (Rijksinstituut voor ziekte- en invaliditeitsverzekering) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornissen en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress tijdens de job spelen hier een grote rol in, maar ook de constante bereikbaarheid via mail, berichten, sociale media, op de werkvloer, etc. zorgen voor een daling in werkefficiëntie met als gevolg een stijging in stress en werkdruk. Stress en werkdruk die te vermijden zijn…
 
 Eerder dit jaar kozen we tussen verschillende design-challenges en hieruit kwam onze challenge voort, namelijk stress, werkdruk en fysieke beweging verbeteren bij werknemers die dagelijks aan een bureau werken in een kantooromgeving. Het is de bedoeling dat ons product deze problemen oplossen door regelmatig pauzes aan te raden, de werkstatus te communiceren met collega’s en appreciatie te creëren voor het geleverde werk.
 

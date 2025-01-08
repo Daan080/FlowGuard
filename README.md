@@ -1,4 +1,4 @@
-d# FlowGuard
+# FlowGuard
 *De bureau-tool die helpt om een efficiënte en gezonde workflow te onderhouden.* 
 
 *Projectteam: Daan Dobbelaere; Jasper Dekeyser*

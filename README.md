@@ -84,6 +84,9 @@ Vrijwel iedereen benadrukte het belang van persoonlijke aanpassingsmogelijkheden
 
 #### Conclusies & implicaties
 Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. ****Stressmetingen**** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
+#### MoSCow review
+<img src="https://github.com/user-attachments/assets/4ce280fb-c397-47f1-8e00-9434724d46a4" alt="Alt Text" width="700">
+
 #### Protocol
 [Wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
 #### Rapport
@@ -98,10 +101,13 @@ De hoofddoelen van ons product zijn werkefficiëntie verhogen, communicatie tuss
 We komen langs op kantoor bij enkele mensen van onze doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen.
 #### Resultaten
 ##### Test 1 (product - gebruiker):
-![test 1 ilse](https://github.com/user-attachments/assets/9d2cbe4f-19d9-45d3-b653-214c3f2f37d0)
+<img src="https://github.com/user-attachments/assets/9d2cbe4f-19d9-45d3-b653-214c3f2f37d0" alt="Alt Text" width="700">
 <br>
 <br>
 Deze tabel bevat de gemiddelde scores van alle participanten. Voor de scores per participant kan gekeken worden in het rapport van Wave 2.
+<br>
+<br>
+
 |   | Gekleurd licht | Flikkerend licht | Geluid  | Trillen hub   | Trillen armband   |
 | -------- | :---: | :---: | :---: | :---: | :---: |
 |**Hoe hard valt het signaal op?** | 2.2 | 3.2 | 4.6 | 3.4 | 3.75 |
@@ -119,10 +125,13 @@ Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
 - **Trillen via een armband** biedt een mooie balans: het trekt voldoende aandacht, motiveert goed tot actie en stoort collega's bijna niet. Het signaal is vrij lastig te negeren en op aangenaamheid scoort de armband maar middelmatig.
 
 ##### Test 2 (product - collega's):
-![Schermafbeelding 2025-01-08 120632](https://github.com/user-attachments/assets/47298b2b-ffc2-44d5-97f2-5917d38dfa6f)
+<img src="https://github.com/user-attachments/assets/47298b2b-ffc2-44d5-97f2-5917d38dfa6f" alt="Alt Text" width="700">
 <br>
 <br>
 Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor de antwoorden per participant kan gekeken worden in het rapport van Wave 2.
+<br>
+<br>
+
 |   | Groen  | Geel | Oranje  | Rood   | Blauw   | Wit  |
 | -------- | --- | --- | --- | --- | --- | --- |
 |**Welke emotie roept deze kleur op?** | - rust <br> - toegankelijk<br> - bereikbaar | - ruime inbreng, van oppassen voor stress tot feest | - tussen groen en rood <br> - vooral een gevoel van stress en opletten <br> - eerder aan de kant van rood | - opgelet!<br>- stress!<br> - gevaar!<br> - focus! | - rust<br> - kalmte<br> - pauze <br> - minder streng kleur| - neutraal<br> - sfeerlamp |

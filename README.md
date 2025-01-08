@@ -26,13 +26,13 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 <br>
 Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "double diamond". Deze helpt om meerdere malen te convergeren en te divergeren. Het eerste semester hebben we de eerste "diamond" doorlopen: de discovery en de define fase. Het tweede semester zijn we meer in detail gegaan en hebben we de rest van de ontwerpmethode doorlopen. Bij elke stap in het proces is nog eens gebruik gemaakt van extra, meer gedetaileerde, ontwerpmethoden om specifieke deelproblemen en stappen op te lossen en te vervolledigen.
 
-![image](https://github.com/user-attachments/assets/ef0766ff-e06c-46e2-8478-86a797489a23)
+![Mainmethods et all _ BB](https://github.com/user-attachments/assets/08afe971-c23a-49a9-9bfc-0b0bcaf553a1)
 
 
 Het eerste semster vervulden we de Discover en Define fase, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
 De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was van het probleem, namelijk stress en werkdruk, terugbouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
 ### Materiaal & methoden
@@ -55,7 +55,6 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 ![image](https://github.com/user-attachments/assets/169d878a-6bec-4f0f-83af-8bdb21c2395a)
 
 ## Definition
-Max. 1000 woorden
 
 Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep.
 
@@ -112,6 +111,8 @@ Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
 - **Trillen via een armband** biedt een mooie balans: het trekt voldoende aandacht, motiveert goed tot actie en stoort collega's bijna niet. Het signaal is vrij lastig te negeren en op aangenaamheid scoort de armband maar middelmatig.
 
 ##### Test 2 (product - collega's):
+![Schermafbeelding 2025-01-08 120632](https://github.com/user-attachments/assets/47298b2b-ffc2-44d5-97f2-5917d38dfa6f)
+
 Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor de antwoorden per participant kan gekeken worden in het rapport van Wave 2.
 |   | Groen  | Geel | Oranje  | Rood   | Blauw   | Wit  |
 | -------- | --- | --- | --- | --- | --- | --- |

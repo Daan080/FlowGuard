@@ -32,7 +32,7 @@ Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is geb
 ![Mainmethods et all _ BB](https://github.com/user-attachments/assets/08afe971-c23a-49a9-9bfc-0b0bcaf553a1)
 
 
-Het eerste semster vervulden we de Discover en Define fase, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
+Het eerste semester vervulden we de Discover en Define fase, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
 
 ## Discovery
 

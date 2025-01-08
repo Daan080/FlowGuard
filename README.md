@@ -24,7 +24,7 @@ Dit is een alledaags probleem en komt voor bij meerdere doelgroepen, denk bijvoo
 
 
 Bronnen:
-Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar
 
 ## Methodologie
 Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "double diamond". Deze helpt om meerdere malen te convergeren en te divergeren. Het eerste semester hebben we de eerste "diamond" doorlopen: de discovery en de define fase. Het tweede semester zijn we meer in detail gegaan en hebben we de rest van de ontwerpmethode doorlopen. Bij elke stap in het proces is nog eens gebruik gemaakt van extra, meer gedetaileerde, ontwerpmethoden om specifieke deelproblemen en stappen op te lossen en te vervolledigen.

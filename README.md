@@ -18,7 +18,16 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 ## Introductie
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen 	
+Maak gebruik van bronverwijzingen
+
+Volgens Riziv (Rijksinstituut voor ziekte- en invaliditeitsverzekering) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornissen en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress spelen hier een grote rol in, maar ook 
+
+Eerder dit jaar kozen we tussen verschillende design-challenges en hieruit kwam onze challenge voort, namelijk stress, werkdruk en fysieke beweging verbeteren bij werknemers die dagelijks aan een bureau werken in een kantooromgeving. Het is de bedoeling dat ons product deze problemen oplossen door regelmatig pauzes aan te raden, de werkstatus te communiceren met collega’s en appreciatie te creëren voor het geleverde werk.
+
+Dit is een alledaags probleem en komt voor bij meerdere doelgroepen, denk bijvoorbeeld aan studenten. Om ons probleem te begrenzen en onze oplossing zo gebruiksgericht te kunnen ontwerpen, is eerst gekozen voor de doelgroep kantoormedewerkers die dagelijks het merendeel van de dag aan een bureau werken. Als we een oplossing kunnen bieden voor deze doelgroep, kan verder gekeken worden naar andere doelgroepen met een gelijkaardig probleem.
+
+
+Bronnen:
 Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 ## Methodologie

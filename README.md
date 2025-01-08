@@ -3,7 +3,7 @@
 
 *Projectteam: Daan Dobbelaere; Jasper Dekeyser*
 
-6/11/2024
+23/09/2024 - 08/01/2025
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
@@ -21,9 +21,6 @@ Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief bou
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
-<br>
-<br>
 Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "double diamond". Deze helpt om meerdere malen te convergeren en te divergeren. Het eerste semester hebben we de eerste "diamond" doorlopen: de discovery en de define fase. Het tweede semester zijn we meer in detail gegaan en hebben we de rest van de ontwerpmethode doorlopen. Bij elke stap in het proces is nog eens gebruik gemaakt van extra, meer gedetaileerde, ontwerpmethoden om specifieke deelproblemen en stappen op te lossen en te vervolledigen.
 
 ![Mainmethods et all _ BB](https://github.com/user-attachments/assets/08afe971-c23a-49a9-9bfc-0b0bcaf553a1)
@@ -34,7 +31,7 @@ Het eerste semster vervulden we de Discover en Define fase, oftewel de eerste "d
 ## Discovery
 
 ### Doestellingen
-De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was van het probleem, namelijk stress en werkdruk, terugbouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
+De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was om van het probleem, namelijk stress en werkdruk, terug te bouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
 ### Materiaal & methoden
 Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem. Hiervoor werd een SOTA-schema ingevuld: [probleem begrijpen](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYZiQVYa3X1GpeBhcyGcWEcBCuQ2lsjSfwrgRcfts3pVXg?e=htsKas) Nu kon de doelstelling worden opgesteld en de juiste methodes worden gekozen. Voor deze fase werden twee methoden gebruikt, namelijk een user interview en een liturature review. Bij het eerste onderzoek werd gekeken naar de grootte en omvang van het probleem, hoe de stress gemeten kan worden en in welke mate de kantooromgeving de fysieke gezondheid beïnvloedt. Omdat deze vragen allemaal objectieve, concrete antwoorden hebben, werd hiervoor een liturature revieuw gebruikt. Bij het tweede onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk. Omdat iedereen dit anders kan ervaren en diep moet worden geprobed werd hier geopteerd voor een user interview. Voor beide onderzoeken is er enkel een laptop nodig.
 ### Resultaten
@@ -93,6 +90,9 @@ De hoofddoelen van ons product zijn werkefficiëntie verhogen, communicatie tuss
 We komen langs op kantoor bij enkele mensen van onze doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen.
 #### Resultaten
 ##### Test 1 (product - gebruiker):
+![test 1 ilse](https://github.com/user-attachments/assets/9d2cbe4f-19d9-45d3-b653-214c3f2f37d0)
+<br>
+<br>
 Deze tabel bevat de gemiddelde scores van alle participanten. Voor de scores per participant kan gekeken worden in het rapport van Wave 2.
 |   | Gekleurd licht | Flikkerend licht | Geluid  | Trillen hub   | Trillen armband   |
 | -------- | :---: | :---: | :---: | :---: | :---: |
@@ -112,7 +112,8 @@ Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
 
 ##### Test 2 (product - collega's):
 ![Schermafbeelding 2025-01-08 120632](https://github.com/user-attachments/assets/47298b2b-ffc2-44d5-97f2-5917d38dfa6f)
-
+<br>
+<br>
 Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor de antwoorden per participant kan gekeken worden in het rapport van Wave 2.
 |   | Groen  | Geel | Oranje  | Rood   | Blauw   | Wit  |
 | -------- | --- | --- | --- | --- | --- | --- |
@@ -135,7 +136,7 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
   --> idealiter te verbinden met de centrale interface om kleur te verkrijgen
   
 ## Kritische reflectie
-In het algemeen zit het project op schema. De eerste stappen (discovery) gingen moeizaam, wat logisch is, maar er komt meer en meer vorm en structuur in het project. 
+In het algemeen zit het project op schema. Bij de eerste stappen hadden we moeite met het afbakenen van ons project, wat logisch is, maar er komt meer en meer vorm en structuur in het project. 
 Bij elke stap dat we zetten is er een duidelijke vooruitgang, wat helpt bij de voldoening die bij dit project moet horen. Er zijn duidelijk signalen vanuit de doelgroep die aantonen dat we een probleem hebben gevonden waar nog geen concrete oplossing voor is, maar deze is zeer gewild. De grootste uitdagingen die nu volgen is zijn blijven verbeteren van het product, maar hierbij ook rekening houden met de wensen van de doelgroep. We krijgen heel vele input en de interviews geven veel info, pains en gains, maar het is natuurlijk veel werk om deze allemaal om te zetten in prototypes die uiteindelijk tot een product zullen leiden.
 
 ## Bronnen

@@ -57,6 +57,11 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
 ## Definition
 
+Uit onze discovery kunnen de belangrijkste aspecten van onze oplossing gebundeld worden:
+1. Werkefficiëntie verhogen
+2. Onderlinge communicatie verbeteren
+(3. Pauze en voldoening)
+
 Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep.
 
 ### <ins>Wave 1: conceptvalidatie</ins> (N=5)

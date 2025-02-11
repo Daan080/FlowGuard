@@ -164,22 +164,22 @@ In het algemeen zit het project op schema. Bij de eerste stappen hadden we moeit
 
 
 ## Bijlagen
-###Discovery
-####sota
+### Discovery
+#### sota
 [probleem begrijpen](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYZiQVYa3X1GpeBhcyGcWEcBCuQ2lsjSfwrgRcfts3pVXg?e=htsKas) 
-####interview:
+#### interview:
  - [protocol literature review](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYpVumC9AlxBmpwN7W_w8noBH8tK7tr-haeAGWDRJd8HZw?e=Flreca)
  - [rapport liturature review](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYjzPVNM5MlDtGjL6JG0BmEBA4-ypAOcKbPFT_Lwt5zPCQ?e=Kymsm6)
-####literature review:
+#### literature review:
  - [protocol user interview](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EVttx7hZB4NGqJ2PyaAd68YBLmTs2JdSK9g-d2r60UxG-A?e=s8rgYk)
  - [rapport user interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZvQVpeR4VxAmggA3FAxTc0B6XfqyNkIsUj1BHddXhz0ng?e=vbvpyg)
-####inovatrix
+#### inovatrix
 [innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p)
-###Definition
-####wave 1
+### Definition
+#### wave 1
 - [Wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
 - [Wave 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EcPC2BOr4uxJpqWIRvKC0M4BQ8RbzJkPKD4grVZVPXoH9Q?e=gx1EWL)
-####wave 2
+#### wave 2
 - [Wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
 - [Wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
  

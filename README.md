@@ -49,7 +49,7 @@ Bij de tweede methode, namelijk user interviews werden een 3-tal respondenten on
 ### Conclusies & implicaties
 De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, onderappreciatie en weinig fysieke beweging/pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen ontstaan die uitgroeien tot grotere, vermijdbare problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden. Hierdoor is meer werk gedaan en zal de werkdruk en thuiswerk verminderen. Een ander belangrijk aspect is de stress, aangezien dit moeilijk blijkt te zien en moeilijk valt te communiceren. Er is nood aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
 <br>
-Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken. <ins> Om al deze zaken nog eens duidelijker te kaderen en eens na te denken over de requirements, werd een innovatrix ingevuld: [innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p) </ins>
+Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken. <ins> Om al deze zaken nog eens duidelijker te kaderen en eens na te denken over de requirements, werd een innovatrix ingevuld (bijlagen) </ins>
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 <br>
 <br>
@@ -88,12 +88,7 @@ Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 #### MoSCow review
 <img src="https://github.com/user-attachments/assets/4ce280fb-c397-47f1-8e00-9434724d46a4" alt="Alt Text" width="700">
 
-#### Protocol
-[Wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
-#### Rapport
-[Wave 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EcPC2BOr4uxJpqWIRvKC0M4BQ8RbzJkPKD4grVZVPXoH9Q?e=gx1EWL)
-<br>
-<br>
+
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
 
 #### Doelstellingen
@@ -142,10 +137,6 @@ Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor 
 We stellen vast bij een steekproef van 5 participanten dat de kleuren rood en groen een éénduidige emotie opbrengen bij alle participanten. Dit zorgt ervoor dat we deze makkelijk kunnen inbrengen in het ontwerp zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in ons product, zonder dat hierover verwarring ontstaat. Hierbij horen blauw, wit en mogelijks nog andere extrensieke kleuren. Dit kan dan dienen voor nog nader te bepalen functies of andere variabelen van het product. Een laatste groep kleuren wekken hetzelfde gevoel op als de extremen groen en rood, maar met minder overtuiging. Hierbij hoort geel en mogelijks oranje.
 #### Conclusies & implicaties
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Initieel wordt het meeste voorkeur gegeven aan trillen van een armband of communicatie met een geluid. Het laatste is echter te storend voor de omgeving, net als flikkerend licht en zal daardoor wegvallen. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe wordt gekeken welke lichtkleuren kunnen worden gebruikt in het product. Er wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
-#### Protocol
-[Wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
-#### Rapport
-[Wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
 
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.
@@ -173,13 +164,22 @@ In het algemeen zit het project op schema. Bij de eerste stappen hadden we moeit
 
 
 ## Bijlagen
-#Discovery
- [probleem begrijpen](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYZiQVYa3X1GpeBhcyGcWEcBCuQ2lsjSfwrgRcfts3pVXg?e=htsKas) 
- interview:
+###Discovery
+####sota
+[probleem begrijpen](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYZiQVYa3X1GpeBhcyGcWEcBCuQ2lsjSfwrgRcfts3pVXg?e=htsKas) 
+####interview:
  - [protocol literature review](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYpVumC9AlxBmpwN7W_w8noBH8tK7tr-haeAGWDRJd8HZw?e=Flreca)
  - [rapport liturature review](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYjzPVNM5MlDtGjL6JG0BmEBA4-ypAOcKbPFT_Lwt5zPCQ?e=Kymsm6)
- literature review:
+####literature review:
  - [protocol user interview](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EVttx7hZB4NGqJ2PyaAd68YBLmTs2JdSK9g-d2r60UxG-A?e=s8rgYk)
  - [rapport user interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZvQVpeR4VxAmggA3FAxTc0B6XfqyNkIsUj1BHddXhz0ng?e=vbvpyg)
-
-   
+####inovatrix
+[innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p)
+###Definition
+####wave 1
+- [Wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
+- [Wave 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EcPC2BOr4uxJpqWIRvKC0M4BQ8RbzJkPKD4grVZVPXoH9Q?e=gx1EWL)
+####wave 2
+- [Wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
+- [Wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
+ 

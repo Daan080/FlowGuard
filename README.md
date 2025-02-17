@@ -55,6 +55,8 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 <br>
 ![image](https://github.com/user-attachments/assets/169d878a-6bec-4f0f-83af-8bdb21c2395a)
 
+### Requirements
+
 ## Definition
 
 Uit onze discovery kunnen de belangrijkste aspecten van onze oplossing gebundeld worden:
@@ -137,6 +139,8 @@ Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor 
 We stellen vast bij een steekproef van 5 participanten dat de kleuren rood en groen een éénduidige emotie opbrengen bij alle participanten. Dit zorgt ervoor dat we deze makkelijk kunnen inbrengen in het ontwerp zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in ons product, zonder dat hierover verwarring ontstaat. Hierbij horen blauw, wit en mogelijks nog andere extrensieke kleuren. Dit kan dan dienen voor nog nader te bepalen functies of andere variabelen van het product. Een laatste groep kleuren wekken hetzelfde gevoel op als de extremen groen en rood, maar met minder overtuiging. Hierbij hoort geel en mogelijks oranje.
 #### Conclusies & implicaties
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Initieel wordt het meeste voorkeur gegeven aan trillen van een armband of communicatie met een geluid. Het laatste is echter te storend voor de omgeving, net als flikkerend licht en zal daardoor wegvallen. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe wordt gekeken welke lichtkleuren kunnen worden gebruikt in het product. Er wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
+
+### Requirements
 
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.

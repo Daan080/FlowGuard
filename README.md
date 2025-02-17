@@ -53,7 +53,8 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/169d878a-6bec-4f0f-83af-8bdb21c2395a)
+![image](https://github.com/user-attachments/assets/302374ed-6327-4e6e-b250-b6847aa13ab9)
+
 
 ### Requirements
 

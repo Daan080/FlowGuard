@@ -27,7 +27,7 @@ Bronnen:
 Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar
 
 ## Methodologie
-Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "double diamond". Deze helpt om meerdere malen te convergeren en te divergeren. Het eerste semester hebben we de eerste "diamond" doorlopen: de discovery en de define fase. Het tweede semester zijn we meer in detail gegaan en hebben we de rest van de ontwerpmethode doorlopen. Bij elke stap in het proces is nog eens gebruik gemaakt van extra, meer gedetaileerde, ontwerpmethoden om specifieke deelproblemen en stappen op te lossen en te vervolledigen.
+Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "double diamond".
 
 ![Mainmethods et all _ BB](https://github.com/user-attachments/assets/08afe971-c23a-49a9-9bfc-0b0bcaf553a1)
 
@@ -36,7 +36,7 @@ Het eerste semester vervulden we de Discover en Define fase, oftewel de eerste "
 
 ## Discovery
 
-### Doestellingen
+### Doelstellingen
 De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was om van het probleem, namelijk stress en werkdruk, terug te bouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
 ### Materiaal & methoden
 Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem. Hiervoor werd een SOTA-schema ingevuld (zie bijlagen). Nu kon de doelstelling worden opgesteld en de juiste methodes worden gekozen. Voor deze fase werden twee methoden gebruikt, namelijk een user interview en een liturature review. Bij het eerste onderzoek werd gekeken naar de grootte en omvang van het probleem, hoe de stress gemeten kan worden en in welke mate de kantooromgeving de fysieke gezondheid beïnvloedt. Omdat deze vragen allemaal objectieve, concrete antwoorden hebben, werd hiervoor een liturature revieuw gebruikt. Bij het tweede onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk. Omdat iedereen dit anders kan ervaren en diep moet worden geprobed werd hier geopteerd voor een user interview. Voor beide onderzoeken is er enkel een laptop nodig.
@@ -58,6 +58,12 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
 ### Requirements
 
+|ID| Metriek | Gewenste waarde | Eenheid  | Testmethode | Bron | Datum |
+| -------- | :---: | :---: | :---: | :---: | :---: |:---: |
+|*Groep 1* | *Communicatie* | 3.2 | 4.6 | 3.4 | 3.75 |3.75 |
+|*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
+|*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
+
 ## Definition
 
 Uit onze discovery kunnen de belangrijkste aspecten van onze oplossing gebundeld worden:
@@ -72,7 +78,10 @@ Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter t
 #### Doelstellingen
 Het doel van deze conceptvalidatie is om ons gevonden concept met de eerste mockups voor te stellen aan de doelgroep en hun meningen, inzichten en onduidelijkheden te capteren.
 #### Materiaal & methoden
-We laten de testpersonen kennis maken met ons concept en stellen enkele open en gerichte vragen. Voor een gedetailleerd stappenplan verwijs ik door naar het protocol van Wave 1. Hiervoor hebben we juist een laptop nodig om de antwoorden te capteren.
+We laten de testpersonen kennis maken met ons concept en stellen enkele open en gerichte vragen. Voor een gedetailleerd stappenplan verwijs ik door naar het protocol van Wave 1. Hiervoor hebben we juist een laptop nodig om de antwoorden te capteren. Om onze gebruikers een beeld te geven van onze eerste visie van ons product, maakten we 2 quick-and-dirty prototypes om mee te interageren.
+
+foto:
+
 #### Resultaten
 Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden. Voor fysieke beweging tijdens het werk verschillen de meningen: sommigen vinden dat er meer moet worden bewogen of rechtgestaan, maar een kleine meerderheid vindt dat niet nodig tijdens de werkuren.
 
@@ -97,7 +106,8 @@ Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 #### Doelstellingen
 De hoofddoelen van ons product zijn werkefficiëntie verhogen, communicatie tussen collega's verbeteren en voldoening brengen tijdens het werken. Om deze zaken te vervullen zal het product in staat moeten zijn om duidelijk te communiceren. Bij het gebruik van ons product zullen er twee vormen van communicatie voorkomen: het aanraden van pauzes naar de gebruiker toe (product – gebruiker) en het communiceren van de werkstatus met collega's (product – collega's). Aan de hand van twee testen proberen we te achterhalen welke signalen optimaal zijn voor elke vorm van communicatie. 
 #### Materiaal & methoden
-We komen langs op kantoor bij enkele mensen van onze doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen.
+We komen langs op kantoor bij enkele mensen van onze doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen. Het prototype is een doos gemaakt uit MDF en plexiglas met ruimte om een smartphone in te plaatsen en focust puur op de functie om signalen te kunnen verzenden en is niet bedoeld om het voorkomen van het product te representeren.
+
 #### Resultaten
 ##### Test 1 (product - gebruiker):
 <img src="https://github.com/user-attachments/assets/9d2cbe4f-19d9-45d3-b653-214c3f2f37d0" alt="Alt Text" width="700">
@@ -142,6 +152,12 @@ We stellen vast bij een steekproef van 5 participanten dat de kleuren rood en gr
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Initieel wordt het meeste voorkeur gegeven aan trillen van een armband of communicatie met een geluid. Het laatste is echter te storend voor de omgeving, net als flikkerend licht en zal daardoor wegvallen. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe wordt gekeken welke lichtkleuren kunnen worden gebruikt in het product. Er wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
 ### Requirements
+
+|ID| Metriek | Gewenste waarde | Eenheid  | Testmethode | Bron | Datum |
+| -------- | :---: | :---: | :---: | :---: | :---: |:---: |
+|*Groep 1* | *Communicatie* | 3.2 | 4.6 | 3.4 | 3.75 |3.75 |
+|*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
+|*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
 
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.

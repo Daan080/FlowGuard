@@ -64,6 +64,30 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 |*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
 |*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
 
+
+| -	Empathisch: communicatie. Belangrijk voor efficiëntie en groepssfeer. | 
+  Kan ook helpen bij het halen van deadlines of persoonlijke problemen.
+  o	tonen aan collega’s wanneer je liever niet gestoord wordt
+  	Focussen op efficiënt werken
+  o	tonen wanneer je stress/werkdruk hebt.
+  o	Zorgen voor appreciatie
+
+  -	Stress en werkdruk vermijden
+  o	Werk en thuis gescheiden houden
+  o	Werk zo efficiënt, leuk en effectief mogelijk te doen. |
+
+  -	Zorgen dat er ruimte is voor pauzes
+  o	Beweging tijdens de pauzes
+| -	Om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting en misschien ook galvanische huidrespons. Dit kan misschien nog veranderen wanneer latere ontwerpkeuzes gemaakt worden. |
+-	Het probleem is alomtegenwoordig dus is er veel ruimte voor modificaties en kan het daardoor later gebruikt worden door meerdere doelgroepen. Dit is een vooruitblik op de toekomst.
+-	Fysieke beweging is zeer belangrijk om gezond te blijven. Dit wordt echter weerhouden in de context van mijn probleem. Dit kan dus ook geïntegreerd worden in het product. 
+-	Er zijn meerdere stressfactoren waarop kan worden ingespeeld:
+o	Omgeving
+o	Kwaliteit van werken
+o	Organisatie
+o	Werkhoeveelheid |
+
+
 ## Definition
 
 Uit onze discovery kunnen de belangrijkste aspecten van onze oplossing gebundeld worden:
@@ -158,6 +182,10 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 |*Groep 1* | *Communicatie* | 3.2 | 4.6 | 3.4 | 3.75 |3.75 |
 |*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
 |*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
+
+Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een intuïtieve instelling van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. Stressmetingen kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende meldingen gefilterd worden tijdens focusstand. Wat betreft de vormgeving moet het product herkenbaar en opvallend zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor focusstatus moet aanwezig zijn, liefst een kleurlicht. Ten slotte moeten gebruikers instellingen kunnen personaliseren, want iedereen werkt op een andere manier
+
+Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe volstaat in het algemeen groen en rood om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.

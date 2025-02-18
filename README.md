@@ -58,11 +58,19 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
 ### Requirements
 
-|ID| Metriek | Gewenste waarde | Eenheid  | Testmethode | Bron | Datum |
-| -------- | :---: | :---: | :---: | :---: | :---: |:---: |
-|*Groep 1* | *Communicatie* | 3.2 | 4.6 | 3.4 | 3.75 |3.75 |
-|*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
-|*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
+|ID| Design Requirement | Bron | Datum |
+| -------- | :--- | :---: | :---: |
+|*Groep 1* | *Werkefficiëntie* |  |  |
+| 1.1 | Er moeten pauzes aangeraden worden |  |  |
+| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  |  |
+| 1.3 | Onnodige meldingen moeten weggefilterd worden |  |  |
+| 1.3 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  |  |
+|*Groep 2* | *Communicatie* | 3.4 | 3.2 |
+| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  |  |
+| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  |  |
+| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  |  |
+|*Groep 3* | *Voldoening* | 3.4 | 3.2 |
+| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  |  |
 
 
 | -	Empathisch: communicatie. Belangrijk voor efficiëntie en groepssfeer. | 
@@ -104,7 +112,9 @@ Het doel van deze conceptvalidatie is om ons gevonden concept met de eerste mock
 #### Materiaal & methoden
 We laten de testpersonen kennis maken met ons concept en stellen enkele open en gerichte vragen. Voor een gedetailleerd stappenplan verwijs ik door naar het protocol van Wave 1. Hiervoor hebben we juist een laptop nodig om de antwoorden te capteren. Om onze gebruikers een beeld te geven van onze eerste visie van ons product, maakten we 2 quick-and-dirty prototypes om mee te interageren.
 
-foto:
+![Prototype 2 - Wave 1](https://github.com/user-attachments/assets/49fa4dd4-5dcc-4e52-8027-dddf6a878e4b)
+![Prototype 1 - Wave 1](https://github.com/user-attachments/assets/67220488-de7e-4cd0-8e5a-e88ee4fedace)
+
 
 #### Resultaten
 Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden. Voor fysieke beweging tijdens het werk verschillen de meningen: sommigen vinden dat er meer moet worden bewogen of rechtgestaan, maar een kleine meerderheid vindt dat niet nodig tijdens de werkuren.

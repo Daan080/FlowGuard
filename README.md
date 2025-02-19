@@ -27,7 +27,7 @@ Bronnen:
 Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar
 
 ## Methodologie
-Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "double diamond".
+Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "quadriple diamond".
 
 ![Mainmethods et all _ BB](https://github.com/user-attachments/assets/08afe971-c23a-49a9-9bfc-0b0bcaf553a1)
 

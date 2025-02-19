@@ -65,11 +65,12 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 | 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  |  |
 | 1.3 | Onnodige meldingen moeten weggefilterd worden |  |  |
 | 1.3 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  |  |
-|*Groep 2* | *Communicatie* | 3.4 | 3.2 |
+|*Groep 2* | *Communicatie* |  |  |
 | 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  |  |
 | 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  |  |
 | 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  |  |
-|*Groep 3* | *Voldoening* | 3.4 | 3.2 |
+| 2.4 | Stress moet gemeten en gecommuniceerd worden |  |  |
+|*Groep 3* | *Voldoening* |  |  |
 | 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  |  |
 
 

@@ -194,6 +194,33 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 |*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
 |*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
 
+|ID| Design Requirement | Bron | Datum |
+| -------- | :--- | :---: | :---: |
+|*Groep 1* | *Werkefficiëntie* |  |  |
+| 1.1 | Er moeten pauzes aangeraden worden |  |  |
+| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  |  |
+| 1.3 | Onnodige meldingen moeten weggefilterd worden |  |  |
+| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  |  |
+|*Groep 2* | *Communicatie* |  |  |
+| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  |  |
+| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  |  |
+| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  |  |
+| 2.4 | Stress moet gemeten en gecommuniceerd worden |  |  |
+| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst |  |  |
+| 2.6 | De focusstand van de gebruiker wordt gecomuniceerd met een visuele indicator, namelijk kleur |  |  |
+| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht |  |  |
+| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend masserend patroon op de pols |  |  |
+| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt |  |  |
+|*Groep 3* | *Voldoening* |  |  |
+| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  |  |
+|*Groep 4* | *Algemeen* |  |  |
+| 4.1 | Het product is snel en intuïtief in te stellen |  |  |
+| 4.2 | Het product kan op elk moment opnieuw worden ingesteld, of de instellingen worden aangepast |  |  |
+| 4.3 | Het voorkomen van het product is opvallend om aandacht op zich te kunnen brengen |  |  |
+| 4.4 | Een focusstand moet gebruiker ongestoorde rust bieden |  |  |
+| 4.5 | Tekst op het product dient in het Nederlands te zijn voor makkelijker gebruik |  |  |
+
+
 Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een intuïtieve instelling van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. Stressmetingen kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende meldingen gefilterd worden tijdens focusstand. Wat betreft de vormgeving moet het product herkenbaar en opvallend zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor focusstatus moet aanwezig zijn, liefst een kleurlicht. Ten slotte moeten gebruikers instellingen kunnen personaliseren, want iedereen werkt op een andere manier
 
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe volstaat in het algemeen groen en rood om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.

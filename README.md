@@ -60,18 +60,20 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
 |ID| Design Requirement | Bron | Datum |
 | -------- | :--- | :---: | :---: |
-|*Groep 1* | *Werkefficiëntie* |  |  |
-| 1.1 | Er moeten pauzes aangeraden worden |  |  |
-| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  |  |
-| 1.3 | Onnodige meldingen moeten weggefilterd worden |  |  |
-| 1.3 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  |  |
-|*Groep 2* | *Communicatie* |  |  |
-| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  |  |
-| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  |  |
-| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  |  |
-| 2.4 | Stress moet gemeten en gecommuniceerd worden |  |  |
-|*Groep 3* | *Voldoening* |  |  |
-| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  |  |
+| *Groep 1* | *Werkefficiëntie* |  |  |
+| 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
+| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  | 17/10/2024 |
+| 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
+| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
+| *Groep 2* | *Communicatie* |  |  |
+| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  | 01/12/2024 |
+| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  | 27/10/2024 |
+| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  | 01/12/2024 |
+| 2.4 | Stress moet gemeten en gecommuniceerd worden |  | 24/10/2024 |
+| *Groep 3* | *Voldoening* |  |  |
+| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
+| *Groep 4* | *Algemeen* |  |  |
+| 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
 
 
 | -	Empathisch: communicatie. Belangrijk voor efficiëntie en groepssfeer. | 
@@ -111,7 +113,7 @@ Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter t
 #### Doelstellingen
 Het doel van deze conceptvalidatie is om ons gevonden concept met de eerste mockups voor te stellen aan de doelgroep en hun meningen, inzichten en onduidelijkheden te capteren.
 #### Materiaal & methoden
-We laten de testpersonen kennis maken met ons concept en stellen enkele open en gerichte vragen. Voor een gedetailleerd stappenplan verwijs ik door naar het protocol van Wave 1. Hiervoor hebben we juist een laptop nodig om de antwoorden te capteren. Om onze gebruikers een beeld te geven van onze eerste visie van ons product, maakten we 2 quick-and-dirty prototypes om mee te interageren.
+We laten de testpersonen kennis maken met ons concept en stellen enkele open en gerichte vragen. Voor een gedetailleerd stappenplan verwijs ik door naar het protocol van Wave 1. Hiervoor hebben we juist een laptop nodig om de antwoorden te capteren. Om onze gebruikers een beeld te geven van onze eerste visie van ons product, maakten we 2 quick-and-dirty prototypes om mee te interageren. Deze prototypes dienen om de functies van het concept uit te lichten, maar kunnen deze niet uitoefenen. Het **prototype dient dus vooral om het idee te communiceren met de doelgroep op visueel vlak**.
 
 ![Prototype 2 - Wave 1](https://github.com/user-attachments/assets/49fa4dd4-5dcc-4e52-8027-dddf6a878e4b)
 ![Prototype 1 - Wave 1](https://github.com/user-attachments/assets/67220488-de7e-4cd0-8e5a-e88ee4fedace)
@@ -141,7 +143,7 @@ Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 #### Doelstellingen
 De hoofddoelen van ons product zijn werkefficiëntie verhogen, communicatie tussen collega's verbeteren en voldoening brengen tijdens het werken. Om deze zaken te vervullen zal het product in staat moeten zijn om duidelijk te communiceren. Bij het gebruik van ons product zullen er twee vormen van communicatie voorkomen: het aanraden van pauzes naar de gebruiker toe (product – gebruiker) en het communiceren van de werkstatus met collega's (product – collega's). Aan de hand van twee testen proberen we te achterhalen welke signalen optimaal zijn voor elke vorm van communicatie. 
 #### Materiaal & methoden
-We komen langs op kantoor bij enkele mensen van onze doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen. Het prototype is een doos gemaakt uit MDF en plexiglas met ruimte om een smartphone in te plaatsen en focust puur op de functie om signalen te kunnen verzenden en is niet bedoeld om het voorkomen van het product te representeren.
+We komen langs op kantoor bij enkele mensen van onze doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen. Het prototype is een doos gemaakt uit MDF en plexiglas met ruimte om een smartphone in te plaatsen en focust puur op de functie om signalen te kunnen verzenden en is niet bedoeld om het voorkomen van het product te representeren. We hebben dus gekozen voor een **functioneel, ruw prototype** in de plaats van een esthetisch prototype.
 
 #### Resultaten
 ##### Test 1 (product - gebruiker):
@@ -197,28 +199,28 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 |ID| Design Requirement | Bron | Datum |
 | -------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
-| 1.1 | Er moeten pauzes aangeraden worden |  |  |
-| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  |  |
-| 1.3 | Onnodige meldingen moeten weggefilterd worden |  |  |
-| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  |  |
+| 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
+| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  | 17/10/2024 |
+| 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
+| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
 |*Groep 2* | *Communicatie* |  |  |
-| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  |  |
-| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  |  |
-| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  |  |
-| 2.4 | Stress moet gemeten en gecommuniceerd worden |  |  |
-| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst |  |  |
-| 2.6 | De focusstand van de gebruiker wordt gecomuniceerd met een visuele indicator, namelijk kleur |  |  |
-| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht |  |  |
-| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend masserend patroon op de pols |  |  |
-| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt |  |  |
+| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  | 01/12/2024 |
+| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  | 27/10/2024 |
+| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  | 01/12/2024 |
+| 2.4 | Stress moet gemeten en gecommuniceerd worden |  | 24/10/2024 |
+| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst |  | 01/12/2024 |
+| 2.6 | De focusstand van de gebruiker wordt gecomuniceerd met een visuele indicator, namelijk kleur |  | 01/12/2024 |
+| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht |  | 16/12/2024 |
+| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend masserend patroon op de pols |  | 16/12/2024 |
+| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt |  | 16/12/2024 |
 |*Groep 3* | *Voldoening* |  |  |
-| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  |  |
+| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
 |*Groep 4* | *Algemeen* |  |  |
-| 4.1 | Het product is snel en intuïtief in te stellen |  |  |
-| 4.2 | Het product kan op elk moment opnieuw worden ingesteld, of de instellingen worden aangepast |  |  |
-| 4.3 | Het voorkomen van het product is opvallend om aandacht op zich te kunnen brengen |  |  |
-| 4.4 | Een focusstand moet gebruiker ongestoorde rust bieden |  |  |
-| 4.5 | Tekst op het product dient in het Nederlands te zijn voor makkelijker gebruik |  |  |
+| 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
+| 4.2 | Het product is snel en intuïtief in te stellen |  | 01/12/2024 |
+| 4.3 | Het product kan op elk moment opnieuw worden ingesteld, of de instellingen worden aangepast |  | 01/12/2024 |
+| 4.4 | Het voorkomen van het product is opvallend om aandacht op zich te kunnen brengen |  | 01/12/2024 |
+| 4.5 | Tekst op het product dient in het Nederlands te zijn voor makkelijker gebruik |  | 16/12/2024 |
 
 
 Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een intuïtieve instelling van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. Stressmetingen kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende meldingen gefilterd worden tijdens focusstand. Wat betreft de vormgeving moet het product herkenbaar en opvallend zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor focusstatus moet aanwezig zijn, liefst een kleurlicht. Ten slotte moeten gebruikers instellingen kunnen personaliseren, want iedereen werkt op een andere manier

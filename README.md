@@ -170,7 +170,7 @@ Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
 - **Trillen via de hub** is redelijk opvallend en stoort de omgeving niet veel, maar het activeert het slechtst en wordt als het minst aangenaam ervaren. Dit komt waarschijnlijk door de associatie met het trillen van een gsm. Eén van de testpersonen had het trilsignaal zelfs niet opgemerkt omdat hij dacht dat het een gsm van de observators was.
 - **Trillen via een armband** biedt een mooie balans: het trekt voldoende aandacht, motiveert goed tot actie en stoort collega's bijna niet. Het signaal is vrij lastig te negeren en op aangenaamheid scoort de armband maar middelmatig.
 
- >> “Als stress op een andere manier wordt gemeld, waardoor je zeker weet dat je stress hebt, dan zal dit leiden tot meer stress”
+ > “Als stress op een andere manier wordt gemeld, waardoor je zeker weet dat je stress hebt, dan zal dit leiden tot meer stress”
 
 ##### Test 2 (product - collega's):
 <img src="https://github.com/user-attachments/assets/47298b2b-ffc2-44d5-97f2-5917d38dfa6f" alt="Alt Text" width="700">

@@ -106,7 +106,9 @@ Uit onze discovery kunnen de belangrijkste aspecten van onze oplossing gebundeld
 2. Onderlinge communicatie verbeteren
 (3. Pauze en voldoening)
 
-Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep.
+Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep. Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.
+![sotryboard](https://github.com/user-attachments/assets/6f3207b5-ab8e-4577-8222-387608e9e4e1)
+
 
 ### <ins>Wave 1: conceptvalidatie</ins> (N=5)
 

@@ -231,6 +231,67 @@ Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe volstaat in het algemeen groen en rood om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
+## Define 1 (N = 4)
+
+### Doelstellingen
+Om de volgende stappen in het proces makkelijker te maken het product meer de definiëren is nood aan een interace. Deze zal het fysieke aspect van het product bepalen en de integratie van electronica meer geordend maken. In deze test zullen we dus kijken waar de zaken zich bevinden op de centrale interface samen met de indeling van de website die bij het product hoort. 
+
+### Materiaal & methoden
+Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think aloud' interview om de indeling van de interface te bepalen en een interactief website-prototype op figma om deze layout te onderzoeken en te beoordelen. Om de 4 participanten zoveel mogelijk vrijheid te geven en de indeling van de interface worden geen voorgemaakte interfaces aangeboden maar lege foam-modellen waarop ze zelf de knoppen kunnen ordenen. De gebruikte zaken zijn:
+-
+-
+-
+-
+De voorgemaakte layout's voor de website zien er uit als volgt:
+
+
+Deze kunnen worden getest met volgende link: [prototype website](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
+### Resultaten
+
+### Conclusies & implicaties
+
+### Requirements
+
+|ID| Design Requirement | Bron | Datum |
+| -------- | :--- | :---: | :---: |
+| *Groep 1* | *Werkefficiëntie* |  |  |
+| 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
+| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  | 17/10/2024 |
+| 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
+| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
+| *Groep 2* | *Communicatie* |  |  |
+| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  | 01/12/2024 |
+| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  | 27/10/2024 |
+| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  | 01/12/2024 |
+| 2.4 | Stress moet gemeten en gecommuniceerd worden |  | 24/10/2024 |
+| *Groep 3* | *Voldoening* |  |  |
+| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
+| *Groep 4* | *Algemeen* |  |  |
+| 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
+
+
+| -	Empathisch: communicatie. Belangrijk voor efficiëntie en groepssfeer. | 
+  Kan ook helpen bij het halen van deadlines of persoonlijke problemen.
+  o	tonen aan collega’s wanneer je liever niet gestoord wordt
+  	Focussen op efficiënt werken
+  o	tonen wanneer je stress/werkdruk hebt.
+  o	Zorgen voor appreciatie
+
+  -	Stress en werkdruk vermijden
+  o	Werk en thuis gescheiden houden
+  o	Werk zo efficiënt, leuk en effectief mogelijk te doen. |
+
+  -	Zorgen dat er ruimte is voor pauzes
+  o	Beweging tijdens de pauzes
+| -	Om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting en misschien ook galvanische huidrespons. Dit kan misschien nog veranderen wanneer latere ontwerpkeuzes gemaakt worden. |
+-	Het probleem is alomtegenwoordig dus is er veel ruimte voor modificaties en kan het daardoor later gebruikt worden door meerdere doelgroepen. Dit is een vooruitblik op de toekomst.
+-	Fysieke beweging is zeer belangrijk om gezond te blijven. Dit wordt echter weerhouden in de context van mijn probleem. Dit kan dus ook geïntegreerd worden in het product. 
+-	Er zijn meerdere stressfactoren waarop kan worden ingespeeld:
+o	Omgeving
+o	Kwaliteit van werken
+o	Organisatie
+o	Werkhoeveelheid |
+
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.
 - elektronica voor het maken van een klok/timer

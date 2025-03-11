@@ -227,7 +227,7 @@ De voorgemaakte layout's voor de website zien er uit als volgt:
 ![image](https://github.com/user-attachments/assets/68607032-c091-42c5-97b3-3af706aceef4)
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 Naast de layout van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
-<img src="https://github.com/user-attachments/assets/47298b2b-ffc2-44d5-97f2-5917d38dfa6f" alt="Alt Text" width="500">
+<img src="https://github.com/user-attachments/assets/b29024b4-88a3-4517-b20a-01010b7ed53a" alt="Alt Text" width="700">
 Om de beste layout er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en dezeze achteraf te analyseren.
 
 ### Resultaten

@@ -173,12 +173,6 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 
 ### Requirements
 
-|ID| Metriek | Gewenste waarde | Eenheid  | Testmethode | Bron | Datum |
-| -------- | :---: | :---: | :---: | :---: | :---: |:---: |
-|*Groep 1* | *Communicatie* | 3.2 | 4.6 | 3.4 | 3.75 |3.75 |
-|*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
-|*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
-
 |ID| Design Requirement | Bron | Datum |
 | -------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
@@ -228,6 +222,7 @@ De voorgemaakte layout's voor de website zien er uit als volgt:
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 Naast de layout van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
 <img src="https://github.com/user-attachments/assets/b29024b4-88a3-4517-b20a-01010b7ed53a" alt="Alt Text" width="700">
+<br>
 Om de beste layout er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en dezeze achteraf te analyseren.
 
 ### Resultaten
@@ -236,45 +231,38 @@ Om de beste layout er uit te halen wordt aan de participanten gevraagd om websit
 
 ### Requirements
 
+
+|ID| Metriek | Gewenste waarde | Eenheid  | Testmethode | Bron | Datum |
+| -------- | :---: | :---: | :---: | :---: | :---: |:---: |
+|*Groep 1* | *Communicatie* | 3.2 | 4.6 | 3.4 | 3.75 |3.75 |
+|*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
+|*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
+
 |ID| Design Requirement | Bron | Datum |
 | -------- | :--- | :---: | :---: |
-| *Groep 1* | *Werkefficiëntie* |  |  |
+|*Groep 1* | *Werkefficiëntie* |  |  |
 | 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
 | 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  | 17/10/2024 |
 | 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
 | 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
-| *Groep 2* | *Communicatie* |  |  |
+|*Groep 2* | *Communicatie* |  |  |
 | 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  | 01/12/2024 |
 | 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  | 27/10/2024 |
 | 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  | 01/12/2024 |
 | 2.4 | Stress moet gemeten en gecommuniceerd worden |  | 24/10/2024 |
-| *Groep 3* | *Voldoening* |  |  |
+| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst |  | 01/12/2024 |
+| 2.6 | De focusstand van de gebruiker wordt gecomuniceerd met een visuele indicator, namelijk kleur |  | 01/12/2024 |
+| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht |  | 16/12/2024 |
+| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend masserend patroon op de pols |  | 16/12/2024 |
+| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt |  | 16/12/2024 |
+|*Groep 3* | *Voldoening* |  |  |
 | 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
-| *Groep 4* | *Algemeen* |  |  |
+|*Groep 4* | *Algemeen* |  |  |
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
-
-
-| -	Empathisch: communicatie. Belangrijk voor efficiëntie en groepssfeer. | 
-  Kan ook helpen bij het halen van deadlines of persoonlijke problemen.
-  o	tonen aan collega’s wanneer je liever niet gestoord wordt
-  	Focussen op efficiënt werken
-  o	tonen wanneer je stress/werkdruk hebt.
-  o	Zorgen voor appreciatie
-
-  -	Stress en werkdruk vermijden
-  o	Werk en thuis gescheiden houden
-  o	Werk zo efficiënt, leuk en effectief mogelijk te doen. |
-
-  -	Zorgen dat er ruimte is voor pauzes
-  o	Beweging tijdens de pauzes
-| -	Om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting en misschien ook galvanische huidrespons. Dit kan misschien nog veranderen wanneer latere ontwerpkeuzes gemaakt worden. |
--	Het probleem is alomtegenwoordig dus is er veel ruimte voor modificaties en kan het daardoor later gebruikt worden door meerdere doelgroepen. Dit is een vooruitblik op de toekomst.
--	Fysieke beweging is zeer belangrijk om gezond te blijven. Dit wordt echter weerhouden in de context van mijn probleem. Dit kan dus ook geïntegreerd worden in het product. 
--	Er zijn meerdere stressfactoren waarop kan worden ingespeeld:
-o	Omgeving
-o	Kwaliteit van werken
-o	Organisatie
-o	Werkhoeveelheid |
+| 4.2 | Het product is snel en intuïtief in te stellen |  | 01/12/2024 |
+| 4.3 | Het product kan op elk moment opnieuw worden ingesteld, of de instellingen worden aangepast |  | 01/12/2024 |
+| 4.4 | Het voorkomen van het product is opvallend om aandacht op zich te kunnen brengen |  | 01/12/2024 |
+| 4.5 | Tekst op het product dient in het Nederlands te zijn voor makkelijker gebruik |  | 16/12/2024 |
 
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.

@@ -76,27 +76,6 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
 
 
-| -	Empathisch: communicatie. Belangrijk voor efficiëntie en groepssfeer. | 
-  Kan ook helpen bij het halen van deadlines of persoonlijke problemen.
-  o	tonen aan collega’s wanneer je liever niet gestoord wordt
-  	Focussen op efficiënt werken
-  o	tonen wanneer je stress/werkdruk hebt.
-  o	Zorgen voor appreciatie
-
-  -	Stress en werkdruk vermijden
-  o	Werk en thuis gescheiden houden
-  o	Werk zo efficiënt, leuk en effectief mogelijk te doen. |
-
-  -	Zorgen dat er ruimte is voor pauzes
-  o	Beweging tijdens de pauzes
-| -	Om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting en misschien ook galvanische huidrespons. Dit kan misschien nog veranderen wanneer latere ontwerpkeuzes gemaakt worden. |
--	Het probleem is alomtegenwoordig dus is er veel ruimte voor modificaties en kan het daardoor later gebruikt worden door meerdere doelgroepen. Dit is een vooruitblik op de toekomst.
--	Fysieke beweging is zeer belangrijk om gezond te blijven. Dit wordt echter weerhouden in de context van mijn probleem. Dit kan dus ook geïntegreerd worden in het product. 
--	Er zijn meerdere stressfactoren waarop kan worden ingespeeld:
-o	Omgeving
-o	Kwaliteit van werken
-o	Organisatie
-o	Werkhoeveelheid |
 
 
 ## Definition
@@ -238,14 +217,19 @@ Om de volgende stappen in het proces makkelijker te maken het product meer de de
 
 ### Materiaal & methoden
 Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think aloud' interview om de indeling van de interface te bepalen en een interactief website-prototype op figma om deze layout te onderzoeken en te beoordelen. Om de 4 participanten zoveel mogelijk vrijheid te geven en de indeling van de interface worden geen voorgemaakte interfaces aangeboden maar lege foam-modellen waarop ze zelf de knoppen kunnen ordenen. De gebruikte zaken zijn:
--
--
--
--
+•	Simpele schuimvormen (balk en cilinder)
+•	Interacties in de vorm van knoppen per functie (tijd instellen, start/pauze, aan/uit, groen/rood)
+•	Smartphone om conversaties op te nemen
+•	4 afgeprinte informed consents
+•	Laptop om protocol voor te lezen resultaten te noteren en
+•	Laptop om voorbeelden interface hub te tonen en website te simuleren
 De voorgemaakte layout's voor de website zien er uit als volgt:
+![image](https://github.com/user-attachments/assets/68607032-c091-42c5-97b3-3af706aceef4)
+Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
+Naast de layout van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
+![image](https://github.com/user-attachments/assets/b29024b4-88a3-4517-b20a-01010b7ed53a)
+Om de beste layout er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en dezeze achteraf te analyseren.
 
-
-Deze kunnen worden getest met volgende link: [prototype website](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 ### Resultaten
 
 ### Conclusies & implicaties

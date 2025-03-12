@@ -34,27 +34,40 @@ Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is geb
 
 Het eerste semester vervulden we de Discover en Define fase, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
 
-## Discovery
+## Discovery (N = 15)
 
 ### Doelstellingen
 De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was om van het probleem, namelijk stress en werkdruk, terug te bouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
 ### Materiaal & methoden
-Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem. Hiervoor werd een SOTA-schema ingevuld (zie bijlagen). Nu kon de doelstelling worden opgesteld en de juiste methodes worden gekozen. Voor deze fase werden twee methoden gebruikt, namelijk een user interview en een liturature review. Bij het eerste onderzoek werd gekeken naar de grootte en omvang van het probleem, hoe de stress gemeten kan worden en in welke mate de kantooromgeving de fysieke gezondheid beïnvloedt. Omdat deze vragen allemaal objectieve, concrete antwoorden hebben, werd hiervoor een liturature revieuw gebruikt. Bij het tweede onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk. Omdat iedereen dit anders kan ervaren en diep moet worden geprobed werd hier geopteerd voor een user interview. Voor beide onderzoeken is er enkel een laptop nodig.
+#### SOTA-schema (zie bijlagen)
+Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem.
+#### user interview (N = 3)
+In dit onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk bij verschillende personen. Omdat iedereen dit anders kan ervaren en hier een dieper inzicht nodig was werd geopteerd voor een user interview.
+De interviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
+#### liturature review (N = 12)
+Hier werd gekeken naar de grootte en omvang van het probleem, hoe stress gemeten kan worden en in welke mate de kantooromgeving de fysieke en mentale gezondheid beïnvloedt.
+De liturature reviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
+
 ### Resultaten
-De liturature review werd uitgevoerd doorheen de volledige discoveryfase en werd uitgevoerd aan de hand van een protocol en rapport (zie bijlage). De belangrijkste zaken die hieruit kunnen worden afgeleid zijn ten eerste de **methode om stress te meten**: om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting mogelijks gecombineerd met galvanische huidrespons. De hartslagmeter kan zonder persoonlijke aanpassing toch een accuraat beeld van de stress weergeven. Het werkt namelijk op basis van hartslagvariabiliteit en niet op de hartslagwaarde zelf, zo vormen mensen die van nature een hoge hartslag hebben geen probleem. Ten tweede blijkt dat **het probleem groter is dan eerst gedacht**. Niet alleen in de kantooromgeving, maar ook bij veel andere jobs en zelfs studenten is dit probleem aanwezig. Dit zijn doelgroepen die met behulp van kleine aanpassingen aan het eindproduct hier misschien ook gebruik van kunnen maken. Om het product tot stand te brengen zal de doelgroep echter beperkt blijven tot kantoorjobs. Er is ook **weinig fysieke beweging** in de context van het ondervonden probleem. Dit kan mede een oorzaak zijn van het gevolg en zal daarom nog verder moeten worden bekeken in de user interviews. Deze interviews zullen ook moeten helpen om de derde ondervinding van de liturature review meer te kunnen kaderen: **welke factoren spelen allemaal een rol in deze stress en werkdruk?** Er kwamen meerdere mogelijkheden aan bod: omgeving, kwaliteit van werken, organisatie, werkhoeveelheid, ... Als laatste werd duidelijk dat de **sociale media en technologie** ook grote parten speelt in de stress en werkdruk. De afleiding is te groot en heeft een negatief effect op de productiviteit, stress, werkdruk en de mentale gezondheid.
+De liturature review werd uitgevoerd doorheen de volledige discoveryfase en werd uitgevoerd aan de hand van een protocol en rapport (zie bijlage). De belangrijkste zaken die hieruit kunnen worden afgeleid zijn:
+- **methode om stress te meten**: om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting mogelijks gecombineerd met galvanische  huidrespons. De hartslagmeter kan zonder persoonlijke aanpassing toch een accuraat beeld van de stress weergeven. Het werkt namelijk op basis van hartslagvariabiliteit en niet op de hartslagwaarde zelf, zo zijn er geen problemen bij mensen die van nature een hoge hartslag.
+- **het probleem is groter dan gedacht**: Niet alleen in de kantooromgeving, maar ook bij veel andere jobs en zelfs studenten is dit probleem aanwezig. Dit zijn doelgroepen die met behulp van kleine aanpassingen aan het eindproduct hier misschien ook gebruik van kunnen maken. Om het product tot stand te brengen zal de doelgroep echter beperkt blijven tot kantoorjobs.
+- **weinig fysieke beweging**: Dit is een probleem, maar kan ook een oorzaak zijn van stress in de context van het probleem en wordt verder onderzocht in de user interviews.
+- **stress en werkdruk**: meerdere zaken spelen een rol, namelijk de omgeving, kwaliteit van werken, organisatie, werkhoeveelheid, ... of deze allemaal van toepassing zijn zal ook nader onderzocht worden in de user interviews.
+- **sociale media en technologie**: dit speelt grote parten in de stress en werkdruk. De afleiding is te groot en heeft een negatief effect op de productiviteit, stress, werkdruk en de mentale gezondheid.
 > “Ons brein is nog altijd niet goed bestand tegen Whatsapp, e-mail en Zoom.”
 
-Bij de tweede methode, namelijk user interviews werden een 3-tal respondenten ondervraagt en is gebruik gemaakt van diep proben om de oorzaak van het probleem te achterhalen en de onduidelijkheden die werden gevonden in de liturature review meer te kunnen vatten. De interviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) . Alle respondenten zijn het eens over het feit dat het tegenwoordig **moeilijker is om lange tijd aan een stuk te concentreren**. Dit door meldingen van gsm's maar ook door collega's die storen, of andere afleidende zaken. Er wordt verder nog vermeld dat het belangrijk is om **voldoening te halen uit je job** en dat je elke dag zonder tegenzin naar je werk zou moeten vertrekken. Dit is niet altijd het geval. Wat ook aangehaald werd als oorzaak van stress en werkdruk is de **communicatie**. Hier worden soms problemen bij ondervonden die vaak onnodig zijn. Dit kan gaan van frustraties die je niet kan uiten tot persoonlijke zaken waarbij je je niet comfortabel voelt om het uit te spreken of hulp te vragen. De fysieke beweging aan de bureau's werd niet zozeer gemist, omdat men dit makkelijk inhaald buiten het werk, maar **pauzes** daarintegen zijn zeker nog aan verbetering toe. Er wordt niet genoeg gestimuleerd tot pauze nemen, ook al kan dit de productiviteit verhogen.
+Bij de user interviews werden een 3-tal respondenten ondervraagt en werden de overgebleven onduidelijkheden in de liturature review onderzocht. Volgende zaken kwamen meerdere malen naar voor:
+- **moeilijkheid om lange tijd aan een stuk te concentreren**: Alle respondenten zijn het eens over het feit dat er tegenwoordeig meer afleidingen zijn. Dit door meldingen van gsm's maar ook door collega's die storen, of andere afleidende zaken.
+- **Te weinig voldoening halen uit je job**: Hoewel dit niet van toepassing was bij de respondenten gaven ze aan dat dit een grote oorzaak is van stress en burn-outs.
+- **communicatie**: hierbij worden vaak problemen ondervonden die onnodig zijn. Dit kan gaan van frustraties die je niet kan uiten tot persoonlijke zaken waarbij je je niet comfortabel voelt om ze te delen of aarzelingen om hulp te vragen.
+- **fysieke beweging**: dit werd niet zozeer gemist, omdat men dit makkelijk inhaald buiten het werk. Dit mag dus geschrapt worden als oorzaak van stress.
+- **pauzes**: Hier is zeker ruimte voor verbetering. Ze worden vaak vergeten, niet genoeg gesimuleerd en dit geeft een kans om even weg te zijn van je stresserende omgeving.
 
 ### Conclusies & implicaties
-De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, onderappreciatie en weinig fysieke beweging/pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen ontstaan die uitgroeien tot grotere, vermijdbare problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden. Hierdoor is meer werk gedaan en zal de werkdruk en thuiswerk verminderen. Een ander belangrijk aspect is de stress, aangezien dit moeilijk blijkt te zien en moeilijk valt te communiceren. Er is nood aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
+De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, gebrek aan voldoening en weinig initiatief tot pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen ontstaan die uitgroeien tot grotere, vermijdbare problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden. Hierdoor is meer werk gedaan en zal de werkdruk en thuiswerk verminderen. Een ander belangrijk aspect is de stress, aangezien dit moeilijk te zien is en moeilijk valt te communiceren. Er is nood aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
 <br>
-Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken. <ins> Om al deze zaken nog eens duidelijker te kaderen en eens na te denken over de requirements, werd een innovatrix ingevuld (bijlagen) </ins>
-Hierna kon een correct en innovatief eerste concept opgesteld worden.
-<br>
-<br>
-![image](https://github.com/user-attachments/assets/302374ed-6327-4e6e-b250-b6847aa13ab9)
-
+Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken. <ins> Om deze zaken duidelijker te kaderen en te verwoorden in requirements, werd een innovatrix ingevuld (bijlagen)
 
 ### Requirements
 
@@ -75,17 +88,21 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 | *Groep 4* | *Algemeen* |  |  |
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
 
-
-
+Hierna kon een correct en innovatief eerste concept opgesteld worden.
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/302374ed-6327-4e6e-b250-b6847aa13ab9)
 
 ## Definition
+
+Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep. 
 
 Uit onze discovery kunnen de belangrijkste aspecten van onze oplossing gebundeld worden:
 1. Werkefficiëntie verhogen
 2. Onderlinge communicatie verbeteren
 (3. Pauze en voldoening)
 
-Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep. Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.
+Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.
 ![sotryboard](https://github.com/user-attachments/assets/6f3207b5-ab8e-4577-8222-387608e9e4e1)
 
 
@@ -204,12 +221,12 @@ Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe volstaat in het algemeen groen en rood om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
-## Define 1 (N = 4)
-
-### Doelstellingen
+## Define
+### Define 1
+#### Doelstellingen
 Om de volgende stappen in het proces makkelijker te maken het product meer de definiëren is nood aan een interace. Deze zal het fysieke aspect van het product bepalen en de integratie van electronica meer geordend maken. In deze test zullen we dus kijken waar de zaken zich bevinden op de centrale interface samen met de indeling van de website die bij het product hoort. 
 
-### Materiaal & methoden
+#### Materiaal & methoden
 Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think aloud' interview om de indeling van de interface te bepalen en een interactief website-prototype op figma om deze layout te onderzoeken en te beoordelen. Om de 4 participanten zoveel mogelijk vrijheid te geven en de indeling van de interface worden geen voorgemaakte interfaces aangeboden maar lege foam-modellen waarop ze zelf de knoppen kunnen ordenen. De gebruikte zaken zijn:
 •	Simpele schuimvormen (balk en cilinder)
 •	Interacties in de vorm van knoppen per functie (tijd instellen, start/pauze, aan/uit, groen/rood)
@@ -225,19 +242,12 @@ Naast de layout van de website wordt ook specifiek de functie in verband met syn
 <br>
 Om de beste layout er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en dezeze achteraf te analyseren.
 
-### Resultaten
+#### Resultaten
 
-### Conclusies & implicaties
+#### Conclusies & implicaties
 
-### Requirements
-
-
-|ID| Metriek | Gewenste waarde | Eenheid  | Testmethode | Bron | Datum |
-| -------- | :---: | :---: | :---: | :---: | :---: |:---: |
-|*Groep 1* | *Communicatie* | 3.2 | 4.6 | 3.4 | 3.75 |3.75 |
-|*Groep 2* | *Pauzes* | 3.4 | 3.2 | 2.8 | 3 |3 |
-|*Groep 3* | *Voldoening* | 3.4 | 3.2 | 2.8 | 3 |3 |
-
+#### Requirements
+"
 |ID| Design Requirement | Bron | Datum |
 | -------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
@@ -258,7 +268,6 @@ Om de beste layout er uit te halen wordt aan de participanten gevraagd om websit
 |*Groep 3* | *Voldoening* |  |  |
 | 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
 |*Groep 4* | *Algemeen* |  |  |
-| 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
 | 4.2 | Het product is snel en intuïtief in te stellen |  | 01/12/2024 |
 | 4.3 | Het product kan op elk moment opnieuw worden ingesteld, of de instellingen worden aangepast |  | 01/12/2024 |
 | 4.4 | Het voorkomen van het product is opvallend om aandacht op zich te kunnen brengen |  | 01/12/2024 |
@@ -309,5 +318,12 @@ In het algemeen zit het project op schema. Bij de eerste stappen hadden we moeit
 - [Wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
 - [Wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
 ### Develop
-#### deelopdracht 3
+#### Develop 1
 - [Deelopdracht 3 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYFXz3Ox31dMjIWU9mxE6FgBZwoSi5SSflYKvu9Z5Soqaw?e=1DOxIu)
+- [Deelopdracht 3 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZbGh_ffTqxMmQQITb3nka4BTq4fyeaXO81AsjtJjxOQ7g?e=cvizVJ)
+#### Develop 2
+-
+-
+#### Develop 3
+-
+-

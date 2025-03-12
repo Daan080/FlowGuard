@@ -93,7 +93,8 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/302374ed-6327-4e6e-b250-b6847aa13ab9)
+![image](https://github.com/user-attachments/assets/fe67ec91-f20d-4f70-ab75-0093cbf8f68d)
+
 
 ## Definition
 

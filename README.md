@@ -90,7 +90,8 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
 <br>
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
-<br>
+
+
 ![image](https://github.com/user-attachments/assets/fe67ec91-f20d-4f70-ab75-0093cbf8f68d)
 
 

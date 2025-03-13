@@ -238,6 +238,9 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 •	4 afgeprinte informed consents
 •	Laptop om protocol voor te lezen resultaten te noteren en
 •	Laptop om voorbeelden interface hub te tonen en website te simuleren
+
+![image](https://github.com/user-attachments/assets/bfd3b7fb-f251-44d4-9b21-eafdca897430)
+
 De voorgemaakte layout's voor de website zien er uit als volgt:
 ![image](https://github.com/user-attachments/assets/68607032-c091-42c5-97b3-3af706aceef4)
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)

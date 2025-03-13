@@ -6,53 +6,53 @@
 23/09/2024 - 08/01/2025
 
 ## Samenvatting
-Op de werkvloer van tegenwoordig is er te veel stress en werkdruk, waarvan wij denken dat ze te vermijden zijn. Onnodige stress en werkdruk kan leiden tot mentale en onrechtstreeks fysieke zorgen en in extreme gevallen tot burn-outs. 
+Op de werkvloer van tegenwoordig is er te veel stress en werkdruk, hoewel ze vaak te vermijden zijn. Onnodige stress en werkdruk kan leiden tot mentale en onrechtstreeks fysieke zorgen en in extreme gevallen tot burn-outs. 
 
 Uit meerdere literatuuronderzoeken en interviews met relevante participanten blijkt dat dit grotendeels ligt aan het feit dat men tegenwoordig constant bereikbaar is via de gsm en computer, maar ook dat er niet genoeg rekening gehouden wordt met elkaar. Dit laatste is vaak een gevolg van slechte communicatie of gaat over zaken die moeilijk te communiceren zijn, zoals stress.
 
 In het zoeken naar een oplossing werden naast de literatuuronderoeken en interviews ook andere ontwerpmethodes gebruikt om de diepe oorzaken te zoeken en tot een concrete oplossing te komen.
 
-De oplossing dat we in dit dossier voorstellen is een product dat helpt om een gezonde balans te houden tussen werken en pauzes, en deze pauzes op fysisch niveau kan helpen verbeteren. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving. Dit door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s.
+De oplossing dat in dit dossier wordt voorgesteld is een product dat helpt om een gezonde balans te houden tussen werken en pauzes, en deze pauzes op fysisch niveau kan helpen verbeteren. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving. Dit door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s.
 Het product geeft een gevoel van voldoening  die men tegenwoordig zoekt op een werkdag. 
 
 ## Introductie
 Volgens Riziv (Rijksinstituut voor ziekte- en invaliditeitsverzekering) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornissen en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress tijdens de job spelen hier een grote rol in, maar ook de constante bereikbaarheid via mail, berichten, sociale media, op de werkvloer, etc. zorgen voor een daling in werkefficiëntie met als gevolg een stijging in stress en werkdruk. Stress en werkdruk die te vermijden zijn…
 
-Eerder dit jaar kozen we tussen verschillende design-challenges en hieruit kwam onze challenge voort, namelijk stress, werkdruk en fysieke beweging verbeteren bij werknemers die dagelijks aan een bureau werken in een kantooromgeving. Het is de bedoeling dat ons product deze problemen oplossen door regelmatig pauzes aan te raden, de werkstatus te communiceren met collega’s en voldoening het geleverde werk.
+Eerder dit jaar werd gekozen tussen verschillende design-challenges en hieruit kwam deze challenge voort, namelijk stress, werkdruk en pauzes verbeteren bij werknemers die dagelijks aan een bureau werken in een kantooromgeving. Het is de bedoeling dat ons product deze problemen oplossen door regelmatig pauzes aan te raden, de werkstatus te communiceren met collega’s en voldoening het geleverde werk.
 
-Dit is een alledaags probleem en komt voor bij meerdere doelgroepen, denk bijvoorbeeld aan studenten. Om ons probleem te begrenzen en onze oplossing zo gebruiksgericht te kunnen ontwerpen, is eerst gekozen voor de doelgroep kantoormedewerkers die dagelijks het merendeel van de dag aan een bureau werken. Als we een oplossing kunnen bieden voor deze doelgroep, kan verder gekeken worden naar andere doelgroepen met een gelijkaardig probleem.
+Dit is een alledaags probleem en komt voor bij meerdere doelgroepen, denk bijvoorbeeld aan studenten. Om dit probleem te begrenzen en de oplossing zo gebruiksgericht te kunnen ontwerpen, is eerst gekozen voor de doelgroep kantoormedewerkers die dagelijks het merendeel van de dag aan een bureau werken. Als een oplossing wordt gevonden voor deze doelgroep, kan verder gekeken worden naar andere doelgroepen met een gelijkaardig probleem.
 
 
 Bronnen:
 Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar
 
 ## Methodologie
-Voor dit project maakten we gebruik van onderstaande ontwerpmethode, deze is gebaseerd op de "quadriple diamond".
+In dit project werd gebruik gemaakt van onderstaande ontwerpmethode, deze is gebaseerd op de "quadriple diamond".
 
 ![Mainmethods et all _ BB](https://github.com/user-attachments/assets/08afe971-c23a-49a9-9bfc-0b0bcaf553a1)
 
 
-Het eerste semester vervulden we de Discover en Define fase, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
+Het eerste semester werden de Discover en Define fase doorlopen, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
 
 ## Discovery (N = 15)
 
 ### Doelstellingen
 De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was om van het probleem, namelijk stress en werkdruk, terug te bouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
 ### Materiaal & methoden
-#### SOTA-schema (zie bijlagen)
-Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem.
-#### user interview (N = 3)
-In dit onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk bij verschillende personen. Omdat iedereen dit anders kan ervaren en hier een dieper inzicht nodig was werd geopteerd voor een user interview.
-De interviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
-#### liturature review (N = 12)
-Hier werd gekeken naar de grootte en omvang van het probleem, hoe stress gemeten kan worden en in welke mate de kantooromgeving de fysieke en mentale gezondheid beïnvloedt.
-De liturature reviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
+ #### SOTA-schema (zie bijlagen)
+ Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem.
+ #### user interview (N = 3)
+ In dit onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk bij verschillende personen. Omdat iedereen dit anders kan ervaren en hier een dieper inzicht nodig was werd        geopteerd voor een user interview.
+ De interviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
+ #### liturature review (N = 12)
+ Hier werd gekeken naar de grootte en omvang van het probleem, hoe stress gemeten kan worden en in welke mate de kantooromgeving de fysieke en mentale gezondheid beïnvloedt.
+ De liturature reviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
 
 ### Resultaten
 De liturature review werd uitgevoerd doorheen de volledige discoveryfase en werd uitgevoerd aan de hand van een protocol en rapport (zie bijlage). De belangrijkste zaken die hieruit kunnen worden afgeleid zijn:
 - **methode om stress te meten**: om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting mogelijks gecombineerd met galvanische  huidrespons. De hartslagmeter kan zonder persoonlijke aanpassing toch een accuraat beeld van de stress weergeven. Het werkt namelijk op basis van hartslagvariabiliteit en niet op de hartslagwaarde zelf, zo zijn er geen problemen bij mensen die van nature een hoge hartslag.
 - **het probleem is groter dan gedacht**: Niet alleen in de kantooromgeving, maar ook bij veel andere jobs en zelfs studenten is dit probleem aanwezig. Dit zijn doelgroepen die met behulp van kleine aanpassingen aan het eindproduct hier misschien ook gebruik van kunnen maken. Om het product tot stand te brengen zal de doelgroep echter beperkt blijven tot kantoorjobs.
-- **weinig fysieke beweging**: dit is niet het probleem dat we in dit proces willen onderzoeken en behandelen, maar kan een oorzaak zijn van stress in de context van het gekozen probleem en wordt verder onderzocht in de user interviews.
+- **weinig fysieke beweging**: dit is niet het hoogdprobleem dat in dit proces onderzocht wordt of behandeld, maar kan een oorzaak zijn van stress in de context van het gekozen probleem en wordt verder onderzocht in de user interviews.
 - **stress en werkdruk**: meerdere zaken spelen een rol, namelijk de omgeving, kwaliteit van werken, organisatie, werkhoeveelheid, ... of deze allemaal van toepassing zijn zal ook nader onderzocht worden in de user interviews.
 - **sociale media en technologie**: dit speelt grote parten in de stress en werkdruk. De afleiding is te groot en heeft een negatief effect op de productiviteit, stress, werkdruk en de mentale gezondheid.
 > “Ons brein is nog altijd niet goed bestand tegen Whatsapp, e-mail en Zoom.”
@@ -89,17 +89,16 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 | *Groep 4* | *Algemeen* |  |  |
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
 <br>
-<br>
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
-
+<br>
 ![image](https://github.com/user-attachments/assets/fe67ec91-f20d-4f70-ab75-0093cbf8f68d)
 
 
 ## Definition
 
-Na de goedgekeuring van dit concept gingen we aan de slag om het concept beter te definiëren en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit deden we aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit onze doelgroep. 
+Na de goedgekeuring van dit concept werd gefocust op definiëren van het concept en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit werd gedaan aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit de doelgroep. 
 
-Uit onze discovery kunnen de belangrijkste aspecten van onze oplossing gebundeld worden:
+Uit de discovery kunnen de belangrijkste aspecten van de oplossing gebundeld worden:
 1. Werkefficiëntie verhogen
 2. Onderlinge communicatie verbeteren
 (3. Pauze en voldoening)
@@ -111,9 +110,10 @@ Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een sto
 ### <ins>Wave 1: conceptvalidatie</ins> (N=5)
 
 #### Doelstellingen
-Het doel van deze conceptvalidatie is om ons gevonden concept met de eerste mockups voor te stellen aan de doelgroep en hun meningen, inzichten en onduidelijkheden te capteren.
+Het doel van deze conceptvalidatie is om het eerste concept met een paar mockups voor te stellen aan de doelgroep en hun meningen, inzichten en onduidelijkheden te capteren. Op deze manier kan gekeken worden of dit concept aan de eisen van de doelgroep voldoet.
 #### Materiaal & methoden
-We laten de testpersonen kennis maken met ons concept en stellen enkele open en gerichte vragen. Voor een gedetailleerd stappenplan verwijs ik door naar het protocol van Wave 1. Hiervoor hebben we juist een laptop nodig om de antwoorden te capteren. Om onze gebruikers een beeld te geven van onze eerste visie van ons product, maakten we 2 quick-and-dirty prototypes om mee te interageren. Deze prototypes dienen om de functies van het concept uit te lichten, maar kunnen deze niet uitoefenen. Het **prototype dient dus vooral om het idee te communiceren met de doelgroep op visueel vlak**.
+Testpersonen maken kennis met het concept en er worden enkele open, maar gerichte vragen gesteld. Voor een gedetailleerd stappenplan kan worden gekeken naar het protocol (bijlagen). Hiervoor is enkel een laptop nodig om de antwoorden te capteren. Om de gebruikers een beter beeld te geven van dit eerste concept, worden 2 quick-and-dirty prototypes gemaakt om mee te interageren. Deze prototypes dienen om de functies van het concept uit te lichten, maar kunnen deze niet uitoefenen. 
+De **prototypes dienen dus vooral om het idee te communiceren met de doelgroep op visueel vlak**.
 
 ![Prototype 2 - Wave 1](https://github.com/user-attachments/assets/49fa4dd4-5dcc-4e52-8027-dddf6a878e4b)
 ![Prototype 1 - Wave 1](https://github.com/user-attachments/assets/67220488-de7e-4cd0-8e5a-e88ee4fedace)
@@ -133,7 +133,7 @@ De dagelijkse evaluatie van werkprestaties en stressniveaus wordt door de meeste
 Vrijwel iedereen benadrukte het belang van persoonlijke aanpassingsmogelijkheden. Dat ging over voor werk- en pauzeduur, syncronisatie en filtering van meldingen, het meten van stress door externe apparatuur en de soorten analyses op het einde van de dag. Ook mocht alles niet te lang duren om in te stellen om het gebruiksgemak en de werkefficiëntie hoog te houden.
 
 #### Conclusies & implicaties
-Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. ****Stressmetingen**** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
+Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. ****Stressmetingen**** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
 #### MoSCow review
 <img src="https://github.com/user-attachments/assets/4ce280fb-c397-47f1-8e00-9434724d46a4" alt="Alt Text" width="700">
 
@@ -141,9 +141,10 @@ Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
 
 #### Doelstellingen
-De hoofddoelen van ons product zijn werkefficiëntie verhogen, communicatie tussen collega's verbeteren en voldoening brengen tijdens het werken. Om deze zaken te vervullen zal het product in staat moeten zijn om duidelijk te communiceren. Bij het gebruik van ons product zullen er twee vormen van communicatie voorkomen: het aanraden van pauzes naar de gebruiker toe (product – gebruiker) en het communiceren van de werkstatus met collega's (product – collega's). Aan de hand van twee testen proberen we te achterhalen welke signalen optimaal zijn voor elke vorm van communicatie. 
+De hoofddoelen van het product zijn werkefficiëntie verhogen, communicatie tussen collega's verbeteren en voldoening brengen tijdens het werken. Om deze zaken te vervullen zal het product in staat moeten zijn om duidelijk te communiceren. Bij het gebruik van het product zullen er twee vormen van communicatie voorkomen: het aanraden van pauzes naar de gebruiker toe (product – gebruiker) en het communiceren van de werkstatus met collega's (product – collega's). Aan de hand van twee testen wordt gekeken welke signalen optimaal zijn voor elke vorm van communicatie. 
 #### Materiaal & methoden
-We komen langs op kantoor bij enkele mensen van onze doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen. Het prototype is een doos gemaakt uit MDF en plexiglas met ruimte om een smartphone in te plaatsen en focust puur op de functie om signalen te kunnen verzenden en is niet bedoeld om het voorkomen van het product te representeren. We hebben dus gekozen voor een **functioneel, ruw prototype** in de plaats van een esthetisch prototype.
+We komen langs op kantoor bij enkele mensen uit de gekozen doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen. Het prototype is een doos gemaakt uit MDF en plexiglas met ruimte om een smartphone in te plaatsen en focust puur op de functie om signalen te kunnen verzenden en is niet bedoeld om het voorkomen van het product te representeren. 
+Voor deze test wordt dus gekozen voor een **functioneel, ruw prototype** in de plaats van een esthetisch prototype.
 
 #### Resultaten
 ##### Test 1 (product - gebruiker):
@@ -163,7 +164,7 @@ Deze tabel bevat de gemiddelde scores van alle participanten. Voor de scores per
 |**Hoe moeilijk is het signaal te negeren? (in het geval dat het eindeloos doorgaat)** | 2.2 | 3 | 4.6 | 3 | 4.5 |
 |**Hoe afleidend is het signaal voor je collega’s en omgeving?** | 2.2 | 3 | 4.8 | 4.6 | 1.5 |
 
-Uit het gemiddelde van de 5 testpersonen kunnen we een aantal zaken afleiden:
+Uit het gemiddelde van de 5 testpersonen kunnen een aantal zaken afgeleid worden:
 - **Gekleurd licht** is het aangenaamst en stoort de omgeving bijna niet, maar het valt het minst op en motiveert minder om actie te ondernemen.
 - **Flikkerend licht** trekt iets meer aandacht en zet meer aan tot actie, maar wordt als minder aangenaam ervaren dan gekleurd licht.
 - **Geluid** valt het meest op en zet het meest aan tot actie, maar het is zeer storend voor andere collega’s. Het geluid kan ook als het bel- of alarmsignaal van een gsm geïnterpreteerd worden, wat verwarrend kan zijn door alle gsm's aanwezig op een bureau.
@@ -186,7 +187,7 @@ Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor 
 |**Wat zou de reden zijn dat jouw collega deze kleur zou gebruiken?** | - bereikbaar <br>- rustige taak<br>- mails checken  | - taken waarbij je liever niet gestoord wordt, maar het is geen groot probleem | - niet storen <br>- stressvolle taak<br>- druk bezig | <br>- zeer gefocust werk <br> - niet storen anders ben ik de kluts kwijt | - pauze <br> - rustige taak | - geen opdracht <br> - misschien pauze |
 |**Wat denk je dat hij/zij op dat moment aan het doen is?** | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven |
 
-We stellen vast bij een steekproef van 5 participanten dat de kleuren rood en groen een éénduidige emotie opbrengen bij alle participanten. Dit zorgt ervoor dat we deze makkelijk kunnen inbrengen in het ontwerp zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in ons product, zonder dat hierover verwarring ontstaat. Hierbij horen blauw, wit en mogelijks nog andere extrensieke kleuren. Dit kan dan dienen voor nog nader te bepalen functies of andere variabelen van het product. Een laatste groep kleuren wekken hetzelfde gevoel op als de extremen groen en rood, maar met minder overtuiging. Hierbij hoort geel en mogelijks oranje.
+Bij een steekproef van 5 participanten wordt vastgesteld dat de kleuren rood en groen een éénduidige emotie opbrengen bij alle participanten. Dit zorgt ervoor dat deze makkelijk geïntegreerd kunnen worden in het ontwerp zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in het product, zonder dat hierover verwarring ontstaat. Hierbij horen blauw, wit en mogelijks nog andere extrensieke kleuren. Dit kan dan dienen voor nog nader te bepalen functies of andere variabelen van het product. Een laatste groep kleuren wekken hetzelfde gevoel op als de extremen groen en rood, maar met minder overtuiging. Hierbij hoort geel en mogelijks oranje.
 #### Conclusies & implicaties
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Initieel wordt het meeste voorkeur gegeven aan trillen van een armband of communicatie met een geluid. Het laatste is echter te storend voor de omgeving, net als flikkerend licht en zal daardoor wegvallen. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe wordt gekeken welke lichtkleuren kunnen worden gebruikt in het product. Er wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
@@ -219,14 +220,14 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 | 4.5 | Tekst op het product dient in het Nederlands te zijn voor makkelijker gebruik |  | 16/12/2024 |
 
 
-Ons concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een intuïtieve instelling van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. Stressmetingen kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende meldingen gefilterd worden tijdens focusstand. Wat betreft de vormgeving moet het product herkenbaar en opvallend zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor focusstatus moet aanwezig zijn, liefst een kleurlicht. Ten slotte moeten gebruikers instellingen kunnen personaliseren, want iedereen werkt op een andere manier
+Er werd wederom bevestigd dat concept zeer gewild is binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een intuïtieve instelling van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. Stressmetingen kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende meldingen gefilterd worden tijdens focusstand. Wat betreft de vormgeving moet het product herkenbaar en opvallend zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor focusstatus moet aanwezig zijn, liefst een kleurlicht. Ten slotte moeten gebruikers instellingen kunnen personaliseren, want iedereen werkt op een andere manier
 
 Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe volstaat in het algemeen groen en rood om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
 ## Define
 ### Define 1
 #### Doelstellingen
-Om de volgende stappen in het proces makkelijker te maken het product meer de definiëren is nood aan een interace. Deze zal het fysieke aspect van het product bepalen en de integratie van electronica meer geordend maken. In deze test zullen we dus kijken waar de zaken zich bevinden op de centrale interface samen met de indeling van de website die bij het product hoort. 
+Om de volgende stappen in het proces makkelijker te maken het product meer de definiëren is nood aan een interace. Deze zal het fysieke aspect van het product bepalen en de integratie van electronica meer geordend maken. In deze test zal gekeken worden waar de interacties zich bevinden op de centrale interface samen met de indeling van de website die bij het product hoort. 
 
 #### Materiaal & methoden
 Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think aloud' interview om de indeling van de interface te bepalen en een interactief website-prototype op figma om deze layout te onderzoeken en te beoordelen. Om de 4 participanten zoveel mogelijk vrijheid te geven en de indeling van de interface worden geen voorgemaakte interfaces aangeboden maar lege foam-modellen waarop ze zelf de knoppen kunnen ordenen. De gebruikte zaken zijn:
@@ -284,7 +285,7 @@ Om de beste layout er uit te halen wordt aan de participanten gevraagd om websit
 - vibratiemotor waarvan frequentie en intensiteit geregeld kan worden
   
 ## Kritische reflectie
-In het algemeen zit het project op schema. Bij de eerste stappen hadden we moeite met het afbakenen de essentie en zagen we soms door het bos de bomen niet meer. Door de conceptvalidatie kregen we echter validatie en feedback dat ons beter op het spoor bracht. Bij elke stap kwam er meer duidelijkheid en structuur. We kregen signalen vanuit de doelgroep die aantoonden dat we echt met een probleem zitten waar nog geen concrete oplossing voor is en waarvan de oplossing zeer gewild is. We merkten dat onze doelgroep de leidraad is en hun feedback ons het best vooruit zal helpen in dit project. We kregen heel veel input via de interviews en gebruikerstesten, maar het was niet altijd even simpel om met alles rekening te houden. Vooral omdat sommige antwoorden volledig verschilden met anderen. Daarom vinden we het belangrijk dat we belang hechten aan de mogelijkheid om ons product te personaliseren aan elke gebruiker, zonder alles te complex te maken. De grootste uitdagingen die nu volgen zijn het prototypen en realiseren van de vorm en elektronica van ons product, en evenveel belang hechten aan de feedback van onze doelgroep als in de eerste fasen.
+In het algemeen zit het project op schema. Bij de eerste stappen was er moeite met het afbakenen de essentie en zag men soms door het bos de bomen niet meer. Door de conceptvalidatie kreeg het project echter validatie en feedback wat zorgde voor meer richting. Bij elke stap kwam er meer duidelijkheid en structuur. Er werden signalen gegeven vanuit de doelgroep die aantoonden dat er een probleem is waar nog geen concrete oplossing voor is en waarvan de oplossing zeer gewild is. Het was rap duidelijk dat de doelgroep de leidraad is en hun feedback dit project vooruit zal helpen. Er werd heel veel input via de interviews en gebruikerstesten verkregen, maar het was niet altijd even simpel om met alles rekening te houden en deze zaken correct te analyseren. Dit kwam vooral omdat sommige antwoorden volledig verschilden met anderen. Daarom wordt belang gehecht aan de mogelijkheid om het product te personaliseren voor elke gebruiker, zonder de complexiteit te verhogen. De grootste uitdagingen die nu volgen zijn het prototypen en realiseren van de vorm en elektronica van het product en tevens evenveel belang hechten aan de feedback van de doelgroep als in de eerste fasen.
 ## Bronnen
 •	Nws, V. (2021, 17 mei). Aantal langdurige burn-outs en depressies blijft stijgen tot meer dan 100.000: “Ons brein kent geen rust meer”. vrtnws.be.      https://www.vrt.be/vrtnws/nl/2021/05/17/aantal-burn-outs-en-depressies-blijft-stijgen/ 
 •	Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar 

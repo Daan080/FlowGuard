@@ -67,7 +67,8 @@ Bij de user interviews werden een 3-tal respondenten ondervraagt en werden de ov
 ### Conclusies & implicaties
 De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, gebrek aan voldoening en weinig initiatief tot pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen ontstaan die uitgroeien tot grotere, vermijdbare problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden. Hierdoor is meer werk gedaan en zal de werkdruk en thuiswerk verminderen. Een ander belangrijk aspect is de stress, aangezien dit moeilijk te zien is en moeilijk valt te communiceren. Er is nood aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
 <br>
-Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken. 
+Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken.
+<br>
 <ins> Om deze zaken duidelijker te kaderen en te verwoorden in requirements, werd een innovatrix ingevuld (bijlagen)
 
 ### Requirements
@@ -148,7 +149,7 @@ We komen langs op kantoor bij enkele mensen uit de gekozen doelgroep en voeren t
 Voor deze test wordt dus gekozen voor een **functioneel, ruw prototype** in de plaats van een esthetisch prototype.
 
 #### Resultaten
-##### Test 1 (product - gebruiker):
+##### <ins> Test 1 (product - gebruiker):
 <img src="https://github.com/user-attachments/assets/9d2cbe4f-19d9-45d3-b653-214c3f2f37d0" alt="Alt Text" width="700">
 <br>
 <br>
@@ -174,7 +175,7 @@ Uit het gemiddelde van de 5 testpersonen kunnen een aantal zaken afgeleid worden
 
  > “Als stress op een andere manier wordt gemeld, waardoor je zeker weet dat je stress hebt, dan zal dit leiden tot meer stress”
 
-##### Test 2 (product - collega's):
+##### <ins> Test 2 (product - collega's):
 <img src="https://github.com/user-attachments/assets/47298b2b-ffc2-44d5-97f2-5917d38dfa6f" alt="Alt Text" width="700">
 <br>
 <br>

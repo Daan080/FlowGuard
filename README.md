@@ -248,12 +248,12 @@ Om de volgende stappen in het proces makkelijker te maken het product meer de de
 
 #### Materiaal & methoden
 Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think aloud' interview om de indeling van de interface te bepalen en een interactief website-prototype op figma om deze layout te onderzoeken en te beoordelen. Om de 4 participanten zoveel mogelijk vrijheid te geven en de indeling van de interface worden geen voorgemaakte interfaces aangeboden maar lege foam-modellen waarop ze zelf de knoppen kunnen ordenen. De gebruikte zaken zijn:
-•	Simpele schuimvormen (balk en cilinder)
-•	Interacties in de vorm van knoppen per functie (tijd instellen, start/pauze, aan/uit, groen/rood)
-•	Smartphone om conversaties op te nemen
-•	4 afgeprinte informed consents
-•	Laptop om protocol voor te lezen resultaten te noteren en
-•	Laptop om voorbeelden interface hub te tonen en website te simuleren
+- Simpele schuimvormen (balk en cilinder)
+- Interacties in de vorm van knoppen per functie (tijd instellen, start/pauze, aan/uit, groen/rood)
+- Smartphone om conversaties op te nemen
+- 4 afgeprinte informed consents
+- Laptop om protocol voor te lezen en resultaten te noteren
+- Laptop om voorbeelden van de centrale interface te tonen en website te simuleren
 
 ![image](https://github.com/user-attachments/assets/bfd3b7fb-f251-44d4-9b21-eafdca897430)
 
@@ -266,8 +266,48 @@ Naast de layout van de website wordt ook specifiek de functie in verband met syn
 Om de beste layout er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en dezeze achteraf te analyseren.
 
 #### Resultaten
+##### <ins> Centrale interface </ins>
+- Vorm: Cilinder heeft meest vriendelijke en organische uitstraling en het minst robuust.
+- Knop tijd instellen: Draaiknop heeft de voorkeur doordat het mooi in de centrale vorm geïntegreerd kan worden en zeer intuïtief werkt.
+- Knop aan/uit: Drukknop wint omdat zijn kleine omvang het minst opvalt. Er moet wel duidelijke feedback zijn in welke staat het zich bevindt. Het mag zich op een minder toegankelijke plek bevinden, aangezien het niet vaak gebruikt zal worden.
+- Knop starten/stoppen: Enkele drukknop die zich vanboven op toestel bevindt is het best voor gemakkelijke en snelle toegankelijkheid. Het indrukken van deze knop geeft een duidelijk gevoel van de start van een werkperiode. Duidelijkheid over huidige staat van knop is zeer belangrijk, dus daar moet rekening mee gehouden worden.
+- Knop groen/rood: Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
+
+Volgende interfaces werden ontwerpen tijdens het interactief ontwerpen:
+![image](https://github.com/user-attachments/assets/0b4986e4-1f4e-4917-a4df-89fa2bf0e185)
+
+##### <ins> Webiste interface </ins>
+<ins> lay-out </ins>
+- Website 1 is goed door het strak design, maar slechter doordat er meer clicks nodig zijn.
+- Website 2 en 3 worden als gelijkaardig beschouwd en zijn goed doordat de functies duidelijk zijn weergegeven. De voorkeur ging toch naar website 3.
+- Website 4 is goed doordat visueel duidelijk is wat er achter de knoppen zit.
+Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out:
+| participant | lay-out 1 | layout 2 | lay-out 3 | lay-out 4 |
+| -------- | :--- | :---: | :---: | :---: |
+| **1** | 1 | 2 | 3 | 0 |
+| **2** | 1 | 3 | 2 | 0 |
+| **3** | 3 | 0 | 1 | 2 |
+| **4** | 0 | 1 | 2 | 3 |
+| **OTAAL** | 5 | 6 | 8 | 0 | 
+
+<ins> tablad werkomgeving </ins>
+Bij het testen van de interacties op de website werden snel enkele zaken duidelijk. Om alle opmerkingen te zien of enkele schermopnamen kan gekeken worden naar het rapport van deelopdracht 3 (bijlagen). De belangrijkste zaken zijn:
+- **Turial**: Na de website even te proberen en enkele fouten te hebben gemaakt was iedereen ervan overtuigd dat ze deze niet meer opnieuw zouden maken. Een tutorial of korte uitleg over de werking zou dus helpen.
+- **tijdsaanduiding**: Er moet duidelijker getoond worden als het over uren of minuten gaat. Om dit te duiden met een voorbeeld: de meesten dachten dat 01:20 een timer was voor een minuut en 20 seconden, waar een uur werd bedoeld.
+Ook moet duidelijker getoond worden dat dit een aflopende timer is dat overgaat in een pauze wanneer deze eindigt.
+- **licht uit**: Men was niet zeker wat de betekenis was van een licht dat niet aan stond.
+
+> Krijg je een melding als iemand met jouw timer synchroniseert?
 
 #### Conclusies & implicaties
+centrale interface:
+Iedereen streeft naar een zo intuïtief mogelijk en esthetisch zo strak mogelijk ontwerp. Knoppen worden het liefst bijna blindelings en met één hand gebruikt. Indien mogelijk worden zo weinig mogelijk knoppen geprefereerd. Knoppen moeten tamelijk gegroepeerd zijn, zodat je er niet achter moet zoeken. Knoppen die vaker gebruikt worden, moeten groter zijn dan knoppen die minder vaak gebruikt worden. Ten slotte moeten knoppen duidelijke feedback geven en er mag geen twijfel zijn over de huidige staat van een product.
+
+Tabblad Werkomgeving:
+- Er moet een duidelijk onderscheid zijn tussen de timer en de werkstatus.
+- Tijdsaanduiding mag niet verwarrend zijn.
+- Bij eerste gebruik van de website moet er een kleine introductie zijn om duidelijkheid te scheppen.
+- Synchroniseren gebeurt intuïtiever door eerst op naam te klikken en vervolgens op “synchroniseer” of door één grote “synchroniseer”-knop te voorzien en vervolgens op een naam.
 
 #### Requirements
 "

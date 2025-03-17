@@ -114,25 +114,34 @@ Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een sto
 #### Doelstellingen
 Het doel van deze conceptvalidatie is om het eerste concept met een paar mockups voor te stellen aan de doelgroep en hun meningen, inzichten en onduidelijkheden te capteren. Op deze manier kan gekeken worden of dit concept aan de eisen van de doelgroep voldoet.
 #### Materiaal & methoden
-Testpersonen maken kennis met het concept en er worden enkele open, maar gerichte vragen gesteld. Voor een gedetailleerd stappenplan kan worden gekeken naar het protocol (bijlagen). Hiervoor is enkel een laptop nodig om de antwoorden te capteren. Om de gebruikers een beter beeld te geven van dit eerste concept, worden 2 quick-and-dirty prototypes gemaakt om mee te interageren. Deze prototypes dienen om de functies van het concept uit te lichten, maar kunnen deze niet uitoefenen. 
-De **prototypes dienen dus vooral om het idee te communiceren met de doelgroep op visueel vlak**.
+Testpersonen maken kennis met het concept en er worden enkele open, maar gerichte vragen gesteld. Voor een gedetailleerd stappenplan kan worden gekeken naar het protocol (bijlagen). 
+Benodigdheden zijn:
+- een laptop om de antwoorden te capteren
+- dyctafoon voor spraakopname
+- 2 quick-and-dirty prototypes gemaakt om mee te interageren
+De **prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
 
 ![Prototype 2 - Wave 1](https://github.com/user-attachments/assets/49fa4dd4-5dcc-4e52-8027-dddf6a878e4b)
 ![Prototype 1 - Wave 1](https://github.com/user-attachments/assets/67220488-de7e-4cd0-8e5a-e88ee4fedace)
 
 
 #### Resultaten
-Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden. Voor fysieke beweging tijdens het werk verschillen de meningen: sommigen vinden dat er meer moet worden bewogen of rechtgestaan, maar een kleine meerderheid vindt dat niet nodig tijdens de werkuren.
+**stress**: Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden.
 
-Het idee van pauzes op basis van tijd wordt door iedereen als vanzelfsprekend gezien. Het zelf kunnen instellen van werk- en pauzelengtes is een must en sommigen opteren voor een optie om je pauze nog net iets uit te stellen, indien je net nog niet klaar was met een taak. Er werd door iemand voorgesteld om pauzes synchroon te laten verlopen met andere collega's tijdens teamactiviteiten, zoals vergaderingen of telefoongesprekken, om efficiënter te werken als een team. Pauzes op basis van stressmetingen wordt door de meesten positief ontvangen en de meesten zijn dan ook bereid om daarvoor externe apparatuur te dragen. Eén iemand was hier minder fan van en stelde voor om het als een optie aan te bieden. Indien technologisch mogelijk, zouden sommigen het wenselijk vinden om meldingen van je gsm te syncroniseren met het product en niet-essentiële meldingen weg te filteren.
+**fysieke beweging**: over beweging tijdens het werk verschillen de meningen: sommigen vinden dat er meer moet worden bewogen of rechtgestaan, maar een kleine meerderheid vindt dat niet nodig tijdens de werkuren. Hieruit kunnen we besluiten dat D 1.2 kan worden weggelaten.
 
-Qua vormgeving wordt het product vaak geassociëerd met een eierklokje, alleen wordt het niet gewenst dat het voortdurend gaat tikken tijdens het aftellen. Het product werd als groot opgevat, maar dat vond men wel nodig om genoeg op te vallen. Indien er symbolen of woorden gebruikt worden, zou de betekenis zeer duidelijk moeten zijn en liefst in het Nederlands.
+**pauzes**: Het idee van pauzes <ins> op basis van tijd </ins> wordt door iedereen als vanzelfsprekend gezien. Het zelf kunnen instellen van werk- en pauzelengtes is een must en sommigen opteren voor een optie om je pauze nog net iets uit te stellen, indien je net nog niet klaar was met een taak. 
+Er werd door iemand voorgesteld om pauzes synchroon te laten verlopen met andere collega's tijdens teamactiviteiten, zoals vergaderingen of telefoongesprekken, om efficiënter te werken als een team. Pauzes <ins> op basis van stressmetingen </ins> wordt door de meesten positief ontvangen en de meesten zijn dan ook bereid om daarvoor externe apparatuur te dragen. 2 participanten waren hier minder fan van en stelde voor om het als een optie aan te bieden. 
 
-In termen van communicatie benadrukken alle deelnemers respect voor de rust van collega’s. Communiceren en lezen of iemand al dan niet gestoord wilt worden verloopt echter niet altijd even gemakkelijk, dus een visueel en aanwezig toestel dat deze focus met collega's deelt door middel van een bijvoorbeeld een kleur is een gewild product. Live-updates over stress worden minder op prijs gesteld, omdat deze mogelijk meer afleiden dan bijdragen.
+**meldingen**: Indien technologisch mogelijk, zouden sommigen het wenselijk vinden om meldingen van je gsm te syncroniseren met het product en niet-essentiële meldingen weg te filteren.
 
-De dagelijkse evaluatie van werkprestaties en stressniveaus wordt door de meeste deelnemers gewaardeerd. Dit helpt hen reflecteren op hun werkdag en geeft inzicht in hun productiviteit. Een enkeling uitte echter zorgen dat tijdsregistratie juist extra stress en onzekerheid kan veroorzaken over je al dan niet goede workflow.
+**vormgeving**: Het product wordt meerdere malen geassociëerd met een eierklokje, alleen wordt het niet gewenst dat het voortdurend gaat tikken tijdens het aftellen. Het product was groot genoeg om op te vallen. Indien er symbolen of woorden gebruikt worden, zou de betekenis zeer duidelijk moeten zijn en liefst in het Nederlands.
 
-Vrijwel iedereen benadrukte het belang van persoonlijke aanpassingsmogelijkheden. Dat ging over voor werk- en pauzeduur, syncronisatie en filtering van meldingen, het meten van stress door externe apparatuur en de soorten analyses op het einde van de dag. Ook mocht alles niet te lang duren om in te stellen om het gebruiksgemak en de werkefficiëntie hoog te houden.
+**communicatie**: De participanten benadrukken de respect voor de rust van collega’s en bevestigen de bijdrage dat het product kan leveren op vlak van communicatie. Live-updates over stress worden minder op prijs gesteld, omdat deze mogelijk meer afleiden dan bijdragen.
+
+**dagelijkse evaluatie**: de evaluatie van werkprestaties en stressniveaus wordt door de meeste deelnemers gewaardeerd. Dit helpt hen reflecteren op hun werkdag en geeft inzicht in hun productiviteit. Een enkeling uitte echter zorgen dat dit een juist zal zorgen voor ontenvredenheid.
+
+Vrijwel iedereen benadrukte het belang van **persoonlijke aanpassingsmogelijkheden**. Dat ging over voor werk- en pauzeduur, syncronisatie en filtering van meldingen, het meten van stress door externe apparatuur en de soorten analyses op het einde van de dag. Ook mocht alles niet te lang duren om in te stellen om het gebruiksgemak en de werkefficiëntie hoog te houden.
 
 #### Conclusies & implicaties
 Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. ****Stressmetingen**** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
@@ -143,9 +152,16 @@ Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
 
 #### Doelstellingen
-De hoofddoelen van het product zijn werkefficiëntie verhogen, communicatie tussen collega's verbeteren en voldoening brengen tijdens het werken. Om deze zaken te vervullen zal het product in staat moeten zijn om duidelijk te communiceren. Bij het gebruik van het product zullen er twee vormen van communicatie voorkomen: het aanraden van pauzes naar de gebruiker toe (product – gebruiker) en het communiceren van de werkstatus met collega's (product – collega's). Aan de hand van twee testen wordt gekeken welke signalen optimaal zijn voor elke vorm van communicatie. 
+Het product zal in staat moeten zijn om duidelijk te communiceren. Bij het gebruik van het product zullen er twee vormen van communicatie voorkomen: het aanraden van pauzes naar de gebruiker toe (product – gebruiker) en het communiceren van de werkstatus met collega's (product – collega's). Met volgende testen wordt gekeken welke signalen het best gebruikt worden.
 #### Materiaal & methoden
-We komen langs op kantoor bij enkele mensen uit de gekozen doelgroep en voeren twee testen uit: één voor de communicatie tussen product en gebruiker en één voor de communicatie tussen product en collega's. Een gedetailleerd stappenplan voor beide testen is te vinden in het protocol van Wave 2. Hiervoor hebben we volgende zaken nodig: een laptop met een typtest, een prototype dat kan lichtgeven, geluid maken en trillen en een smartwatch dat kan trillen. Het prototype is een doos gemaakt uit MDF en plexiglas met ruimte om een smartphone in te plaatsen en focust puur op de functie om signalen te kunnen verzenden en is niet bedoeld om het voorkomen van het product te representeren. 
+Er wordt geopteerd om de testen uit te voeren in de juiste context, dus worden deze uitgevoerd bij 5 participanten in een vooraf gecontacteerd kantoor. Een gedetailleerd stappenplan voor de twee uit te voeren testen is te vinden in het protocol van Wave 2 (bijlagen). 
+Volgende zaken zijn nodig:
+- een laptop met een typtest
+- een prototype dat kan lichtgeven, geluid maken en trillen
+- een smartwatch dat kan trillen
+- een laptop om te noteren/context te simuleren
+- gsm om interactie te capteren (filmen)
+Het prototype is een doos gemaakt uit MDF en plexiglas met ruimte om een smartphone in te plaatsen en focust puur op de functie om signalen te kunnen verzenden en is niet bedoeld om het voorkomen van het product te representeren. 
 Voor deze test wordt dus gekozen voor een **functioneel, ruw prototype** in de plaats van een esthetisch prototype.
 
 #### Resultaten
@@ -189,9 +205,13 @@ Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor 
 |**Wat zou de reden zijn dat jouw collega deze kleur zou gebruiken?** | - bereikbaar <br>- rustige taak<br>- mails checken  | - taken waarbij je liever niet gestoord wordt, maar het is geen groot probleem | - niet storen <br>- stressvolle taak<br>- druk bezig | <br>- zeer gefocust werk <br> - niet storen anders ben ik de kluts kwijt | - pauze <br> - rustige taak | - geen opdracht <br> - misschien pauze |
 |**Wat denk je dat hij/zij op dat moment aan het doen is?** | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven |
 
-Bij een steekproef van 5 participanten wordt vastgesteld dat de kleuren rood en groen een éénduidige emotie opbrengen bij alle participanten. Dit zorgt ervoor dat deze makkelijk geïntegreerd kunnen worden in het ontwerp zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in het product, zonder dat hierover verwarring ontstaat. Hierbij horen blauw, wit en mogelijks nog andere extrensieke kleuren. Dit kan dan dienen voor nog nader te bepalen functies of andere variabelen van het product. Een laatste groep kleuren wekken hetzelfde gevoel op als de extremen groen en rood, maar met minder overtuiging. Hierbij hoort geel en mogelijks oranje.
+**rood en groen** brengen een éénduidige emotie op bij alle participanten. Dit zorgt ervoor dat deze makkelijk geïntegreerd kunnen worden in het concept zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in het product, zonder dat hierover verwarring ontstaat.
+**blauw, wit en andere meer extrensieke kleuren**: Deze brengen verwarring en geven ze bij iedereen een ander gevoel. Dit kan misschien voor een specifieke functie/interactie gebruikt worden.
+**oranje en geel**: Deze staan tussen rood en groen, maar geven ook geen eenduidig gevoel bij de participanten, waardoor ze moeilijker intuïtief te gebruiken zijn.
 #### Conclusies & implicaties
-Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Initieel wordt het meeste voorkeur gegeven aan trillen van een armband of communicatie met een geluid. Het laatste is echter te storend voor de omgeving, net als flikkerend licht en zal daardoor wegvallen. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe wordt gekeken welke lichtkleuren kunnen worden gebruikt in het product. Er wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
+Het <ins> communiceren van product naar werknemer </ins> moet eenduidig zijn en genoeg aandacht trekken naar de gebruiker toe. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. 
+
+Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
 ### Requirements
 
@@ -199,7 +219,6 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 | -------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
 | 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
-| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  | 17/10/2024 |
 | 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
 | 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
 |*Groep 2* | *Communicatie* |  |  |
@@ -213,18 +232,14 @@ Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg a
 | 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend masserend patroon op de pols |  | 16/12/2024 |
 | 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt |  | 16/12/2024 |
 |*Groep 3* | *Voldoening* |  |  |
-| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
+| 3.1 | Gebruiker moet voldoening krijgen aan einde van de dag |  | 24/10/2024 |
 |*Groep 4* | *Algemeen* |  |  |
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
 | 4.2 | Het product is snel en intuïtief in te stellen |  | 01/12/2024 |
 | 4.3 | Het product kan op elk moment opnieuw worden ingesteld, of de instellingen worden aangepast |  | 01/12/2024 |
-| 4.4 | Het voorkomen van het product is opvallend om aandacht op zich te kunnen brengen |  | 01/12/2024 |
-| 4.5 | Tekst op het product dient in het Nederlands te zijn voor makkelijker gebruik |  | 16/12/2024 |
+| 4.4 | Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen |  | 01/12/2024 |
+| 4.5 | Tekst op het product dient in het Nederlands te zijn|  | 16/12/2024 |
 
-
-Er werd wederom bevestigd dat concept zeer gewild is binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een intuïtieve instelling van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. Stressmetingen kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende meldingen gefilterd worden tijdens focusstand. Wat betreft de vormgeving moet het product herkenbaar en opvallend zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor focusstatus moet aanwezig zijn, liefst een kleurlicht. Ten slotte moeten gebruikers instellingen kunnen personaliseren, want iedereen werkt op een andere manier
-
-Het communiceren van product naar werknemer moet duidelijk genoeg zijn, genoeg aandacht trekken naar de gebruiker toe, om dit niet te missen. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een trillende armband om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. Bij de communicatie van het product naar de collega's toe volstaat in het algemeen groen en rood om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
 ## Define
 ### Define 1

@@ -283,12 +283,12 @@ Volgende interfaces werden ontwerpen tijdens het interactief ontwerpen:
 - Website 4 is goed doordat visueel duidelijk is wat er achter de knoppen zit.
 Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out:
 | participant | lay-out 1 | lay-out 2 | lay-out 3 | lay-out 4 |
-| -------- | --- | --- | --- | --- |
-| **1** | 1 | 2 | 3 | 0 |
-| **2** | 1 | 3 | 2 | 0 |
-| **3** | 3 | 0 | 1 | 2 |
-| **4** | 0 | 1 | 2 | 3 |
-| **TOTAAL** | 5 | 6 | 8 | 0 | 
+|------------|-----------|-----------|-----------|-----------|
+| **1**      | 1         | 2         | 3         | 0         |
+| **2**      | 1         | 3         | 2         | 0         |
+| **3**      | 3         | 0         | 1         | 2         |
+| **4**      | 0         | 1         | 2         | 3         |
+| **TOTAAL** | 5         | 6         | 8         | 0         |
 
 <ins> tablad werkomgeving </ins>
 Bij het testen van de interacties op de website werden snel enkele zaken duidelijk. Om alle opmerkingen te zien of enkele schermopnamen kan gekeken worden naar het rapport van deelopdracht 3 (bijlagen). De belangrijkste zaken zijn:

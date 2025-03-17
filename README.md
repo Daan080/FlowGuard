@@ -281,6 +281,7 @@ Volgende interfaces werden ontwerpen tijdens het interactief ontwerpen:
 - Website 1 is goed door het strak design, maar slechter doordat er meer clicks nodig zijn.
 - Website 2 en 3 worden als gelijkaardig beschouwd en zijn goed doordat de functies duidelijk zijn weergegeven. De voorkeur ging toch naar website 3.
 - Website 4 is goed doordat visueel duidelijk is wat er achter de knoppen zit.
+
 Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out:
 
 | participant | lay-out 1 | lay-out 2 | lay-out 3 | lay-out 4 |

@@ -29,7 +29,7 @@ Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Ho
 ## Methodologie
 In dit project werd gebruik gemaakt van onderstaande ontwerpmethode, deze is gebaseerd op de "quadriple diamond".
 
-![Mainmethods et all _ BB](https://github.com/user-attachments/assets/08afe971-c23a-49a9-9bfc-0b0bcaf553a1)
+![methodologie](img/methodologie.png)
 
 
 Het eerste semester werden de Discover en Define fase doorlopen, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
@@ -93,7 +93,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
 
-![image](https://github.com/user-attachments/assets/fe67ec91-f20d-4f70-ab75-0093cbf8f68d)
+![discovery](img/discovery.png)
 
 
 ## Definition
@@ -106,7 +106,7 @@ Uit de discovery kunnen de belangrijkste aspecten van de oplossing gebundeld wor
 (3. Pauze en voldoening)
 
 Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.
-![sotryboard](https://github.com/user-attachments/assets/6f3207b5-ab8e-4577-8222-387608e9e4e1)
+![storyboard](img/storyboard.png)
 
 
 ### <ins>Wave 1: conceptvalidatie</ins> (N=5)
@@ -121,8 +121,8 @@ Benodigdheden zijn:
 - 2 quick-and-dirty prototypes gemaakt om mee te interageren
 <br>**De prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
 
-![Prototype 2 - Wave 1](https://github.com/user-attachments/assets/49fa4dd4-5dcc-4e52-8027-dddf6a878e4b)
-![Prototype 1 - Wave 1](https://github.com/user-attachments/assets/67220488-de7e-4cd0-8e5a-e88ee4fedace)
+![wave 1 prototype 1](img/wave)
+![wave 1 prototype 2](img/wave 1 prototype 2.jpg)
 
 
 #### Resultaten
@@ -146,7 +146,7 @@ Vrijwel iedereen benadrukte het belang van **persoonlijke aanpassingsmogelijkhed
 #### Conclusies & implicaties
 Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. **Stressmetingen** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
 #### MoSCow review
-<img src="https://github.com/user-attachments/assets/4ce280fb-c397-47f1-8e00-9434724d46a4" alt="Alt Text" width="700">
+![moscow review](img/moscow review.jpg)
 
 
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
@@ -166,7 +166,7 @@ Voor deze test wordt dus gekozen voor een **functioneel, ruw prototype** in de p
 
 #### Resultaten
 ##### <ins> Test 1 (product - gebruiker):
-<img src="https://github.com/user-attachments/assets/9d2cbe4f-19d9-45d3-b653-214c3f2f37d0" alt="Alt Text" width="700">
+![wave 2 test 1](img/wave 2 test 1.jpg)
 <br>
 <br>
 Deze tabel bevat de gemiddelde scores van alle participanten. Voor de scores per participant kan gekeken worden in het rapport van Wave 2.
@@ -192,7 +192,7 @@ Uit het gemiddelde van de 5 testpersonen kunnen een aantal zaken afgeleid worden
  > “Als stress op een andere manier wordt gemeld, waardoor je zeker weet dat je stress hebt, dan zal dit leiden tot meer stress”
 
 ##### <ins> Test 2 (product - collega's):
-<img src="https://github.com/user-attachments/assets/47298b2b-ffc2-44d5-97f2-5917d38dfa6f" alt="Alt Text" width="700">
+![wave 2 test 2](img/wave 2 test 2.png)
 <br>
 <br>
 Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor de antwoorden per participant kan gekeken worden in het rapport van Wave 2.

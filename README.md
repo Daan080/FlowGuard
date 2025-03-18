@@ -264,7 +264,7 @@ Om de beste layout er uit te halen wordt aan de participanten gevraagd om websit
 - **Knop starten/stoppen:** Enkele drukknop die zich vanboven op toestel bevindt is het best voor gemakkelijke en snelle toegankelijkheid. Het indrukken van deze knop geeft een duidelijk gevoel van de start van een werkperiode. Duidelijkheid over huidige staat van knop is zeer belangrijk, dus daar moet rekening mee gehouden worden.
 - **Knop groen/rood:** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
 
-Volgende interfaces werden ontwerpen tijdens het interactief ontwerpen:
+Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
 ![image](https://github.com/user-attachments/assets/0b4986e4-1f4e-4917-a4df-89fa2bf0e185)
 
 ##### <ins> Webiste interface </ins>

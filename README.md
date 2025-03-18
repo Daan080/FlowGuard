@@ -41,28 +41,28 @@ De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatt
 ### Materiaal & methoden
  #### SOTA-schema (zie bijlagen)
  Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem.
- #### user interview (N = 3)
- In dit onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk bij verschillende personen. Omdat iedereen dit anders kan ervaren en hier een dieper inzicht nodig was werd        geopteerd voor een user interview.
+ #### User interview (N = 3)
+ In dit onderzoek werd teruggegaan naar de oorzaak van de stress en werkdruk bij verschillende personen. Omdat iedereen dit anders kan ervaren en hier een dieper inzicht nodig was werd geopteerd voor een user interview.
  De interviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
- #### liturature review (N = 12)
+ #### Liturature review (N = 12)
  Hier werd gekeken naar de grootte en omvang van het probleem, hoe stress gemeten kan worden en in welke mate de kantooromgeving de fysieke en mentale gezondheid beïnvloedt.
  De liturature reviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
 
 ### Resultaten
 De liturature review werd uitgevoerd doorheen de volledige discoveryfase en werd uitgevoerd aan de hand van een protocol en rapport (zie bijlage). De belangrijkste zaken die hieruit kunnen worden afgeleid zijn:
-- **methode om stress te meten**: om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting mogelijks gecombineerd met galvanische  huidrespons. De hartslagmeter kan zonder persoonlijke aanpassing toch een accuraat beeld van de stress weergeven. Het werkt namelijk op basis van hartslagvariabiliteit en niet op de hartslagwaarde zelf, zo zijn er geen problemen bij mensen die van nature een hoge hartslag.
-- **het probleem is groter dan gedacht**: Niet alleen in de kantooromgeving, maar ook bij veel andere jobs en zelfs studenten is dit probleem aanwezig. Dit zijn doelgroepen die met behulp van kleine aanpassingen aan het eindproduct hier misschien ook gebruik van kunnen maken. Om het product tot stand te brengen zal de doelgroep echter beperkt blijven tot kantoorjobs.
-- **weinig fysieke beweging**: dit is niet het hoogdprobleem dat in dit proces onderzocht wordt of behandeld, maar kan een oorzaak zijn van stress in de context van het gekozen probleem en wordt verder onderzocht in de user interviews.
-- **stress en werkdruk**: meerdere zaken spelen een rol, namelijk de omgeving, kwaliteit van werken, organisatie, werkhoeveelheid, ... of deze allemaal van toepassing zijn zal ook nader onderzocht worden in de user interviews.
-- **sociale media en technologie**: dit speelt grote parten in de stress en werkdruk. De afleiding is te groot en heeft een negatief effect op de productiviteit, stress, werkdruk en de mentale gezondheid.
+- **Methode om stress te meten**: Om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting mogelijks gecombineerd met galvanische  huidrespons. De hartslagmeter kan zonder persoonlijke aanpassing toch een accuraat beeld van de stress weergeven. Het werkt namelijk op basis van hartslagvariabiliteit en niet op de hartslagwaarde zelf, zo zijn er geen problemen bij mensen die van nature een hoge hartslag.
+- **Het probleem is groter dan gedacht**: Niet alleen in de kantooromgeving, maar ook bij veel andere jobs en zelfs studenten is dit probleem aanwezig. Dit zijn doelgroepen die met behulp van kleine aanpassingen aan het eindproduct hier misschien ook gebruik van kunnen maken. Om het product tot stand te brengen zal de doelgroep echter beperkt blijven tot kantoorjobs.
+- **Weinig fysieke beweging**: Dit is niet het hoofdprobleem dat in dit proces onderzocht wordt of behandeld, maar kan een oorzaak zijn van stress in de context van het gekozen probleem en wordt verder onderzocht in de user interviews.
+- **Stress en werkdruk**: Meerdere zaken spelen een rol, namelijk de omgeving, kwaliteit van werken, organisatie, werkhoeveelheid, ... of deze allemaal van toepassing zijn zal ook nader onderzocht worden in de user interviews.
+- **Sociale media en technologie**: Dit speelt grote parten in de stress en werkdruk. De afleiding is te groot en heeft een negatief effect op de productiviteit, stress, werkdruk en de mentale gezondheid.
 > “Ons brein is nog altijd niet goed bestand tegen Whatsapp, e-mail en Zoom.”
 
 Bij de user interviews werden een 3-tal respondenten ondervraagt en werden de overgebleven onduidelijkheden in de liturature review onderzocht. Volgende zaken kwamen meerdere malen naar voor:
-- **moeilijkheid om lange tijd aan een stuk te concentreren**: Alle respondenten zijn het eens over het feit dat er tegenwoordeig meer afleidingen zijn. Dit door meldingen van gsm's maar ook door collega's die storen, of andere afleidende zaken.
+- **Moeilijkheid om lange tijd aan een stuk te concentreren**: Alle respondenten zijn het eens over het feit dat er tegenwoordeig meer afleidingen zijn. Dit door meldingen van gsm's maar ook door collega's die storen, of andere afleidende zaken.
 - **Te weinig voldoening halen uit je job**: Hoewel dit niet van toepassing was bij de respondenten gaven ze aan dat dit een grote oorzaak is van stress en burn-outs.
-- **communicatie**: hierbij worden vaak problemen ondervonden die onnodig zijn. Dit kan gaan van frustraties die je niet kan uiten tot persoonlijke zaken waarbij je je niet comfortabel voelt om ze te delen of aarzelingen om hulp te vragen.
-- **fysieke beweging**: dit werd niet zozeer gemist, omdat men dit makkelijk inhaald buiten het werk. Dit mag dus geschrapt worden als oorzaak van stress.
-- **pauzes**: Hier is zeker ruimte voor verbetering. Ze worden vaak vergeten, niet genoeg gesimuleerd en dit geeft een kans om even weg te zijn van je stresserende omgeving.
+- **Communicatie**: Hierbij worden vaak problemen ondervonden die onnodig zijn. Dit kan gaan van frustraties die je niet kan uiten tot persoonlijke zaken waarbij je je niet comfortabel voelt om ze te delen of aarzelingen om hulp te vragen.
+- **Fysieke beweging**: Dit werd niet zozeer gemist, omdat men dit makkelijk inhaald buiten het werk. Dit mag dus geschrapt worden als oorzaak van stress.
+- **Pauzes**: Hier is zeker ruimte voor verbetering. Ze worden vaak vergeten, niet genoeg gesimuleerd en dit geeft een kans om even weg te zijn van je stresserende omgeving.
 
 ### Conclusies & implicaties
 De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, gebrek aan voldoening en weinig initiatief tot pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen ontstaan die uitgroeien tot grotere, vermijdbare problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden. Hierdoor is meer werk gedaan en zal de werkdruk en thuiswerk verminderen. Een ander belangrijk aspect is de stress, aangezien dit moeilijk te zien is en moeilijk valt te communiceren. Er is nood aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
@@ -79,7 +79,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 | 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
 | 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  | 17/10/2024 |
 | 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
-| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
+| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden | | 27/10/2024 |
 | *Groep 2* | *Communicatie* |  |  |
 | 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  | 01/12/2024 |
 | 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  | 27/10/2024 |
@@ -87,8 +87,8 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 | 2.4 | Stress moet gemeten en gecommuniceerd worden |  | 24/10/2024 |
 | *Groep 3* | *Voldoening* |  |  |
 | 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
-| *Groep 4* | *Algemeen* |  |  |
-| 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
+| *Groep 4* | *Stress* |  |  |
+| 4.1 |  wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
 <br>
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
@@ -119,32 +119,32 @@ Benodigdheden zijn:
 - een laptop om de antwoorden te capteren
 - dyctafoon voor spraakopname
 - 2 quick-and-dirty prototypes gemaakt om mee te interageren
-De **prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
+<br>**De prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
 
 ![Prototype 2 - Wave 1](https://github.com/user-attachments/assets/49fa4dd4-5dcc-4e52-8027-dddf6a878e4b)
 ![Prototype 1 - Wave 1](https://github.com/user-attachments/assets/67220488-de7e-4cd0-8e5a-e88ee4fedace)
 
 
 #### Resultaten
-**stress**: Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden.
+**Stress**: Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden.
 
-**fysieke beweging**: over beweging tijdens het werk verschillen de meningen: sommigen vinden dat er meer moet worden bewogen of rechtgestaan, maar een kleine meerderheid vindt dat niet nodig tijdens de werkuren. Hieruit kunnen we besluiten dat D 1.2 kan worden weggelaten.
+**Fysieke beweging**: Over beweging tijdens het werk verschillen de meningen: sommigen vinden dat er meer moet worden bewogen of rechtgestaan, maar een kleine meerderheid vindt dat niet nodig tijdens de werkuren. Hieruit kunnen we besluiten dat D 1.2 kan worden weggelaten.
 
-**pauzes**: Het idee van pauzes <ins> op basis van tijd </ins> wordt door iedereen als vanzelfsprekend gezien. Het zelf kunnen instellen van werk- en pauzelengtes is een must en sommigen opteren voor een optie om je pauze nog net iets uit te stellen, indien je net nog niet klaar was met een taak. 
+**Pauzes**: Het idee van pauzes <ins> op basis van tijd </ins> wordt door iedereen als vanzelfsprekend gezien. Het zelf kunnen instellen van werk- en pauzelengtes is een must en sommigen opteren voor een optie om je pauze nog net iets uit te stellen, indien je net nog niet klaar was met een taak. 
 Er werd door iemand voorgesteld om pauzes synchroon te laten verlopen met andere collega's tijdens teamactiviteiten, zoals vergaderingen of telefoongesprekken, om efficiënter te werken als een team. Pauzes <ins> op basis van stressmetingen </ins> wordt door de meesten positief ontvangen en de meesten zijn dan ook bereid om daarvoor externe apparatuur te dragen. 2 participanten waren hier minder fan van en stelde voor om het als een optie aan te bieden. 
 
-**meldingen**: Indien technologisch mogelijk, zouden sommigen het wenselijk vinden om meldingen van je gsm te syncroniseren met het product en niet-essentiële meldingen weg te filteren.
+**Meldingen**: Indien technologisch mogelijk, zouden sommigen het wenselijk vinden om meldingen van je gsm te syncroniseren met het product en niet-essentiële meldingen weg te filteren.
 
-**vormgeving**: Het product wordt meerdere malen geassociëerd met een eierklokje, alleen wordt het niet gewenst dat het voortdurend gaat tikken tijdens het aftellen. Het product was groot genoeg om op te vallen. Indien er symbolen of woorden gebruikt worden, zou de betekenis zeer duidelijk moeten zijn en liefst in het Nederlands.
+**Vormgeving**: Het product wordt meerdere malen geassociëerd met een eierklokje, alleen wordt het niet gewenst dat het voortdurend gaat tikken tijdens het aftellen. Het product was groot genoeg om op te vallen. Indien er symbolen of woorden gebruikt worden, zou de betekenis zeer duidelijk moeten zijn en liefst in het Nederlands.
 
-**communicatie**: De participanten benadrukken de respect voor de rust van collega’s en bevestigen de bijdrage dat het product kan leveren op vlak van communicatie. Live-updates over stress worden minder op prijs gesteld, omdat deze mogelijk meer afleiden dan bijdragen.
+**Communicatie**: De participanten benadrukken de respect voor de rust van collega’s en bevestigen de bijdrage dat het product kan leveren op vlak van communicatie. Live-updates over stress worden minder op prijs gesteld, omdat deze mogelijk meer afleiden dan bijdragen.
 
-**dagelijkse evaluatie**: de evaluatie van werkprestaties en stressniveaus wordt door de meeste deelnemers gewaardeerd. Dit helpt hen reflecteren op hun werkdag en geeft inzicht in hun productiviteit. Een enkeling uitte echter zorgen dat dit een juist zal zorgen voor ontenvredenheid.
+**Dagelijkse evaluatie**: De evaluatie van werkprestaties en stressniveaus wordt door de meeste deelnemers gewaardeerd. Dit helpt hen reflecteren op hun werkdag en geeft inzicht in hun productiviteit. Een enkeling uitte echter zorgen dat dit juist zal zorgen voor ontenvredenheid.
 
 Vrijwel iedereen benadrukte het belang van **persoonlijke aanpassingsmogelijkheden**. Dat ging over voor werk- en pauzeduur, syncronisatie en filtering van meldingen, het meten van stress door externe apparatuur en de soorten analyses op het einde van de dag. Ook mocht alles niet te lang duren om in te stellen om het gebruiksgemak en de werkefficiëntie hoog te houden.
 
 #### Conclusies & implicaties
-Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. ****Stressmetingen**** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
+Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. **Stressmetingen** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
 #### MoSCow review
 <img src="https://github.com/user-attachments/assets/4ce280fb-c397-47f1-8e00-9434724d46a4" alt="Alt Text" width="700">
 
@@ -205,9 +205,9 @@ Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor 
 |**Wat zou de reden zijn dat jouw collega deze kleur zou gebruiken?** | - bereikbaar <br>- rustige taak<br>- mails checken  | - taken waarbij je liever niet gestoord wordt, maar het is geen groot probleem | - niet storen <br>- stressvolle taak<br>- druk bezig | <br>- zeer gefocust werk <br> - niet storen anders ben ik de kluts kwijt | - pauze <br> - rustige taak | - geen opdracht <br> - misschien pauze |
 |**Wat denk je dat hij/zij op dat moment aan het doen is?** | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven |
 
-**rood en groen** brengen een éénduidige emotie op bij alle participanten. Dit zorgt ervoor dat deze makkelijk geïntegreerd kunnen worden in het concept zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in het product, zonder dat hierover verwarring ontstaat.
-**blauw, wit en andere meer extrensieke kleuren**: Deze brengen verwarring en geven ze bij iedereen een ander gevoel. Dit kan misschien voor een specifieke functie/interactie gebruikt worden.
-**oranje en geel**: Deze staan tussen rood en groen, maar geven ook geen eenduidig gevoel bij de participanten, waardoor ze moeilijker intuïtief te gebruiken zijn.
+**Rood en groen** brengen een éénduidige emotie op bij alle participanten. Dit zorgt ervoor dat deze makkelijk geïntegreerd kunnen worden in het concept zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in het product, zonder dat hierover verwarring ontstaat.
+<br>**Blauw, wit en andere meer extrensieke kleuren**: Deze brengen verwarring en geven ze bij iedereen een ander gevoel. Dit kan misschien voor een specifieke functie/interactie gebruikt worden.
+<br>**Oranje en geel**: Deze staan tussen rood en groen, maar geven ook geen eenduidig gevoel bij de participanten, waardoor ze moeilijker intuïtief te gebruiken zijn.
 #### Conclusies & implicaties
 Het <ins> communiceren van product naar werknemer </ins> moet eenduidig zijn en genoeg aandacht trekken naar de gebruiker toe. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. 
 
@@ -218,27 +218,18 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 |ID| Design Requirement | Bron | Datum |
 | -------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
-| 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
-| 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
-| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
+| 1.2 | ~~Er moet tijdens pauzes beweging aangeraden worden~~ | Definition (wave 1) | 01/12/2024 |
 |*Groep 2* | *Communicatie* |  |  |
-| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  | 01/12/2024 |
-| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  | 27/10/2024 |
-| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  | 01/12/2024 |
-| 2.4 | Stress moet gemeten en gecommuniceerd worden |  | 24/10/2024 |
-| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst |  | 01/12/2024 |
-| 2.6 | De focusstand van de gebruiker wordt gecomuniceerd met een visuele indicator, namelijk kleur |  | 01/12/2024 |
-| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht |  | 16/12/2024 |
-| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend masserend patroon op de pols |  | 16/12/2024 |
-| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt |  | 16/12/2024 |
-|*Groep 3* | *Voldoening* |  |  |
-| 3.1 | Gebruiker moet voldoening krijgen aan einde van de dag |  | 24/10/2024 |
+| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst | Definition (wave 1) | 01/12/2024 |
+| 2.6 | De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur | Definition (wave 1) | 01/12/2024 |
+| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht | Definition (wave 2) | 16/12/2024 |
+| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols | Definition (wave 2) | 16/12/2024 |
+| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt | Definition (wave 2) | 16/12/2024 |
 |*Groep 4* | *Algemeen* |  |  |
-| 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
-| 4.2 | Het product is snel en intuïtief in te stellen |  | 01/12/2024 |
-| 4.3 | Het product kan op elk moment opnieuw worden ingesteld, of de instellingen worden aangepast |  | 01/12/2024 |
-| 4.4 | Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen |  | 01/12/2024 |
-| 4.5 | Tekst op het product dient in het Nederlands te zijn|  | 16/12/2024 |
+| 4.2 | Het product is snel en intuïtief in te stellen | Definition (wave 1) | 01/12/2024 |
+| 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast | Definition (wave 1) | 01/12/2024 |
+| 4.4 | Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
+| 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
 
 
 ## Define
@@ -267,11 +258,11 @@ Om de beste layout er uit te halen wordt aan de participanten gevraagd om websit
 
 #### Resultaten
 ##### <ins> Centrale interface </ins>
-- Vorm: Cilinder heeft meest vriendelijke en organische uitstraling en het minst robuust.
-- Knop tijd instellen: Draaiknop heeft de voorkeur doordat het mooi in de centrale vorm geïntegreerd kan worden en zeer intuïtief werkt.
-- Knop aan/uit: Drukknop wint omdat zijn kleine omvang het minst opvalt. Er moet wel duidelijke feedback zijn in welke staat het zich bevindt. Het mag zich op een minder toegankelijke plek bevinden, aangezien het niet vaak gebruikt zal worden.
-- Knop starten/stoppen: Enkele drukknop die zich vanboven op toestel bevindt is het best voor gemakkelijke en snelle toegankelijkheid. Het indrukken van deze knop geeft een duidelijk gevoel van de start van een werkperiode. Duidelijkheid over huidige staat van knop is zeer belangrijk, dus daar moet rekening mee gehouden worden.
-- Knop groen/rood: Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
+- **Vorm:** Cilinder heeft meest vriendelijke en organische uitstraling en het minst robuust.
+- **Knop tijd instellen:** Draaiknop heeft de voorkeur doordat het mooi in de centrale vorm geïntegreerd kan worden en zeer intuïtief werkt.
+- **Knop aan/uit:** Drukknop wint omdat zijn kleine omvang het minst opvalt. Er moet wel duidelijke feedback zijn in welke staat het zich bevindt. Het mag zich op een minder toegankelijke plek bevinden, aangezien het niet vaak gebruikt zal worden.
+- **Knop starten/stoppen:** Enkele drukknop die zich vanboven op toestel bevindt is het best voor gemakkelijke en snelle toegankelijkheid. Het indrukken van deze knop geeft een duidelijk gevoel van de start van een werkperiode. Duidelijkheid over huidige staat van knop is zeer belangrijk, dus daar moet rekening mee gehouden worden.
+- **Knop groen/rood:** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
 
 Volgende interfaces werden ontwerpen tijdens het interactief ontwerpen:
 ![image](https://github.com/user-attachments/assets/0b4986e4-1f4e-4917-a4df-89fa2bf0e185)
@@ -290,19 +281,19 @@ Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out:
 | **2** | 1 | 3 | 2 | 0 |
 | **3** | 3 | 0 | 1 | 2 |
 | **4** | 0 | 1 | 2 | 3 |
-| **TOTAAL** | 5 | 6 | 8 | 0 |
+| **TOTAAL** | 5 | 6 | 8 | 5 |
 
 <ins> tablad werkomgeving </ins>
 Bij het testen van de interacties op de website werden snel enkele zaken duidelijk. Om alle opmerkingen te zien of enkele schermopnamen kan gekeken worden naar het rapport van deelopdracht 3 (bijlagen). De belangrijkste zaken zijn:
-- **Turial**: Na de website even te proberen en enkele fouten te hebben gemaakt was iedereen ervan overtuigd dat ze deze niet meer opnieuw zouden maken. Een tutorial of korte uitleg over de werking zou dus helpen.
-- **tijdsaanduiding**: Er moet duidelijker getoond worden als het over uren of minuten gaat. Om dit te duiden met een voorbeeld: de meesten dachten dat 01:20 een timer was voor een minuut en 20 seconden, waar een uur werd bedoeld.
+- **Tutorial**: Na de website even te proberen en enkele fouten te hebben gemaakt was iedereen ervan overtuigd dat ze deze niet meer opnieuw zouden maken. Een tutorial of korte uitleg over de werking zou dus helpen.
+- **Tijdsaanduiding**: Er moet duidelijker getoond worden als het over uren of minuten gaat. Om dit te duiden met een voorbeeld: de meesten dachten dat 01:20 een timer was voor een minuut en 20 seconden, waar een uur werd bedoeld.
 Ook moet duidelijker getoond worden dat dit een aflopende timer is dat overgaat in een pauze wanneer deze eindigt.
-- **licht uit**: Men was niet zeker wat de betekenis was van een licht dat niet aan stond.
+- **Licht uit**: Men was niet zeker wat de betekenis was van een licht dat niet aan stond.
 
 > Krijg je een melding als iemand met jouw timer synchroniseert?
 
 #### Conclusies & implicaties
-centrale interface:
+Centrale interface:
 Iedereen streeft naar een zo intuïtief mogelijk en esthetisch zo strak mogelijk ontwerp. Knoppen worden het liefst bijna blindelings en met één hand gebruikt. Indien mogelijk worden zo weinig mogelijk knoppen geprefereerd. Knoppen moeten tamelijk gegroepeerd zijn, zodat je er niet achter moet zoeken. Knoppen die vaker gebruikt worden, moeten groter zijn dan knoppen die minder vaak gebruikt worden. Ten slotte moeten knoppen duidelijke feedback geven en er mag geen twijfel zijn over de huidige staat van een product.
 
 Tabblad Werkomgeving:
@@ -317,7 +308,6 @@ Tabblad Werkomgeving:
 | -------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
 | 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
-| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  | 17/10/2024 |
 | 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
 | 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
 |*Groep 2* | *Communicatie* |  |  |
@@ -334,7 +324,7 @@ Tabblad Werkomgeving:
 | 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
 |*Groep 4* | *Algemeen* |  |  |
 | 4.2 | Het product is snel en intuïtief in te stellen |  | 01/12/2024 |
-| 4.3 | Het product kan op elk moment opnieuw worden ingesteld, of de instellingen worden aangepast |  | 01/12/2024 |
+| 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast |  | 01/12/2024 |
 | 4.4 | Het voorkomen van het product is opvallend om aandacht op zich te kunnen brengen |  | 01/12/2024 |
 | 4.5 | Tekst op het product dient in het Nederlands te zijn voor makkelijker gebruik |  | 16/12/2024 |
 

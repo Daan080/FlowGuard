@@ -32,6 +32,13 @@ In dit project werd gebruik gemaakt van onderstaande ontwerpmethode, deze is geb
 ![methodologie](img/methodologie.png)
 
 
+> [!IMPORTANT]
+> Design Requirements:
+> - D3.1 Het touchscreen laat toe de functies en hun bijhorende posities onderling te wijzigen.
+> - D1.1 Het product laat toe functies te bedienen zonder dat de ogen van de baan afwijken.
+> - D2.1 De _dial_ geeft haptische feedback bij het bedienen van de functies.
+
+
 Het eerste semester werden de Discover en Define fase doorlopen, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
 
 ## Discovery (N = 15)
@@ -146,7 +153,10 @@ Vrijwel iedereen benadrukte het belang van **persoonlijke aanpassingsmogelijkhed
 #### Conclusies & implicaties
 Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. **Stressmetingen** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
 #### MoSCow review
-![moscow review](img/moscow_review.jpg)
+
+<p align="center">
+  <img src="img/moscow_review.jpg" width="38%">
+</p>
 
 
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)

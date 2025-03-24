@@ -243,7 +243,7 @@ De voorgemaakte layout's voor de website zien er uit als volgt:
 ![websites_deelopdracht_3](img/websites_deelopdracht_3.png)
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 Naast de layout van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
-<img src="https://github.com/user-attachments/assets/b29024b4-88a3-4517-b20a-01010b7ed53a" alt="Alt Text" width="700">
+<img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="700">
 <br>
 Om de beste layout er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en dezeze achteraf te analyseren.
 
@@ -256,7 +256,7 @@ Om de beste layout er uit te halen wordt aan de participanten gevraagd om websit
 - **Knop groen/rood:** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
 
 Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
-![interfaces_deelopdracht_3](interfaces_deelopdracht_3.png)
+![interfaces_deelopdracht_3](img/interfaces_deelopdracht_3.png)
 
 ##### <ins> Website interface </ins>
 <ins> Lay-out </ins>

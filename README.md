@@ -31,14 +31,6 @@ In dit project werd gebruik gemaakt van onderstaande ontwerpmethode, deze is geb
 
 ![methodologie](img/methodologie.png)
 
-
-> [!IMPORTANT]
-> Design Requirements:
-> - D3.1 Het touchscreen laat toe de functies en hun bijhorende posities onderling te wijzigen.
-> - D1.1 Het product laat toe functies te bedienen zonder dat de ogen van de baan afwijken.
-> - D2.1 De _dial_ geeft haptische feedback bij het bedienen van de functies.
-
-
 Het eerste semester werden de Discover en Define fase doorlopen, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
 
 ## Discovery (N = 15)
@@ -78,25 +70,19 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 <br>
 <ins> Om deze zaken duidelijker te kaderen en te verwoorden in requirements, werd een innovatrix ingevuld (bijlagen)
 
-### Requirements
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.1 Het product moet pauzes aanraden
+> - D1.2 Er moet tijdens pauzes beweging aangeraden worden
+> - D1.3 Het product moet tijdens het werken onnodige meldingen wegfilteren
+> - D1.4 Werktijd en pauzetijd moeten duidelijk gescheiden worden
+> - D2.1 Werkstatus moet onderling gedeeld kunnen worden
+> - D2.2 Een focusstand moet gebruiker ongestoorde focus en rust bieden
+> - D2.3 Focus moet gerespecteerd worden door collega's (empathie opwekken)
+> - D2.4 Stress moet gemeten en gecommuniceerd worden
+> - D3.1 Gebruiker voldoening hebben aan einde van de dag
+> - D4.1 Stress wordt gemeten a.d.h.v. hartslagvariabiliteit 
 
-|ID| Design Requirement | Bron | Datum |
-| -------- | :--- | :---: | :---: |
-| *Groep 1* | *Werkefficiëntie* |  |  |
-| 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
-| 1.2 | Er moet tijdens pauzes beweging aangeraden worden |  | 17/10/2024 |
-| 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
-| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden | | 27/10/2024 |
-| *Groep 2* | *Communicatie* |  |  |
-| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  | 01/12/2024 |
-| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  | 27/10/2024 |
-| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  | 01/12/2024 |
-| 2.4 | Stress moet gemeten en gecommuniceerd worden |  | 24/10/2024 |
-| *Groep 3* | *Voldoening* |  |  |
-| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
-| *Groep 4* | *Stress* |  |  |
-| 4.1 |  wordt gemeten a.d.h.v. hartslagvariabiliteit |  | 30/10/2024 |
-<br>
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
 
@@ -221,23 +207,19 @@ Het <ins> communiceren van product naar werknemer </ins> moet eenduidig zijn en 
 
 Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
 
-### Requirements
 
-|ID| Design Requirement | Bron | Datum |
-| -------- | :--- | :---: | :---: |
-|*Groep 1* | *Werkefficiëntie* |  |  |
-| 1.2 | ~~Er moet tijdens pauzes beweging aangeraden worden~~ | Definition (wave 1) | 01/12/2024 |
-|*Groep 2* | *Communicatie* |  |  |
-| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst | Definition (wave 1) | 01/12/2024 |
-| 2.6 | De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur | Definition (wave 1) | 01/12/2024 |
-| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht | Definition (wave 2) | 16/12/2024 |
-| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols | Definition (wave 2) | 16/12/2024 |
-| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt | Definition (wave 2) | 16/12/2024 |
-|*Groep 4* | *Algemeen* |  |  |
-| 4.2 | Het product is snel en intuïtief in te stellen | Definition (wave 1) | 01/12/2024 |
-| 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast | Definition (wave 1) | 01/12/2024 |
-| 4.4 | Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
-| 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.2 ~~Er moet tijdens pauzes beweging aangeraden worden~~ 
+> - D2.5 De stressmeting moet kunnen uitgeschakeld worden indien gewenst
+> - D2.6 De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur
+> - D2.7 Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht
+> - D2.8 Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols
+> - D2.9 Om de focusstand te communiceren worden de kleuren groen en rood gebruikt
+> - D4.2 Het product is snel en intuïtief in te stellen
+> - D4.3 Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast
+> - D4.4 Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen
+> - D4.5 Tekst op het product dient in het Nederlands te zijn
 
 
 ## Define
@@ -310,31 +292,47 @@ Tabblad Werkomgeving:
 - Bij eerste gebruik van de website moet er een kleine introductie zijn om duidelijkheid te scheppen.
 - Synchroniseren gebeurt intuïtiever door eerst op naam te klikken en vervolgens op “synchroniseer” of door één grote “synchroniseer”-knop te voorzien en vervolgens op een naam.
 
-#### Requirements
-"
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.2 ~~Er moet tijdens pauzes beweging aangeraden worden~~ 
+> - D2.5 De stressmeting moet kunnen uitgeschakeld worden indien gewenst
+> - D2.6 De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur
+> - D2.7 Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht
+> - D2.8 Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols
+> - D2.9 Om de focusstand te communiceren worden de kleuren groen en rood gebruikt
+> - D4.2 Het product is snel en intuïtief in te stellen
+> - D4.3 Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast
+> - D4.4 Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen
+> - D4.5 Tekst op het product dient in het Nederlands te zijn
+
+
+## Overzicht Requirements
+
 |ID| Design Requirement | Bron | Datum |
 | -------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
-| 1.1 | Er moeten pauzes aangeraden worden |  | 17/10/2024 |
-| 1.3 | Onnodige meldingen moeten weggefilterd worden |  | 27/10/2024 |
-| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden |  | 27/10/2024 |
+| 1.1 | Er moeten pauzes aangeraden worden | user interviews | 17/10/2024 |
+| 1.3 | Onnodige meldingen moeten weggefilterd worden | user interviews | 27/10/2024 |
+| 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden | user interviews | 27/10/2024 |
 |*Groep 2* | *Communicatie* |  |  |
-| 2.1 | Werkstatus moet onderling gedeeld kunnen worden |  | 01/12/2024 |
-| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden |  | 27/10/2024 |
-| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) |  | 01/12/2024 |
-| 2.4 | Stress moet gemeten en gecommuniceerd worden |  | 24/10/2024 |
-| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst |  | 01/12/2024 |
-| 2.6 | De focusstand van de gebruiker wordt gecomuniceerd met een visuele indicator, namelijk kleur |  | 01/12/2024 |
-| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht |  | 16/12/2024 |
-| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend masserend patroon op de pols |  | 16/12/2024 |
-| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt |  | 16/12/2024 |
+| 2.1 | Werkstatus moet onderling gedeeld kunnen worden | Definition (wave 1) | 01/12/2024 |
+| 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden | user interviews | 27/10/2024 |
+| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) | Definition (wave 1) | 01/12/2024 |
+| 2.4 | Stress moet gemeten en gecommuniceerd worden | user interviews | 24/10/2024 |
+| 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst | Definition (wave 1) | 01/12/2024 |
+| 2.6 | De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur | Definition (wave 1) | 01/12/2024 |
+| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht | Definition (wave 2) | 16/12/2024 |
+| 2.7 | Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols | Definition (wave 2) | 16/12/2024 |
+| 2.8 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt | Definition (wave 2) | 16/12/2024 |
 |*Groep 3* | *Voldoening* |  |  |
-| 3.1 | Gebruiker moet appreciatie voelen aan einde van de dag |  | 24/10/2024 |
+| 3.1 | Gebruiker moet voldoening hebben aan einde van de dag |  | 24/10/2024 |
 |*Groep 4* | *Algemeen* |  |  |
-| 4.2 | Het product is snel en intuïtief in te stellen |  | 01/12/2024 |
-| 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast |  | 01/12/2024 |
-| 4.4 | Het voorkomen van het product is opvallend om aandacht op zich te kunnen brengen |  | 01/12/2024 |
-| 4.5 | Tekst op het product dient in het Nederlands te zijn voor makkelijker gebruik |  | 16/12/2024 |
+| 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit  | liturature review | 01/12/2024 |
+| 4.2 | Het product is snel en intuïtief in te stellen | Definition (wave 1) | 30/10/2024 |
+| 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast | Definition (wave 1) | 01/12/2024 |
+| 4.4 | Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
+| 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
 
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.

@@ -154,10 +154,7 @@ Vrijwel iedereen benadrukte het belang van **persoonlijke aanpassingsmogelijkhed
 Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. **Stressmetingen** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
 #### MoSCow review
 
-<p align="center">
-  <img src="img/moscow_review.jpg" width="38%">
-</p>
-
+[!moscow_review](img/moscow_review.jpg)
 
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
 

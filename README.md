@@ -274,6 +274,7 @@ Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out:
 | **TOTAAL** | 5 | 6 | 8 | 5 |
 
 <ins> tablad werkomgeving </ins>
+<br>
 Bij het testen van de interacties op de website werden snel enkele zaken duidelijk. Om alle opmerkingen te zien of enkele schermopnamen kan gekeken worden naar het rapport van deelopdracht 3 (bijlagen). De belangrijkste zaken zijn:
 - **Tutorial**: Na de website even te proberen en enkele fouten te hebben gemaakt was iedereen ervan overtuigd dat ze deze niet meer opnieuw zouden maken. Een tutorial of korte uitleg over de werking zou dus helpen.
 - **Tijdsaanduiding**: Er moet duidelijker getoond worden als het over uren of minuten gaat. Om dit te duiden met een voorbeeld: de meesten dachten dat 01:20 een timer was voor een minuut en 20 seconden, waar een uur werd bedoeld.
@@ -295,16 +296,10 @@ Tabblad Werkomgeving:
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D1.2 ~~Er moet tijdens pauzes beweging aangeraden worden~~ 
-> - D2.5 De stressmeting moet kunnen uitgeschakeld worden indien gewenst
-> - D2.6 De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur
-> - D2.7 Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht
-> - D2.8 Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols
-> - D2.9 Om de focusstand te communiceren worden de kleuren groen en rood gebruikt
-> - D4.2 Het product is snel en intuïtief in te stellen
-> - D4.3 Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast
-> - D4.4 Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen
-> - D4.5 Tekst op het product dient in het Nederlands te zijn
+> - D2.10 Als de gebruiker niet aan de bureau zit gaat het licht uit 
+> - D4.6 Het product is in te stellen met 1 hand 
+> - D4.7 De knoppen of instellingen geven geen twijfel over hun status
+> - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
 
 
 ## Overzicht Requirements
@@ -325,14 +320,18 @@ Tabblad Werkomgeving:
 | 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht | Definition (wave 2) | 16/12/2024 |
 | 2.8 | Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols | Definition (wave 2) | 16/12/2024 |
 | 2.9 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt | Definition (wave 2) | 16/12/2024 |
+| 2.10 | Als de gebruiker niet aan de bureau zit gaat het licht uit  | Development 1 | 01/03/2025 |
 |*Groep 3* | *Voldoening* |  |  |
 | 3.1 | Gebruiker moet voldoening hebben aan einde van de dag |  | 24/10/2024 |
-|*Groep 4* | *Algemeen* |  |  |
+|*Groep 4* | *Systeem* |  |  |
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit  | liturature review | 01/12/2024 |
 | 4.2 | Het product is snel en intuïtief in te stellen | Definition (wave 1) | 30/10/2024 |
 | 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast | Definition (wave 1) | 01/12/2024 |
 | 4.4 | Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
 | 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
+| 4.6 | THet product is in te stellen met 1 hand | Development 1 | 01/03/2024 |
+| 4.7 | De knoppen of instellingen geven geen twijfel over hun status | Development 1 | 01/03/2024 |
+| 4.8 | De ondersteunende webiste heeft bij het eerste gebruik een tutorial | Development 1 | 01/03/2025 |
 
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.

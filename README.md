@@ -383,8 +383,8 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 - [Deelopdracht 3 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYFXz3Ox31dMjIWU9mxE6FgBZwoSi5SSflYKvu9Z5Soqaw?e=1DOxIu)
 - [Deelopdracht 3 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZbGh_ffTqxMmQQITb3nka4BTq4fyeaXO81AsjtJjxOQ7g?e=cvizVJ)
 #### Develop 2
--
+- 
 -
 #### Develop 3
-- [arduino](ARDUINO/arduino.md)
+- [arduino](ARDUINO/Opkomende_technologiën/arduino.md)
 -

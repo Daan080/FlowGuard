@@ -1,21 +1,21 @@
-const int switchPin = 2;  // De pin waarop de schakelaar is aangesloten
-const int redPin = 11;     // De rode pin van de RGB-LED
-const int greenPin = 10;  // De groene pin van de RGB-LED
+const int switchPin = 2;  // pin schakelaar
+const int redPin = 11;     // pin rood
+const int greenPin = 10;  // pin groen
 
 void setup() {
-    pinMode(switchPin, INPUT_PULLUP); // Schakelaar met interne pull-up weerstand
+    pinMode(switchPin, INPUT_PULLUP);
     pinMode(redPin, OUTPUT);
     pinMode(greenPin, OUTPUT);
 }
 
 void loop() {
-    int switchState = digitalRead(switchPin); // Lees de stand van de schakelaar
+    int switchState = digitalRead(switchPin); // schakelaar inlezen
 
-    if (switchState == LOW) { // Als de schakelaar wordt ingedrukt
-        digitalWrite(redPin, LOW);     // Rood uit
-        digitalWrite(greenPin, HIGH);  // Groen aan
+    if (switchState == LOW) { // als de schakelaar ingedrukt:
+        digitalWrite(redPin, LOW);     // rood uit
+        digitalWrite(greenPin, HIGH);  // groen aan
     } else {
-        digitalWrite(redPin, HIGH);    // Rood aan
-        digitalWrite(greenPin, LOW);   // Groen uit
+        digitalWrite(redPin, HIGH);    // rood aan
+        digitalWrite(greenPin, LOW);   // groen uit
     }
 }

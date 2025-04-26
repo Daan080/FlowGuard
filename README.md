@@ -302,6 +302,44 @@ Tabblad Werkomgeving:
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
 
+### Develop 2
+#### Doelstellingen
+In deze test worden de laatste onduidelijkheden aangepakt voor een eerste volledig concept kan worden gemaakt. Volgende onduidelijkheden worden onderzocht:
+-	Polsen bij gebruiker over plaats op het bureau
+-	Gebruik van armband om te communiceren wordt in twijfel getrokken, dus zoeken naar alternatief
+-	Hook model overlopen met gebruiker
+
+#### Materiaal & methoden
+Omdat er 3 verschillende zaken dienen getest te worden en hier uitgebreid op in wordt gegaan wordt geopteerd voor een user interview gepaard met een paar opdrachten waarbij luidop nagedacht dient te worden. De participanten kunnen bij deze opdracht niet in de context worden geïnterviewd door tijdelijke beperkte mobiliteit van het onderzoeksteam. 
+Het gebruikte materiaal voor deze test:
+- Smartphone om conversaties op te nemen
+- 4 afgeprinte informed consents
+- Laptop om protocol voor te lezen en resultaten te noteren
+- Foto’s van bureaus in verschillende opstellingen
+- Arduino circuit met LCD RGB backlight scherm, 2 potentiometers en een schakelaar. De eerste potentiometer bestuurt de lichtsterkte van het scherm en de tweede potentiometer de
+knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
+
+![arduino_circuit_deelopdracht_4](img/arduino_opstelling_deelopdracht_4.png)
+![bureauopstellingen_deelopdracht_4](img/bureauopstellingen_deelopdracht_4.png)
+
+
+#### Resultaten
+##### <ins> Centrale interface </ins>
+
+
+##### <ins> Website interface </ins>
+
+
+#### Conclusies & implicaties
+
+
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D2.10 Als de gebruiker niet aan de bureau zit gaat het licht uit 
+> - D4.6 Het product is in te stellen met 1 hand 
+> - D4.7 De knoppen of instellingen geven geen twijfel over hun status
+> - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
 
 ## Overzicht Requirements
 

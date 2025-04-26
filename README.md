@@ -306,8 +306,8 @@ Tabblad Werkomgeving:
 #### Doelstellingen
 In deze test worden de laatste onduidelijkheden aangepakt voor een eerste volledig concept kan worden gemaakt. Volgende onduidelijkheden worden onderzocht:
 -	Polsen bij gebruiker over plaats op het bureau
--	Gebruik van armband om te communiceren wordt in twijfel getrokken, dus zoeken naar alternatief
 -	Hook model overlopen met gebruiker
+-	Gebruik van armband om te communiceren wordt in twijfel getrokken, dus zoeken naar alternatief
 
 #### Materiaal & methoden
 Omdat er 3 verschillende zaken dienen getest te worden en hier uitgebreid op in wordt gegaan wordt geopteerd voor een user interview gepaard met een paar opdrachten waarbij luidop nagedacht dient te worden. De participanten kunnen bij deze opdracht niet in de context worden geïnterviewd door tijdelijke beperkte mobiliteit van het onderzoeksteam. 
@@ -324,15 +324,63 @@ knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren o
 
 
 #### Resultaten
-##### <ins> Centrale interface </ins>
+##### <ins> lamp- en interface positionering </ins>
 
+![resultaten_bureauopstellingen](img/totale_bureauopsellingen.png)
+Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaatst moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
+> “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 
-##### <ins> Website interface </ins>
+##### <ins> Triggers en de stored value van het product </ins>
 
+Bij het overlopen van de triggers van het Hooked model waren er geen opvallende ondervindingen. De meeste gingen voor het werken een koffie of een thee halen, maar buiten dit waren er niet veel zaken waarop het product kan inspelen.
+> "Koffie halen, en dan begin ik eraan."
+
+Opvallend was het feit dat ieder van de participanten aanhaf hun gsm aan de kant te leggen voor ze begonnen met werken. Wanneer werd voorgesteld om misschien de gsm te integreren in het product of de werking van het product afhankelijjk te maken van het gesm-gebruik, was er weining inthousiasme door volgende opmerkingen:
+- De gsm is nodig voor het werk: bellen, WhatsAppen, ...
+- Sommigen halen hun gsm niet boven
+- Wat als je je gsm vergeet?
+- Vaak is er authentificatie met de gsm verreist en heb je deze dus ook meerdere malen nodig.
+Het is dus duidelijk dat men de gsm vaak nodig heeft tijdens het werk en dit concept van entegratie niet zo interessant zou zijn.
+
+Over het algemeen heeft men het gevoel dat er genoeg stored value zit in het product om het te blijven gebruiken. Bij het vragen naar extra stored value zoals puntensystemen werden volgende zaken aangehaald:
+- Je kan moeilijk onderlinge taken vergelijken. Als de takenpaketten anders zijn, hoe kan je dan een competitieve meting doen?
+- Er zijn al veel likes of andere uitingen van appreciatie op sociale media. Om dit nog eens toe te voegen in een kantooromgeving lijkt niet nodig.
+- Het zou handig zijn om te zien hoeveel men het product gebruikt en op die manier ook anderen te motiveren om het te gebruiken
+- 
+##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
+
+Eerst werd gekeken wat men dacht over de weglating van de communicatie via de armband en de voorlopige weglating van de stressmeting tijdens dit project. De communicatie van product naar gebruiker zal, gebaseerd op een vorige test, gebeuren aan de hand van flikkerend licht en constant licht via de centrale hub. Iedereen ging akkoord met deze keuze en volgde de gedachtengang.
+
+Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om aan te geven welke lichtinstensiteit ze aangenaam vonden tijdens het werken, welke ze wouden wanneer het product wou communiceren en welke snelheid het licht moest flikkeren als het product wou communiceren. De resultaten staan in onderstaande tabel.
+
+| participant | lichtintensiteit constant | lichtintensiteit flikkeren | flikkersnelheid (ms) |
+|------|---|---|---|
+| **1** | 25 | 100 | 200 |
+| **2** | 20 | 150 | 600 |
+| **3** | 37 | 200 | 809 |
+| **4** | 18 | 107 | 516 |
 
 #### Conclusies & implicaties
+##### <ins> lamp- en interface positionering </ins>
+- De scheidingswanden zijn een voorkeurslocatie voor de lampen omdat ze van overal goed zichtbaar zijn en afhankelijk van de kant waarop men de lamp plaatst kan men zien aan wie de lamp toebehoort
+- Sommige deelnemers kiezen ook voor een plaatsing op het scherm, maar geven aan dat dit misschien afleidend kan zijn voor zichzelf.
+- De hub wordt het liefst dicht bij het scherm geplaatst, in handbereik.
+- Uniformiteit in plaatsing binnen een organisatie is belangrijk om verwarring te vermijden.
 
+##### <ins> Triggers en de stored value van het product </ins>
+- De meeste gebruikers starten hun werkdag met eenvoudige routines zoals laptop, toetsenbord en muis koppelen aan scherm en iets halen om te drinken.
+- Iedereen is tevreden met de huidige voordelen die het product biedt, maar sommigen merken op dat dit ook afhangt van de mate waarmee rekening wordt gehouden met het product.
+- Onderlinge competitie lijkt een moeilijk concept aangezien het niet duidelijk is wat er precies gemeten en vergeleken zou moeten worden en omdat iedere persoon een ander takenpakket heeft. Eén iemand geeft wel aan dat een speels/luchtig element het gebruik van het product kan stimuleren.
+- Op persoonlijk vlak kan het wel interessant zijn om eigen verbetering te zien.
+- Gebruiksgemak en een vlotte routine zijn belangrijk; te veel interactie of afhankelijkheid van de gsm wordt als hinderlijk ervaren.
 
+##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
+- De testpersonen gaan akkoord met onze vaststellingen rond de armband en het nieuwe alternatief: het flikkerlicht.
+- In het algemeen moet de lichtintensiteit voor het signaal hoger zijn dan bij normaal gebruik en moet het licht snel genoeg flikkeren om op te vallen, maar niet te snel om te storen. De exacte waarden worden hier samengevat:
+
+| participant | lichtintensiteit constant | lichtintensiteit flikkeren | flikkersnelheid (ms) |
+|------|---|---|---|
+| **Gemiddelde** | 25,0 | 139,25 | 531,25 |
 
 > [!IMPORTANT]
 > Design Requirements:

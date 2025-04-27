@@ -214,7 +214,7 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 > - D1.2 ~~Er moet tijdens pauzes beweging aangeraden worden~~ 
 > - D2.5 De stressmeting moet kunnen uitgeschakeld worden indien gewenst
 > - D2.6 De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur
-> - D2.7 Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht
+> - D2.7 Communicatie van product naar gebruiker mag de omgeving niet storen
 > - D2.8 Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols
 > - D2.9 Om de focusstand te communiceren worden de kleuren groen en rood gebruikt
 > - D4.2 Het product is snel en intuïtief in te stellen
@@ -384,10 +384,17 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D2.10 Als de gebruiker niet aan de bureau zit gaat het licht uit 
-> - D4.6 Het product is in te stellen met 1 hand 
-> - D4.7 De knoppen of instellingen geven geen twijfel over hun status
-> - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
+> - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
+> - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
+> - D2.8 ~~Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols~~
+> - D2.11 Communiceren van product naar gebruiker gebeurt met een ledscherm
+> - D4.10 De lamp moet zowel op een verticale als een horizontale vlakte bevestigd kunnen worden
+> - D4.11 De hub staat binnen handbereik van de gebruiker
+> - D4.12 Het product wordt aangeschaft door een bedrijf/organisatie, zodat iedereen deze kan gebruiken
+> - D2.12 De gebruiker kan steeds de eigen timer bekijken
+> - D4.13 Tijdens het werken staat het scherm op helderheid 25
+> - D2.13 Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140
+
 
 ## Overzicht Requirements
 
@@ -400,14 +407,15 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 |*Groep 2* | *Communicatie* |  |  |
 | 2.1 | Werkstatus moet onderling gedeeld kunnen worden | Definition (wave 1) | 01/12/2024 |
 | 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden | user interviews | 27/10/2024 |
-| 2.3 | Focus moet gerespecteerd worden door collega's (empathie opwekken) | Definition (wave 1) | 01/12/2024 |
-| 2.4 | Stress moet gemeten en gecommuniceerd worden | user interviews | 24/10/2024 |
+| 2.3 | Focus moet gerespecteerd worden door collega's | Definition (wave 1) | 01/12/2024 |
 | 2.5 | De stressmeting moet kunnen uitgeschakeld worden indien gewenst | Definition (wave 1) | 01/12/2024 |
 | 2.6 | De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur | Definition (wave 1) | 01/12/2024 |
-| 2.7 | Buitenstaanders mogen niet worden gestoord door communicatie van het product als het niet aan hen is gericht | Definition (wave 2) | 16/12/2024 |
-| 2.8 | Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols | Definition (wave 2) | 16/12/2024 |
+| 2.7 | Communicatie van product naar gebruiker mag de omgeving niet storen | Definition (wave 2) | 16/12/2024 |
 | 2.9 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt | Definition (wave 2) | 16/12/2024 |
 | 2.10 | Als de gebruiker niet aan de bureau zit gaat het licht uit  | Development 1 | 01/03/2025 |
+| 2.11 | Communiceren van product naar gebruiker gebeurt met een ledscherm | Development 2 | 17/04/2025 |
+| 2.12 | De gebruiker kan steeds de eigen timer bekijken | Development 2 | 17/04/2025 |
+| 2.13 | Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140 | Development 2 | 17/04/2025 |
 |*Groep 3* | *Voldoening* |  |  |
 | 3.1 | Gebruiker moet voldoening hebben aan einde van de dag |  | 24/10/2024 |
 |*Groep 4* | *Systeem* |  |  |
@@ -416,9 +424,15 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 | 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast | Definition (wave 1) | 01/12/2024 |
 | 4.4 | Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
 | 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
-| 4.6 | THet product is in te stellen met 1 hand | Development 1 | 01/03/2024 |
+| 4.6 | De hub is in te stellen met 1 hand | Development 1 | 01/03/2024 |
 | 4.7 | De knoppen of instellingen geven geen twijfel over hun status | Development 1 | 01/03/2024 |
 | 4.8 | De ondersteunende webiste heeft bij het eerste gebruik een tutorial | Development 1 | 01/03/2025 |
+| 4.9 | De stressmeting is een optie dat het eerste product niet zal bevatten | Development 2 | 17/04/2025 |
+| 4.10 | De lamp moet zowel op een verticale als een horizontale vlakte bevestigd kunnen worden | Development 2 | 17/04/2025 |
+| 4.11 | De hub staat binnen handbereik van de gebruiker | Development 2 | 17/04/2025 |
+| 4.12 | Het product wordt aangeschaft door een bedrijf/organisatie, zodat iedereen deze kan gebruiken | Development 2 | 17/04/2025 |
+| 4.13 | Tijdens het werken staat het ledscherm van de hub op helderheid 25 | Development 2 | 17/04/2025 |
+
 
 ## Bill of materials
 - Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.

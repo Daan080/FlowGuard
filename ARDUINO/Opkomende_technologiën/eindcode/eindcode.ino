@@ -1,100 +1,229 @@
-#include <Wire.h>
-#include "rgb_lcd.h"
+// libraries
+#include <Wire.h> // indirect gebruikt via rgb_ldc
+#include "rgb_lcd.h" // aansturen van rbd lcd scherm
+#include <Encoder.h> // aansturen van rotary encoder
 
-#define CLK 2   // Rotary Encoder CLK (A)
-#define DT 3    // Rotary Encoder DT (B)
-#define SW 4    // Rotary Encoder drukknop
+// pinnen
+const int CLK = 2; // clock pin rotary encoder
+const int DT = 3; // data pin rotary encoder
+const int SW = 4; // switch pin rotary encoder
+const int buttonGreen = 6; // groene knop
+const int buttonRed = 7; // rode knop
 
-rgb_lcd lcd;
+// naamgeving hardware
+rgb_lcd lcd; // rgb lcd scherm benoemen
+Encoder RotEnc(CLK, DT); // rotary encoder benoemen
 
-volatile int totalSeconds = 0;  // Totale tijd in seconden
-int lastEncoded = 0;         
-bool timerRunning = false;
-unsigned long countdownStart = 0;
+// drukknoppen debouncen
+unsigned long lastDebounceTimeGreen = 0;
+unsigned long lastDebounceTimeRed = 0;
+unsigned long debounceDelay = 50;
+
+// statussen timer
+volatile unsigned long totalSeconds = 0; // totaal aantal seconden
+unsigned long lastInteractionTime = 0; // tijdstip van laatste interactie met encoder of switch
+long lastEncPos = 0; // positie van laatste encoder-lezing
+bool timerRunning = false; // timer staat stil
+bool timerFinished = false; // timer is niet afgelopen
+bool backlightOn = false; // backlight staat uit
+bool backlightGreen = true; // backlight staat op groen
+
+// constanten
+const unsigned int LIGHT_VSOFT = 5; // heel zachte lichtsterkte
+const unsigned int LIGHT_SOFT = 25; // zachte lichtsterkte
+const unsigned int LIGHT_BRIGHT = 140; // felle lichtsterkte
+const unsigned int BLINK_SPEED = 530; // flikkersnelheid in ms
+const unsigned long BACKLIGHT_DELAY = 7000; // tijd dat RGB aanblijft in ms, moet long zijn want moet compatibel zijn met millis()
 
 void setup() {
-    pinMode(CLK, INPUT);
-    pinMode(DT, INPUT);
-    pinMode(SW, INPUT_PULLUP);
-
-    attachInterrupt(digitalPinToInterrupt(CLK), readEncoder, CHANGE);
-    attachInterrupt(digitalPinToInterrupt(DT), readEncoder, CHANGE);
-
-    lcd.begin(16, 2);
-    lcd.setRGB(0, 255, 0);  // Groen bij instellen
-    updateDisplay();
+  pinMode(buttonGreen, INPUT_PULLUP); // groene knop activeren
+  pinMode(buttonRed, INPUT_PULLUP); // rode knop activeren
+  pinMode(SW, INPUT_PULLUP); // drukknop activeren
+  lcd.begin(16, 2); // lcd tekst activeren
+  displayTime(totalSeconds); // lcd tijd weergeven
+  BacklightSoft(); // rgb backlight op zacht groen
+  lastEncPos = RotEnc.read(); // stand encoder lezen
 }
 
 void loop() {
-    if (!timerRunning) {
-        updateDisplay();
-        
-        if (digitalRead(SW) == LOW) {  
-            delay(200);  // Debounce
-            if (totalSeconds > 0) {
-                timerRunning = true;
-                countdownStart = millis();
-                lcd.setRGB(255, 0, 0); // Rood tijdens aftellen
-            }
+  GreenRed(); // wijzigt backlight-status naar groen of rood via drukknoppen
+  Encoder(); // encoder inlezen en tijd verhogen of verlagen
+  Switch(); // switch inlezen en tijd starten of stoppen
+  Timer(); // tijd laten aflopen per seconde en stoppen bij 0
+  Blink(); // flikkeren van de tijd en backlight wanneer nodig
+  BacklightOff(); // vanzelf uitzetten backlight na bepaalde delay
+  delay(5);
+}
+
+void Encoder() {
+  long newEncPos = RotEnc.read() / 4;
+  long diff = lastEncPos - newEncPos;
+
+  if (diff != 0) { // werkt enkel als er gedraaid wordt
+    if (!timerRunning) { // als timer stilstaat
+      unsigned long step = getStepSize(); // stapgrootte wordt bepaald
+
+      if (diff > 0) { // als naar rechts gedraaid wordt
+        if (totalSeconds % step != 0) { // als de tijd geen veelvoud is van de stapgrootte
+          totalSeconds = ((totalSeconds / step) + 1) * step; // eerst tijd naar boven afronden
+        } else {
+          totalSeconds += step; // anders gewoon stap bijtellen
         }
-    } 
-    else {
-        unsigned long elapsed = (millis() - countdownStart) / 1000;
-        int remainingTime = totalSeconds - elapsed;
 
-        if (remainingTime <= 0) {
-            timerRunning = false;
-            totalSeconds = 0;
-            lcd.setRGB(0, 255, 0);  // Terug naar groen
-            lcd.clear();
-            lcd.print("Tijd voor pauze!");
-            delay(2000);
-            lcd.clear();
-            updateDisplay();
-        } 
-        else {
-            displayTime(remainingTime, "Time Left: ");
+        if (totalSeconds > 359999) totalSeconds = 359999; // maximum van 99:59:59
+
+      } else { // als naar links gedraaid wordt
+        if (totalSeconds % step != 0) { // als de tijd geen veelvoud is van de stapgrootte
+          totalSeconds = (totalSeconds / step) * step; // eerst tijd naar onder afronden
+        } else {
+          if (totalSeconds >= step) {
+            totalSeconds -= step; // anders gewoon stap aftrekken
+          } else {
+            totalSeconds = 0; // minimum van 00:00:00
+          }
         }
+      }
+
+      displayTime(totalSeconds); // nieuwe tijd weergeven op lcd scherm
+      lastInteractionTime = millis(); // laatste interactietijd updaten om backlight aan te houden
+      BacklightSoft(); // rgb backlight op zacht groen (stilstaande tijd zichtbaar maken om in te stellen)
+      backlightOn = true; // backlight staat aan
+      timerFinished = false; // indien tijd ingesteld nadat timer afgelopen was, bool updaten naar niet meer finished
+
+    } else { // als timer loopt
+      lastInteractionTime = millis(); // laatste interactietijd updaten om backlight vanzelf uit te schakelen
+      BacklightSoft(); // rgb backlight op zacht groen (lopende tijd kort zichtbaar maken bij draaien aan encoder)
+      backlightOn = true; // backlight staat aan
     }
+  }
+
+  lastEncPos = newEncPos; // positie van laatste encoder-lezing updaten
 }
 
-// Functie om de timer correct weer te geven in HH:MM:SS formaat
-void updateDisplay() {
-    displayTime(totalSeconds, "Set Timer: ");
+void Switch() {
+  static bool lastPress = HIGH; // laatste indrukking staat standaard op niet ingedrukt
+  bool newPress = digitalRead(SW); // switch inlezen
+
+  if (lastPress == HIGH && newPress == LOW) { // als knop ingedrukt wordt
+    if (timerRunning) { // als timer loopt
+      timerRunning = false; // timer staat stil
+      BacklightSoft(); // rgb backlight op zacht groen
+      backlightOn = true; // backlight staat aan
+    } else { // als timer stilstaat
+      if (totalSeconds > 0) { // als tijd groter is dan 00:00:00
+        timerRunning = true; // timer loopt
+        lastInteractionTime = millis(); // laatste interactietijd updaten om backlight vanzelf uit te schakelen
+      }
+    }
+  }
+  lastPress = newPress; // indrukstatus updaten
 }
 
-// Functie om seconden om te zetten naar HH:MM:SS en weer te geven
-void displayTime(int timeInSeconds, const char* label) {
-    int hours = timeInSeconds / 3600;
-    int minutes = (timeInSeconds % 3600) / 60;
-    int seconds = timeInSeconds % 60;
-
-    lcd.setCursor(0, 0);
-    lcd.print(label);
-    lcd.setCursor(0, 1);
-    lcd.print(hours);
-    lcd.print("h ");
-    lcd.print(minutes);
-    lcd.print("m ");
-    lcd.print(seconds);
-    lcd.print("s  "); // Extra spatie om vorige cijfers te wissen
+void Timer() {
+  static unsigned long lastTick = 0; // laatste tick is in het begin 0
+  if (timerRunning && millis() - lastTick >= 1000) { // als er 1 seconde gepasseerd is
+    lastTick = millis(); // laatste tick updaten
+    if (totalSeconds > 0) { // als timer nog niet afgelopen is
+      totalSeconds--; // 1 seconde aftrekken
+      displayTime(totalSeconds); // nieuwe tijd weergeven op lcd scherm
+    }
+    if (totalSeconds == 0) { // als timer afgelopen is
+      timerRunning = false; // timer staat stil
+      timerFinished = true; // timer is afgelopen
+      backlightOn = true; // backlight staat aan
+    }
+  }
 }
 
-// Rotary Encoder uitlezen
-void readEncoder() {
-    int MSB = digitalRead(CLK);
-    int LSB = digitalRead(DT);
-    int encoded = (MSB << 1) | LSB;
-    int sum = (lastEncoded << 2) | encoded;
+void Blink() {
+  if (timerRunning && !timerFinished) { // als timer loopt en nog niet afgelopen is
+    return; // niet flikkeren
+  }
 
-    // Draaien met grotere stappen voor snellere instelling
-    if (sum == 0b1101 || sum == 0b0100 || sum == 0b0010 || sum == 0b1011) {
-        totalSeconds += (totalSeconds < 3600) ? 10 : 60;  // <1u: +10s, anders +1m
-    }
-    if (sum == 0b1110 || sum == 0b0111 || sum == 0b0001 || sum == 0b1000) {
-        totalSeconds -= (totalSeconds <= 3600) ? 10 : 60;
-    }
+  static unsigned long lastBlink = 0; // laatste flikkerstatus is in het begin 0
+  static bool visible = true; // tijd is zichtbaar op scherm
 
-    totalSeconds = max(0, totalSeconds);  // Zorgt dat de tijd niet negatief wordt
-    lastEncoded = encoded;
+  if (millis() - lastBlink >= BLINK_SPEED) { // als flikkerinterval is overschreden
+    lastBlink = millis(); // laatste flikkerstatus updaten
+    visible = !visible; // tijd is niet zichtbaar op scherm
+
+    if (visible) { // als tijd zichtbaar is op scherm
+      displayTime(totalSeconds); // tijd weergeven op lcd scherm
+      if (timerFinished) { // als tijd afgelopen is
+        BacklightBright(); // rgb backlight op fel groen
+      }
+    } else { // als tijd niet zichtbaar is op scherm
+      lcd.setCursor(4, 1);
+      lcd.print("        "); // lege tekst weergeven op lcd scherm
+      if (timerFinished) { // als tijd afgelopen is
+        lcd.setRGB(0, 0, 0); // rgb backlight uit
+      }
+    }
+  }
+}
+
+void BacklightOff() {
+  if (timerRunning && backlightOn && millis() - lastInteractionTime >= BACKLIGHT_DELAY) { // als de tijd loopt en de backlight al voor een bepaalde tijd aanstaat
+    if (backlightGreen) {
+      lcd.setRGB(0, LIGHT_VSOFT, 0); // rgb backlight uit
+      backlightOn = true;
+    } else {
+      lcd.setRGB(LIGHT_VSOFT, 0, 0); // rgb backlight uit
+      backlightOn = true;
+    }
+  }
+}
+
+void GreenRed() {
+  if (digitalRead(buttonGreen) == LOW && (millis() - lastDebounceTimeGreen) > debounceDelay) {
+    backlightGreen = true;
+    lcd.setRGB(0, LIGHT_BRIGHT, 0);  // Directe update van het scherm naar groen
+    lastDebounceTimeGreen = millis();  // Update the last debounce time for green button
+    lastInteractionTime = millis();
+    backlightOn = true;  
+
+  }
+
+  if (digitalRead(buttonRed) == LOW && (millis() - lastDebounceTimeRed) > debounceDelay) {
+    backlightGreen = false;
+    lcd.setRGB(LIGHT_BRIGHT, 0, 0);  // Directe update van het scherm naar rood
+    lastDebounceTimeRed = millis();  // Update the last debounce time for red button
+    lastInteractionTime = millis();
+    backlightOn = true;  
+
+  }
+}
+
+void BacklightSoft() {
+  if (backlightGreen) {
+    lcd.setRGB(0, LIGHT_SOFT, 0);
+  } else {
+    lcd.setRGB(LIGHT_SOFT, 0, 0);
+  }
+}
+
+void BacklightBright() {
+  if (backlightGreen) {
+    lcd.setRGB(0, LIGHT_BRIGHT, 0);
+  } else {
+    lcd.setRGB(LIGHT_BRIGHT, 0, 0);
+  }
+}
+
+unsigned long getStepSize() { // stapgrootte bepalen afhankelijk van totalSeconds
+  if (totalSeconds < 10 * 60) return 30;
+  else if (totalSeconds < 30 * 60) return 60;
+  else if (totalSeconds < 60 * 60) return 300;
+  else return 900;
+}
+
+void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
+  int h = seconds / 3600; // HH
+  int m = (seconds % 3600) / 60; // MM
+  int s = seconds % 60; // SS
+
+  char timeArray[9]; // ketting van 8 tekens
+  sprintf(timeArray, "%02d:%02d:%02d", h, m, s); // ketting vullen met tijd
+  lcd.setCursor(4, 1);
+  lcd.print(timeArray); // lcd scherm print ketting
 }

@@ -411,7 +411,7 @@ Om de werking van het concept te simuleren werd volgende arduinocircuit gebouwd 
 
 <img src="/img/arduino_opstelling_deelopdracht_5.png" width="50%">
 
-Bij dit circuit hoor volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
+Bij dit circuit hoort volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>
 

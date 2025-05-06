@@ -318,6 +318,7 @@ Het gebruikte materiaal voor deze test:
 - Foto’s van bureaus in verschillende opstellingen
 - Arduino circuit met LCD RGB backlight scherm, 2 potentiometers en een schakelaar. De eerste potentiometer bestuurt de lichtsterkte van het scherm en de tweede potentiometer de
 knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
+De bijhorende code van deze arduino-opstelling kan men hier vinden: ![arduino_code_deelopdracht_4](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
 
 ![arduino_circuit_deelopdracht_4](img/arduino_opstelling_deelopdracht_4.png)
 ![bureauopstellingen_deelopdracht_4](img/bureauopstellingen_deelopdracht_4.png)
@@ -395,6 +396,39 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 > - D4.13 Tijdens het werken staat het scherm op helderheid 25
 > - D2.13 Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140
 
+### Develop 3
+#### Doelstellingen
+Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe zaken kunnen worden aangepakt. De doelstelling voor deze test is dus om de doelgroep te laten interacteren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken.
+#### Materiaal & methoden
+Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekent en werd dan gekeken welke voldeden aan de requirements. Hieronder ziet men een overzicht van de schetsen.
+![schetsen concept deelopdracht 5](img/schetsen_deelopdracht_5.png)
+De onderdelen die met een ontworpen moesten worden aan de hand van ergonomie worden hieronder nog eens apart geplaatst met uitleg waar nodig:
+![ergonomieschetsen deelopdracht 5](img/ergonomieschetsen_deelopdracht_5.png)
+Om de werking van het concept te simuleren werd volgende arduinocircuit gebouwd en geïntegreerd in het prototype:
+![arduino circuit deelopdracht 5](img/arduino_opstelling_deelopdracht_5.png)
+Bij dit circuit hoor volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
+#### Resultaten
+##### <ins> lamp- en interface positionering </ins>
+
+##### <ins> Triggers en de stored value van het product </ins>
+
+##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
+
+#### Conclusies & implicaties
+##### <ins> lamp- en interface positionering </ins>
+
+
+##### <ins> Triggers en de stored value van het product </ins>
+
+
+##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
+
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
+> - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
+
 
 ## Overzicht Requirements
 
@@ -456,19 +490,19 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 •	Haskell, W., Lee, I., Pate, R., Powell, K., Blair, S., Franklin, B., Macera, C., Heath, G., Thompson, P., & Bauman, A. (2007). Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association.. Circulation, 116 9, 1081-93 . https://doi.org/10.1161/CIRCULATIONAHA.107.185649. 
 •	Haskell, W., Lee, I., Pate, R., Powell, K., Blair, S., Franklin, B., Macera, C., Heath, G., Thompson, P., & Bauman, A. (2007). Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association.. Medicine and science in sports and exercise, 39 8, 1423-34 . https://doi.org/10.1249/mss.0b013e3180616b27. 
 •	Garber, C., Blissmer, B., Deschenes, M., Franklin, B., LaMonte, M., Lee, I., Nieman, D., & Swain, D. (2011). American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise.. Medicine and science in sports and exercise, 43 7, 1334-59 . https://doi.org/10.1249/MSS.0b013e318213fefb. 
-•	Bolliger, L., Lukan, J., Colman, E., Boersma, L., Luštrek, M., Bacquer, D., & Clays, E. (2022). Sources of Occupational Stress among Office Workers—A Focus Group Study. International Journal of Environmental Research and Public Health, 19. https://doi.org/10.3390/ijerph19031075. 
+•	Bolliger, L., Lukan, J., Colman, E., Boersma, L., Luštrek, M., Bacquer, D., & Clays, E. (2022). Sources of Occupational Stress among Office Workers—A Focus Group Study. International Journal of Environmental Research and Public Health, 19. https://doi.org/10.3390/ijerph19031075.
 
 
 ## Bijlagen
 ### Discovery
 #### sota
 [probleem begrijpen](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYZiQVYa3X1GpeBhcyGcWEcBCuQ2lsjSfwrgRcfts3pVXg?e=htsKas) 
-#### interview:
- - [protocol literature review](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYpVumC9AlxBmpwN7W_w8noBH8tK7tr-haeAGWDRJd8HZw?e=Flreca)
- - [rapport liturature review](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYjzPVNM5MlDtGjL6JG0BmEBA4-ypAOcKbPFT_Lwt5zPCQ?e=Kymsm6)
+#### user interview:
+ - [protocol literature review](protocols/user_interview_protocol.docx)
+ - [rapport liturature review](rapporten/user_interview_report.docx)
 #### literature review:
- - [protocol user interview](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EVttx7hZB4NGqJ2PyaAd68YBLmTs2JdSK9g-d2r60UxG-A?e=s8rgYk)
- - [rapport user interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZvQVpeR4VxAmggA3FAxTc0B6XfqyNkIsUj1BHddXhz0ng?e=vbvpyg)
+ - [protocol user interview](protocols/literature_review_protocol.docx)
+ - [rapport user interviews](rapporten/literature_review_report.docx)
 #### inovatrix
 [innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p)
 ### Definition
@@ -483,8 +517,9 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 - [Deelopdracht 3 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYFXz3Ox31dMjIWU9mxE6FgBZwoSi5SSflYKvu9Z5Soqaw?e=1DOxIu)
 - [Deelopdracht 3 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZbGh_ffTqxMmQQITb3nka4BTq4fyeaXO81AsjtJjxOQ7g?e=cvizVJ)
 #### Develop 2
-- 
--
+- [Deelopdracht 4 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/Edxho0fY2PdEhJ_yUMeHUHQBbnlqlTn4GQjHduEMnQ49pg?e=bFp2Vj)
+- [Deelopdracht 4 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EfEEvYOeP2pOnN-NwB6_ADwBuQ34xDCxqp6btwziamVzog?e=ClKyfk)
 #### Develop 3
 - [arduino](ARDUINO/Opkomende_technologiën/arduino.md)
--
+- [Deelopdracht 5 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=ZtaXPg)
+- [Deelopdracht 5 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=3fsowl)

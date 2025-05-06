@@ -326,7 +326,7 @@ knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren o
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>
 
-![resultaten_bureauopstellingen](img/totale_bureauopsellingen.png)
+![resultaten_bureauopstellingen](img/totale_bureauopstellingen.png)
 Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaatst moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 

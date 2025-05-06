@@ -402,10 +402,13 @@ Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet
 #### Materiaal & methoden
 Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekent en werd dan gekeken welke voldeden aan de requirements. Hieronder ziet men een overzicht van de schetsen.
 ![schetsen concept deelopdracht 5](img/schetsen_deelopdracht_5.png)
+<img src="/img/schetsen_deelopdracht_5.png" width="50%">
 De onderdelen die met een ontworpen moesten worden aan de hand van ergonomie worden hieronder nog eens apart geplaatst met uitleg waar nodig:
 ![ergonomieschetsen deelopdracht 5](img/ergonomieschetsen_deelopdracht_5.png)
+<img src="/img/ergonomieschetsen_deelopdracht_5" width="50%">
 Om de werking van het concept te simuleren werd volgende arduinocircuit gebouwd en geïntegreerd in het prototype:
 ![arduino circuit deelopdracht 5](img/arduino_opstelling_deelopdracht_5.png)
+<img src="/img/arduino_opstelling_deelopdracht_5" width="50%">
 Bij dit circuit hoor volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>

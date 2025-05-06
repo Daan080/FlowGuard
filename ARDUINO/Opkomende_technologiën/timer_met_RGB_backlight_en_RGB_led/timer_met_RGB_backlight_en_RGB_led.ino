@@ -9,6 +9,8 @@ const int DT = 3; // data pin rotary encoder
 const int SW = 4; // switch pin rotary encoder
 const int buttonGreen = 6; // groene knop
 const int buttonRed = 7; // rode knop
+const int ledGreen = 10; // groene led
+const int ledRed = 11; // rode led
 
 // naamgeving hardware
 rgb_lcd lcd; // rgb lcd scherm benoemen
@@ -38,6 +40,8 @@ const unsigned long BACKLIGHT_DELAY = 7000; // tijd dat RGB aanblijft in ms, moe
 void setup() {
   pinMode(buttonGreen, INPUT_PULLUP); // groene knop activeren
   pinMode(buttonRed, INPUT_PULLUP); // rode knop activeren
+  pinMode(ledRed, OUTPUT);
+  pinMode(ledGreen, OUTPUT);
   pinMode(SW, INPUT_PULLUP); // drukknop activeren
   lcd.begin(16, 2); // lcd tekst activeren
   displayTime(totalSeconds); // lcd tijd weergeven
@@ -107,11 +111,13 @@ void Switch() {
   if (lastPress == HIGH && newPress == LOW) { // als knop ingedrukt wordt
     if (timerRunning) { // als timer loopt
       timerRunning = false; // timer staat stil
+      updateRgbLed();
       BacklightSoft(); // rgb backlight op zacht groen
       backlightOn = true; // backlight staat aan
     } else { // als timer stilstaat
       if (totalSeconds > 0) { // als tijd groter is dan 00:00:00
         timerRunning = true; // timer loopt
+        updateRgbLed();
         lastInteractionTime = millis(); // laatste interactietijd updaten om backlight vanzelf uit te schakelen
       }
     }
@@ -131,6 +137,7 @@ void Timer() {
       timerRunning = false; // timer staat stil
       timerFinished = true; // timer is afgelopen
       backlightOn = true; // backlight staat aan
+      updateRgbLed();
     }
   }
 }
@@ -178,19 +185,21 @@ void GreenRed() {
   if (digitalRead(buttonGreen) == LOW && (millis() - lastDebounceTimeGreen) > debounceDelay) {
     backlightGreen = true;
     lcd.setRGB(0, LIGHT_BRIGHT, 0);  // Directe update van het scherm naar groen
+    digitalWrite(ledGreen, HIGH); // externe RGB-led op groen
+    digitalWrite(ledRed, LOW);    // rood uit
     lastDebounceTimeGreen = millis();  // Update the last debounce time for green button
     lastInteractionTime = millis();
     backlightOn = true;  
-
   }
 
   if (digitalRead(buttonRed) == LOW && (millis() - lastDebounceTimeRed) > debounceDelay) {
     backlightGreen = false;
     lcd.setRGB(LIGHT_BRIGHT, 0, 0);  // Directe update van het scherm naar rood
+    digitalWrite(ledRed, HIGH);   // externe RGB-led op rood
+    digitalWrite(ledGreen, LOW);  // groen uit
     lastDebounceTimeRed = millis();  // Update the last debounce time for red button
     lastInteractionTime = millis();
     backlightOn = true;  
-
   }
 }
 
@@ -207,6 +216,21 @@ void BacklightBright() {
     lcd.setRGB(0, LIGHT_BRIGHT, 0);
   } else {
     lcd.setRGB(LIGHT_BRIGHT, 0, 0);
+  }
+}
+
+void updateRgbLed() {
+  if (timerRunning) {
+    if (backlightGreen) {
+      digitalWrite(ledGreen, HIGH);
+      digitalWrite(ledRed, LOW);
+    } else {
+      digitalWrite(ledGreen, LOW);
+      digitalWrite(ledRed, HIGH);
+    }
+  } else {
+    digitalWrite(ledGreen, LOW);
+    digitalWrite(ledRed, LOW);
   }
 }
 

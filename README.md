@@ -400,11 +400,17 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe zaken kunnen worden aangepakt. De doelstelling voor deze test is dus om de doelgroep te laten interacteren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken.
 #### Materiaal & methoden
 Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekent en werd dan gekeken welke voldeden aan de requirements. Hieronder ziet men een overzicht van de schetsen.
-![schetsen concept deelopdracht 5]<img src="/img/schetsen_deelopdracht_5.png" width="50%">
+
+<img src="/img/schetsen_deelopdracht_5.png" width="70%">
+
 De onderdelen die met een ontworpen moesten worden aan de hand van ergonomie worden hieronder nog eens apart geplaatst met uitleg waar nodig:
-![ergonomieschetsen deelopdracht 5]<img src="/img/ergonomieschetsen_deelopdracht_5" width="50%">
+
+<img src="/img/ergonomieschetsen_deelopdracht_5.png" width="50%">
+
 Om de werking van het concept te simuleren werd volgende arduinocircuit gebouwd en geïntegreerd in het prototype:
-![arduino circuit deelopdracht 5]<img src="/img/arduino_opstelling_deelopdracht_5" width="50%">
+
+<img src="/img/arduino_opstelling_deelopdracht_5.png" width="50%">
+
 Bij dit circuit hoor volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>

@@ -319,7 +319,9 @@ Het gebruikte materiaal voor deze test:
 knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
 De bijhorende code van deze arduino-opstelling kan men hier vinden: ![arduino_code_deelopdracht_4](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
 
-![arduino_circuit_deelopdracht_4](img/arduino_opstelling_deelopdracht_4.png)![arduino schema deelopdracht 4](img/arduino_schema_deelopdracht_4.png)
+<img src="/img/arduino_opstelling_deelopdracht_4.png" width="50%">
+<img src="/img/arduino_schema_deelopdracht_4.png" width="50%">
+
 ![bureauopstellingen_deelopdracht_4](img/bureauopstellingen_deelopdracht_4.png)
 
 

@@ -398,7 +398,16 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 
 ### Develop 3
 #### Doelstellingen
-Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe zaken kunnen worden aangepakt. De doelstelling voor deze test is dus om de doelgroep te laten interacteren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken.
+Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd zowel functioneel als esthetisch geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe onduidelijkheden/problemen naar boven zullen komen om verder onderzoek mogelijk te maken. De doelstelling voor deze test is dus om de doelgroep te laten interageren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken: 
+- Hoe lang mag het licht maximaal op rood staan voordat het vanzelf uitvalt?
+- Zijn 3 verschillende levels van lichtsterkte duidelijk in betekenis en visueel?
+- Is de tijd vlot en intuïtief in te stellen met de huidige stapgroottes?
+    - 30 sec (< 10 min)
+    - 1 min (< 30 min)
+    - 5 min (< 1 uur)
+    - 15 min (> 1 uur)
+- Hoe wordt de mogelijkheid van draadloos opladen van je gsm ervaren met daarbij de functie om meldingen vanzelf uit te schakelen?
+
 #### Materiaal & methoden
 Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de design requirements. Hieronder ziet men een overzicht van de schetsen.
 
@@ -408,12 +417,12 @@ Na eliminatie en keuzes aan de hand van design requirements werd volgend concept
 
 <img src="/img/conceptschets_deelopdracht_5.jpg" width="40%">
 
-Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de webiste van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt van mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende verduidelijkende schetsen staan hieronder.
+Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de webiste van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
 
 <img src="/img/ergonomieschetsen_deelopdracht_5.png" width="40%">
 
 Het prototype bestaat hoofdzakelijk uit een in te stellen timer met digitaal scherm voor communicatie met de gebruiker en een lamp voor communicatie met de omgeving.
-Deze combinatie van instellen, kleur van lamp, kleur van scherm en communicatie wordt verduidelijkt met volgend schema:
+Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en communicatie wordt verduidelijkt met volgend schema:
 
 <img src="/img/functioneel_schema_scherm,lamp.png" width="40%">
 
@@ -422,6 +431,8 @@ Om de werking hiervan te simuleren werd volgende arduinocircuit gebouwd en geïn
 <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
 
 Bij dit circuit hoort volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
+
+De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>
 

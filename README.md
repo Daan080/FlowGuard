@@ -406,11 +406,11 @@ Om het concept uit te werken werden eerst de designrequirements geordend op basi
 
 Na eliminatie en keuzes aan de hand van design requirements werd volgend concept gekozen:
 
-<img src="/img/conceptschets_deelopdracht_5.png" width="70%">
+<img src="/img/conceptschets_deelopdracht_5.jpg" width="70%">
 
 Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de webiste van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt van mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende verduidelijkende schetsen staan hieronder.
 
-<img src="/img/ergonomieschetsen_deelopdracht_5.jpg" width="50%">
+<img src="/img/ergonomieschetsen_deelopdracht_5.png" width="50%">
 
 Het prototype bestaat hoofdzakelijk uit een in te stellen timer met digitaal scherm voor communicatie met de gebruiker en een lamp voor communicatie met de omgeving.
 Deze combinatie van instellen, kleur van lamp, kleur van scherm en communicatie wordt verduidelijkt met volgend schema:

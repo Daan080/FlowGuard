@@ -39,6 +39,7 @@ const unsigned int BLINK_SPEED = 530; // flikkersnelheid in ms
 const unsigned long BACKLIGHT_DELAY = 7000; // tijd dat RGB aanblijft in ms, moet long zijn want moet compatibel zijn met millis()
 
 void setup() {
+  Serial.begin(9600); // communicatie met computer
   pinMode(buttonGreen, INPUT_PULLUP); // groene knop activeren
   pinMode(buttonRed, INPUT_PULLUP); // rode knop activeren
   pinMode(SW, INPUT_PULLUP); // drukknop activeren
@@ -207,16 +208,24 @@ void GreenRed() {
 void BacklightSoft() {
   if (backlightGreen) {
     lcd.setRGB(0, LIGHT_SOFT, 0);
+    Serial.print("status||");
+    Serial.println("GREEN");
   } else {
     lcd.setRGB(LIGHT_SOFT, 0, 0);
+    Serial.print("status||");
+    Serial.println("RED");
   }
 }
 
 void BacklightBright() {
   if (backlightGreen) {
     lcd.setRGB(0, LIGHT_BRIGHT, 0);
+    Serial.print("status||");
+    Serial.println("GREEN");
   } else {
     lcd.setRGB(LIGHT_BRIGHT, 0, 0);
+    Serial.print("status||");
+    Serial.println("RED");
   }
 }
 
@@ -246,9 +255,15 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
   int h = seconds / 3600; // HH
   int m = (seconds % 3600) / 60; // MM
   int s = seconds % 60; // SS
-
   char timeArray[9]; // ketting van 8 tekens
   sprintf(timeArray, "%02d:%02d:%02d", h, m, s); // ketting vullen met tijd
   lcd.setCursor(4, 1);
   lcd.print(timeArray); // lcd scherm print ketting
+  Serial.print("tijd||");
+  Serial.print(h);
+  Serial.print(":");
+  Serial.print(m);
+  Serial.print(":");
+  Serial.println(s);
+  
 }

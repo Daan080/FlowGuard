@@ -1,6 +1,6 @@
 // libraries
 #include <Wire.h> // indirect gebruikt via rgb_ldc
-#include "rgb_lcd.h" // aansturen van rbd lcd scherm
+#include "rgb_lcd.h" // aansturen van rgb lcd scherm
 #include <Encoder.h> // aansturen van rotary encoder
 
 // pinnen

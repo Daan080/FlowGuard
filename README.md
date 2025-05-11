@@ -319,7 +319,7 @@ Het gebruikte materiaal voor deze test:
 knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
 De bijhorende code van deze arduino-opstelling kan men hier vinden: ![arduino_code_deelopdracht_4](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
 
-<img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%"> <img src="/img/arduino_schema_deelopdracht_4.png" width="43,6%">
+<img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%"> <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
 
 ![bureauopstellingen_deelopdracht_4](img/bureauopstellingen_deelopdracht_4.png)
 
@@ -398,21 +398,41 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 
 ### Develop 3
 #### Doelstellingen
-Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe zaken kunnen worden aangepakt. De doelstelling voor deze test is dus om de doelgroep te laten interacteren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken.
+Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd zowel functioneel als esthetisch geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe onduidelijkheden/problemen naar boven zullen komen om verder onderzoek mogelijk te maken. De doelstelling voor deze test is dus om de doelgroep te laten interageren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken: 
+- Hoe lang mag het licht maximaal op rood staan voordat het vanzelf uitvalt?
+- Zijn 3 verschillende levels van lichtsterkte duidelijk in betekenis en visueel?
+- Is de tijd vlot en intuïtief in te stellen met de huidige stapgroottes?
+    - 30 sec (< 10 min)
+    - 1 min (< 30 min)
+    - 5 min (< 1 uur)
+    - 15 min (> 1 uur)
+- Hoe wordt de mogelijkheid van draadloos opladen van je gsm ervaren met daarbij de functie om meldingen vanzelf uit te schakelen?
+
 #### Materiaal & methoden
-Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekent en werd dan gekeken welke voldeden aan de requirements. Hieronder ziet men een overzicht van de schetsen.
+Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de design requirements. Hieronder ziet men een overzicht van de schetsen.
 
 <img src="/img/schetsen_deelopdracht_5.png" width="70%">
 
-De onderdelen die met een ontworpen moesten worden aan de hand van ergonomie worden hieronder nog eens apart geplaatst met uitleg waar nodig:
+Na eliminatie en keuzes aan de hand van design requirements werd volgend concept gekozen:
 
-<img src="/img/ergonomieschetsen_deelopdracht_5.png" width="50%">
+<img src="/img/conceptschets_deelopdracht_5.jpg" width="40%">
 
-Om de werking van het concept te simuleren werd volgende arduinocircuit gebouwd en geïntegreerd in het prototype:
+Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de webiste van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
 
-<img src="/img/arduino_opstelling_deelopdracht_5.png" width="50%">
+<img src="/img/ergonomieschetsen_deelopdracht_5.png" width="40%">
+
+Het prototype bestaat hoofdzakelijk uit een in te stellen timer met digitaal scherm voor communicatie met de gebruiker en een lamp voor communicatie met de omgeving.
+Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en communicatie wordt verduidelijkt met volgend schema:
+
+<img src="/img/functioneel_schema_scherm,lamp.png" width="40%">
+
+Om de werking hiervan te simuleren werd volgende arduinocircuit gebouwd en geïntegreerd in het prototype:
+
+<img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
 
 Bij dit circuit hoort volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
+
+De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>
 
@@ -485,18 +505,20 @@ Bij dit circuit hoort volgende code: ![arduino code deelopdracht 5](ARDUINO/Opko
 ## Kritische reflectie
 In het algemeen zit het project op schema. Bij de eerste stappen was er moeite met het afbakenen de essentie en zag men soms door het bos de bomen niet meer. Door de conceptvalidatie kreeg het project echter validatie en feedback wat zorgde voor meer richting. Bij elke stap kwam er meer duidelijkheid en structuur. Er werden signalen gegeven vanuit de doelgroep die aantoonden dat er een probleem is waar nog geen concrete oplossing voor is en waarvan de oplossing zeer gewild is. Het was rap duidelijk dat de doelgroep de leidraad is en hun feedback dit project vooruit zal helpen. Er werd heel veel input via de interviews en gebruikerstesten verkregen, maar het was niet altijd even simpel om met alles rekening te houden en deze zaken correct te analyseren. Dit kwam vooral omdat sommige antwoorden volledig verschilden met anderen. Daarom wordt belang gehecht aan de mogelijkheid om het product te personaliseren voor elke gebruiker, zonder de complexiteit te verhogen. De grootste uitdagingen die nu volgen zijn het prototypen en realiseren van de vorm en elektronica van het product en tevens evenveel belang hechten aan de feedback van de doelgroep als in de eerste fasen.
 ## Bronnen
-•	Nws, V. (2021, 17 mei). Aantal langdurige burn-outs en depressies blijft stijgen tot meer dan 100.000: “Ons brein kent geen rust meer”. vrtnws.be.      https://www.vrt.be/vrtnws/nl/2021/05/17/aantal-burn-outs-en-depressies-blijft-stijgen/ 
-•	Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar 
-•	 S. Samima, M. Sarma and D. Samanta, "Detecting vigilance in people performing continual monitoring task", Proc. Int. Conf. Intell. Human Comput. Interact., pp. 202-214, 2017. 
-•	Attention and Concentration for Software Developers. (2023). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/10232991 
-•	Biswas, A., Oh, P., Faulkner, G., Bajaj, R., Silver, M., Mitchell, M., & Alter, D. (2015). Sedentary Time and Its Association With Risk for Disease Incidence, Mortality, and Hospitalization in Adults. Annals of Internal Medicine, 162, 123-132. https://doi.org/10.7326/M14-1651. 
-•	Garber, C., Blissmer, B., Deschenes, M., Franklin, B., LaMonte, M., Lee, I., Nieman, D., & Swain, D. (2011). American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise.. Medicine and science in sports and exercise, 43 7, 1334-59 . https://doi.org/10.1249/MSS.0b013e318213fefb. 
-•	Tudor-Locke, C., Craig, C., Brown, W., Clemes, S., Cocker, K., Giles-Corti, B., Hatano, Y., Inoue, S., Matsudo, S., Mutrie, N., Oppert, J., Rowe, D., Schmidt, M., Schofield, G., Spence, J., Teixeira, P., Tully, M., & Blair, S. (2011). How many steps/day are enough? for adults. The International Journal of Behavioral Nutrition and Physical Activity, 8, 79 - 79. https://doi.org/10.1186/1479-5868-8-79. 
-•	Tudor-Locke, C., Craig, C., Aoyagi, Y., Bell, R., Croteau, K., Bourdeaudhuij, I., Ewald, B., Gardner, A., Hatano, Y., Lutes, L., Matsudo, S., Ramírez-Marrero, F., Rogers, L., Rowe, D., Schmidt, M., Tully, M., & Blair, S. (2011). How many steps/day are enough? For older adults and special populations. The International Journal of Behavioral Nutrition and Physical Activity, 8, 80 - 80. https://doi.org/10.1186/1479-5868-8-80. 
-•	Haskell, W., Lee, I., Pate, R., Powell, K., Blair, S., Franklin, B., Macera, C., Heath, G., Thompson, P., & Bauman, A. (2007). Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association.. Circulation, 116 9, 1081-93 . https://doi.org/10.1161/CIRCULATIONAHA.107.185649. 
-•	Haskell, W., Lee, I., Pate, R., Powell, K., Blair, S., Franklin, B., Macera, C., Heath, G., Thompson, P., & Bauman, A. (2007). Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association.. Medicine and science in sports and exercise, 39 8, 1423-34 . https://doi.org/10.1249/mss.0b013e3180616b27. 
-•	Garber, C., Blissmer, B., Deschenes, M., Franklin, B., LaMonte, M., Lee, I., Nieman, D., & Swain, D. (2011). American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise.. Medicine and science in sports and exercise, 43 7, 1334-59 . https://doi.org/10.1249/MSS.0b013e318213fefb. 
-•	Bolliger, L., Lukan, J., Colman, E., Boersma, L., Luštrek, M., Bacquer, D., & Clays, E. (2022). Sources of Occupational Stress among Office Workers—A Focus Group Study. International Journal of Environmental Research and Public Health, 19. https://doi.org/10.3390/ijerph19031075.
+- Nws, V. (2021, 17 mei). Aantal langdurige burn-outs en depressies blijft stijgen tot meer dan 100.000: “Ons brein kent geen rust meer”. vrtnws.be.      https://www.vrt.be/vrtnws/nl/2021/05/17/aantal-burn-outs-en-depressies-blijft-stijgen/
+- Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar
+- S. Samima, M. Sarma and D. Samanta, "Detecting vigilance in people performing continual monitoring task", Proc. Int. Conf. Intell. Human Comput. Interact., pp. 202-214, 2017.
+- Attention and Concentration for Software Developers. (2023). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/10232991
+- Biswas, A., Oh, P., Faulkner, G., Bajaj, R., Silver, M., Mitchell, M., & Alter, D. (2015). Sedentary Time and Its Association With Risk for Disease Incidence, Mortality, and Hospitalization in Adults. Annals of Internal Medicine, 162, 123-132. https://doi.org/10.7326/M14-1651.
+- Garber, C., Blissmer, B., Deschenes, M., Franklin, B., LaMonte, M., Lee, I., Nieman, D., & Swain, D. (2011). American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise.. Medicine and science in sports and exercise, 43 7, 1334-59 . https://doi.org/10.1249/MSS.0b013e318213fefb.
+- Tudor-Locke, C., Craig, C., Brown, W., Clemes, S., Cocker, K., Giles-Corti, B., Hatano, Y., Inoue, S., Matsudo, S., Mutrie, N., Oppert, J., Rowe, D., Schmidt, M., Schofield, G., Spence, J., Teixeira, P., Tully, M., & Blair, S. (2011). How many steps/day are enough? for adults. The International Journal of Behavioral Nutrition and Physical Activity, 8, 79 - 79. https://doi.org/10.1186/1479-5868-8-79.
+- Tudor-Locke, C., Craig, C., Aoyagi, Y., Bell, R., Croteau, K., Bourdeaudhuij, I., Ewald, B., Gardner, A., Hatano, Y., Lutes, L., Matsudo, S., Ramírez-Marrero, F., Rogers, L., Rowe, D., Schmidt, M., Tully, M., & Blair, S. (2011). How many steps/day are enough? For older adults and special populations. The International Journal of Behavioral Nutrition and Physical Activity, 8, 80 - 80. https://doi.org/10.1186/1479-5868-8-80.
+- Haskell, W., Lee, I., Pate, R., Powell, K., Blair, S., Franklin, B., Macera, C., Heath, G., Thompson, P., & Bauman, A. (2007). Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association.. Circulation, 116 9, 1081-93 . https://doi.org/10.1161/CIRCULATIONAHA.107.185649.
+- Haskell, W., Lee, I., Pate, R., Powell, K., Blair, S., Franklin, B., Macera, C., Heath, G., Thompson, P., & Bauman, A. (2007). Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association.. Medicine and science in sports and exercise, 39 8, 1423-34 . https://doi.org/10.1249/mss.0b013e3180616b27.
+- Garber, C., Blissmer, B., Deschenes, M., Franklin, B., LaMonte, M., Lee, I., Nieman, D., & Swain, D. (2011). American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise.. Medicine and science in sports and exercise, 43 7, 1334-59 . https://doi.org/10.1249/MSS.0b013e318213fefb.
+- Bolliger, L., Lukan, J., Colman, E., Boersma, L., Luštrek, M., Bacquer, D., & Clays, E. (2022). Sources of Occupational Stress among Office Workers—A Focus Group Study. International Journal of Environmental Research and Public Health, 19. https://doi.org/10.3390/ijerph19031075.
+- DINBelg 2005 - antropometrie tabel. (n.d.). https://www.dinbelg.be/
+- Pinterest. (n.d.). Pinterest. https://nl.pinterest.com/
 
 
 ## Bijlagen
@@ -527,5 +549,5 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 - [Deelopdracht 4 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EfEEvYOeP2pOnN-NwB6_ADwBuQ34xDCxqp6btwziamVzog?e=ClKyfk)
 #### Develop 3
 - [arduino](ARDUINO/Opkomende_technologiën/arduino.md)
-- [Deelopdracht 5 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=ZtaXPg)
+- [Deelopdracht 5 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EbUUeYOipqdAkmavct5EJ2EBiMyxrSWoRJ1nJvaUuVvDsw?e=Ng8p4M)
 - [Deelopdracht 5 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=3fsowl)

@@ -817,6 +817,7 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 }
 ```
 </details>  
+
 ### 6. [Timer met RGB-backlight en RGB-ring (finaal)](timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring.ino)
 <img src="timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring_setup.png" alt="timer_met_RGB_backlight_en_RGB_ring_setup" width="500" />
 <details>

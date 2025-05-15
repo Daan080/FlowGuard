@@ -593,7 +593,7 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 
 **Leerpunten:**  
 - Knoppen debouncen
-- 
+- Functies aanpassen en linken met nieuwe functies
 
 ### 5. [Timer met RGB-backlight en RGB-led](timer_met_RGB_backlight_en_RGB_led/timer_met_RGB_backlight_en_RGB_led.ino)
 <img src="timer_met_RGB_backlight_en_RGB_led/timer_met_RGB_backlight_en_RGB_led_setup.png" alt="timer_met_RGB_backlight_en_RGB_led_setup" width="500" />
@@ -858,6 +858,14 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 ```
 </details>  
 
+**Inhoud:**  
+- Zelfde als hierboven beschreven
+- RGB-led kleurt groen of rood naargelang groene of rode knop ingedrukt wordt
+- RGB-led schakelt uit als tijd gepauzeerd of afgelopen is
+
+**Leerpunten:**  
+- Implementeren van RGB-led
+
 ### 6. [Timer met RGB-backlight en RGB-ring (finaal)](timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring.ino)
 <img src="timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring_setup.png" alt="timer_met_RGB_backlight_en_RGB_ring_setup" width="500" />
 <details>
@@ -1120,3 +1128,12 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 }
 ```
 </details>  
+
+**Inhoud:**  
+- Zelfde als hierboven beschreven
+- RGB-ring vervangt RGB-led (groter lichtoppervlakte)
+
+**Leerpunten:**  
+- Implementeren van RGB-ring
+- Library gebruiken om RGB-ring te besturen
+- Solderen en troubleshooten van kabels aan RGB-ring

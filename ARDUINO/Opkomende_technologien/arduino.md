@@ -50,12 +50,6 @@ Een visuele timer helpt bij brengen van structuur in een werkdag en het plannen 
 
 Tijdens het aftellen van de timer is de RGB-ledring actief, wat naast de werkstatus van de gebruiker dus ook meedeelt dat die persoon aanwezig is op het bureau en aan het werk. Als de timer gepauzeerd is of de timer afgelopen is, staat de ledring uit.  
 
-Wanneer de timer afloopt:  
-De lcd-tijd begint te knipperen.  
-De backlight wordt extra fel (helder groen of rood) om de gebruiker visueel te attenderen.  
-De ledring schakelt uit — dit benadrukt dat de ingestelde tijd voorbij is en nodigt uit tot pauze.  
-Door het gebruik van eenvoudige fysieke interactie (draaien, drukken) en duidelijke lichtsignalen, wordt de gebruiker subtiel begeleid in een gezonder werkritme. 
-
 ## Proces
 ### 1. [RGB-led met schakelaar](groenrood/RGB_led_schakelaar/RGB_led_schakelaar.ino)  
 <img src="groenrood/RGB_led_schakelaar/RGB_led_setup.png" alt="RGB_led_setup" width="500" />
@@ -87,6 +81,13 @@ void loop() {
 ```
 </details>  
 
+**Inhoud:**  
+- RGB-led kleurt groen of rood naargelang de stand van de schakelaar
+- RGB-led staat standaard op groen
+
+**Leerpunten:**  
+- RGB-led aansluiten op een Arduino
+- RGB-led besturen met een schakelaar
 
 ### 2. [RGB-backlight met twee drukknoppen](groenrood/RGB_backlight_2drukknoppen/RGB_backlight_2drukknoppen.ino)  
 <img src="groenrood/RGB_backlight_2drukknoppen/RGB_backlight_2drukknoppen_setup.png" alt="RGB_backlight_2drukknoppen_setup" width="500" />
@@ -127,6 +128,15 @@ void loop() {
 }
 ```
 </details>  
+
+**Inhoud:**  
+- RGB-backlight kleurt groen of rood naargelang de groene of rode knop ingedrukt is
+- RGB-backlight staat standaard op groen
+
+**Leerpunten:**  
+- RGB lcd scherm aansluiten op een Arduino
+- Library gebruiken om RGB lcd scherm te besturen
+- RGB-backlight besturen met twee drukknoppen
 
 ### 3. [Timer zonder RGB backlight](timer/timer_zonder_RGB_backlight/timer_zonder_RGB_backlight.ino)  
 <img src="timer/timer_zonder_RGB_backlight/timer_zonder_RGB_backlight_setup.png" alt="timer_zonder_RGB_backlight_setup" width="500" />
@@ -314,6 +324,26 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 }
 ```
 </details>  
+
+**Inhoud:**  
+- Rotary encoder wordt ingelezen en tijd wordt toegevoegd of afgetrokken naargelang draairichting
+- Stapgrootte van toegevoegde of afgetrokken tijd wijzigt naargelang totaal tijd
+- Switch op de rotary encoder wordt ingelezen en start of stopt timer naargelang tijd stilstaat of niet
+- Tijd wordt weergegeven op RGB lcd scherm in de vorm HH:MM:SS
+- Timer vermindert de totale tijd telkens met 1 seconde
+- Tekst op het scherm flikkert als tijd afgelopen of gepauzeerd is
+- RGB-backlight flikkert fel licht als tijd afgelopen is (duidelijk signaal tot pauze)
+- RGB-backlight toont zacht licht als tijd gepauzeerd is of tijdens interactie met rotary encoder of switch (scherm goed zichtbaar om af te lezen en in te stellen)
+- RGB-backlight wordt uitgeschakeld na bepaalde duur van inactiviteit (scherm niet laten opvallen)
+
+**Leerpunten:**  
+- Rotary encoder aansluiten op Arduino
+- Library gebruiken om rotary encoder te besturen
+- Functies creëren per opdracht en linken leggen tussen functies
+- Millis() gebruiken om timer te maken
+- Gebruik maken van booleans om status van timer te updaten
+- Tekst op RGB lcd scherm weergeven
+- Experimenteren met lichtsterktes door verschillende waarden
 
 ### 4. [Timer met RGB backlight](timer/timer_met_RGB_backlight/timer_met_RGB_backlight.ino)  
 <img src="timer/timer_met_RGB_backlight/timer_met_RGB_backlight_setup.png" alt="timer_zonder_RGB_backlight_setup" width="500" />
@@ -554,6 +584,16 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 
 ```
 </details>  
+
+**Inhoud:**  
+- Zelfde als hierboven beschreven
+- Groene en rode knop regelen kleur van RGB-backlight
+- RGB-backlight toont fel licht bij indrukken van groene en rode knop voor een bepaalde duur (duidelijk maken van nieuw ingestelde kleur)
+- RGB-backlight toont zeer zacht licht na bepaalde duur van inactiviteit in plaats van volledig uit te schakelen (status van groen/rood moet altijd zichtbaar zijn voor gebruiker, daarom niet volledig uit maar wel nog steeds onopvallend)
+
+**Leerpunten:**  
+- Knoppen debouncen
+- 
 
 ### 5. [Timer met RGB-backlight en RGB-led](timer_met_RGB_backlight_en_RGB_led/timer_met_RGB_backlight_en_RGB_led.ino)
 <img src="timer_met_RGB_backlight_en_RGB_led/timer_met_RGB_backlight_en_RGB_led_setup.png" alt="timer_met_RGB_backlight_en_RGB_led_setup" width="500" />

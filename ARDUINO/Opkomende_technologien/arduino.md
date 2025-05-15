@@ -54,7 +54,7 @@ Tijdens het aftellen van de timer is de RGB-ledring actief, wat naast de werksta
 ### 1. [RGB-led met schakelaar](groenrood/RGB_led_schakelaar/RGB_led_schakelaar.ino)  
 <img src="groenrood/RGB_led_schakelaar/RGB_led_setup.png" alt="RGB_led_setup" width="500" />
 <details>
-<summary>Code bekijken</summary>
+<summary>Klik om code te bekijken</summary>
 
 ```cpp
 const int switchPin = 2;  // pin schakelaar
@@ -92,7 +92,7 @@ void loop() {
 ### 2. [RGB-backlight met twee drukknoppen](groenrood/RGB_backlight_2drukknoppen/RGB_backlight_2drukknoppen.ino)  
 <img src="groenrood/RGB_backlight_2drukknoppen/RGB_backlight_2drukknoppen_setup.png" alt="RGB_backlight_2drukknoppen_setup" width="500" />
 <details>
-<summary>Code bekijken</summary>
+<summary>Klik om code te bekijken</summary>
 
 ```cpp
 #include <Wire.h>
@@ -141,7 +141,7 @@ void loop() {
 ### 3. [Timer zonder RGB backlight](timer/timer_zonder_RGB_backlight/timer_zonder_RGB_backlight.ino)  
 <img src="timer/timer_zonder_RGB_backlight/timer_zonder_RGB_backlight_setup.png" alt="timer_zonder_RGB_backlight_setup" width="500" />
 <details>
-<summary>Code bekijken</summary>
+<summary>Klik om code te bekijken</summary>
 
 ```cpp
 // libraries
@@ -348,7 +348,7 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 ### 4. [Timer met RGB backlight](timer/timer_met_RGB_backlight/timer_met_RGB_backlight.ino)  
 <img src="timer/timer_met_RGB_backlight/timer_met_RGB_backlight_setup.png" alt="timer_zonder_RGB_backlight_setup" width="500" />
 <details>
-<summary>Code bekijken</summary>
+<summary>Klik om code te bekijken</summary>
 
 ```cpp
 
@@ -598,7 +598,7 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 ### 5. [Timer met RGB-backlight en RGB-led](timer_met_RGB_backlight_en_RGB_led/timer_met_RGB_backlight_en_RGB_led.ino)
 <img src="timer_met_RGB_backlight_en_RGB_led/timer_met_RGB_backlight_en_RGB_led_setup.png" alt="timer_met_RGB_backlight_en_RGB_led_setup" width="500" />
 <details>
-<summary>Code bekijken</summary>
+<summary>Klik om code te bekijken</summary>
 
 ```cpp
 
@@ -869,7 +869,7 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
 ### 6. [Timer met RGB-backlight en RGB-ring (finaal)](timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring.ino)
 <img src="timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring_setup.png" alt="timer_met_RGB_backlight_en_RGB_ring_setup" width="500" />
 <details>
-<summary>Code bekijken</summary>
+<summary>Klik om code te bekijken</summary>
 
 ```cpp
 // libraries

@@ -59,6 +59,7 @@ Door het gebruik van eenvoudige fysieke interactie (draaien, drukken) en duideli
 ## Proces
 ### 1. RGB-led met schakelaar
 [RGB_led_schakelaar](ARDUINO/Opkomende_technologiën/groenrood/RGB_led_schakelaar/RGB_led_schakelaar.ino)  
+![RGB_led_setup](ARDUINO/Opkomende_technologien/groenrood/RGB_led_schakelaar/RGB_led_setup.png)  
 <details>
 <summary>Code bekijken</summary>
 
@@ -87,9 +88,47 @@ void loop() {
 ```
 </details>  
 
-<ins>Setup:</ins>  
-![RGB_led_setup](ARDUINO/Opkomende_technologiën/groenrood/RGB_led_schakelaar/RGB_led_setup.png)  
 ### 2. RGB-backlight met twee drukknoppen
+[RGB_backlight_2drukknoppen](ARDUINO/Opkomende_technologien/groenrood/RGB_backlight_2drukknoppen/RGB_backlight_2drukknoppen.ino)  
+![RGB_backlight_2drukknoppen_setup](ARDUINO/Opkomende_technologien/groenrood/RGB_backlight_2drukknoppen/RGB_backlight_2drukknoppen_setup.png)  
+<details>
+<summary>Code bekijken</summary>
+
+```cpp
+#include <Wire.h>
+#include "rgb_lcd.h"
+
+rgb_lcd lcd;
+
+const int buttonGreen = 6; // groene knop
+const int buttonRed  = 7; // rode knop
+
+const unsigned int LIGHT_SOFT = 25; // zachte lichtsterkte
+const unsigned int LIGHT_BRIGHT = 140; // felle lichtsterkte
+
+void setup() {
+  lcd.begin(16, 2); // lcd scherm opstarten
+  lcd.setRGB(0, LIGHT_SOFT, 0); // backlight standaard op groen
+
+  // Knoppen als input met pull-up
+  pinMode(buttonGreen, INPUT_PULLUP);
+  pinMode(buttonRed, INPUT_PULLUP);
+}
+
+void loop() {
+  // Als knop 1 ingedrukt is, zet backlight groen
+  if (digitalRead(buttonGreen) == LOW) {
+    lcd.setRGB(0, LIGHT_SOFT, 0); // Groen
+  }
+
+  // Als knop 2 ingedrukt is, zet backlight rood
+  if (digitalRead(buttonRed) == LOW) {
+    lcd.setRGB(LIGHT_SOFT, 0, 0); // Rood
+  }
+}
+```
+</details>  
+
 ### 3. Timer zonder RGB-backlight
 ### 4. Timer met RGB-backlight en RGB-led
 ### 5. Timer met RGB-backlight en RGB-ring (finaal)

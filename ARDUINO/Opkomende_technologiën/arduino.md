@@ -89,7 +89,6 @@ void loop() {
 
 <ins>Setup:</ins>  
 ![RGB_led_setup](ARDUINO/Opkomende_technologiën/groenrood/RGB_led_schakelaar/RGB_led_setup.png)  
-
 ### 2. RGB-backlight met twee drukknoppen
 ### 3. Timer zonder RGB-backlight
 ### 4. Timer met RGB-backlight en RGB-led

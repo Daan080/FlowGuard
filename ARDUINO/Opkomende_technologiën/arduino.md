@@ -25,32 +25,36 @@ Deze synthese beschrijft het ontwerp van het Arduino-circuit en de bijbehorende 
 - **Adafruit NeoPixel RGB-ledring:**  
   De ledring geeft visuele feedback aan andere collega's op afstand. Het kleur update naargelang de knoppen ingedrukt worden of wanneer een bepaalde tijdsduur is overschreden en loopt synchroon met de RGB backlight van het scherm. Er werd voor de ring gekozen, aangezien het design voor de lamp ook cirkelvormig is en de ring meer en verdeelder licht biedt dan een enkele RGB led.
 
-## Onderdelen
+## Functies
 ### Groen/Rood lamp
-Probleemaanpak:  
-In kantoren is het vaak onduidelijk of iemand geconcentreerd aan het werk is of openstaat voor onderbrekingen. Hierdoor ontstaan onnodige verstoringen die stress kunnen verhogen.
+<ins>Aan te pakken probleem:</ins>  
+In kantoren is het vaak onduidelijk of iemand geconcentreerd aan het werk is of openstaat voor onderbrekingen. Hierdoor ontstaan onnodige verstoringen die stress kunnen verhogen.  
 
-Oplossing via hardware en code:  
+<ins>Oplossing:</ins>  
 Met twee fysieke knoppen (groen en rood) kan de gebruiker zelf de werkstatus aangeven.  
-Bij een druk op de groene knop:  
-De lcd-backlight en de RGB-ledring kleuren groen.  
+- Bij een druk op **de groene knop** kleuren de RGB-backlight en de RGB-ledring groen.  
 Dit geeft aan: "Ik ben beschikbaar" of "Ik werk in een normaal tempo".  
-Bij een druk op de rode knop:  
-De backlight en ledring kleuren rood.  
-Dit signaleert: "Niet storen" of "Ik ben gefocust bezig".  
+- Bij een druk op **de rode knop** kleuren de RGB-backlight en de RGB-ledring rood.  
+Dit geeft aan: "Niet storen" of "Ik ben gefocust bezig".
+
 Dit visueel systeem bevordert respect voor elkaars werkflow en voorkomt overbodige stressvolle onderbrekingen.  
 
 ### Timer
-Probleemaanpak:  
+<ins>Aan te pakken probleem:</ins>   
 Veel werknemers nemen te weinig pauzes, wat leidt tot mentale vermoeidheid. Pauzes zijn essentieel voor concentratie en stressverlaging, maar worden vaak vergeten of uitgesteld.  
-Oplossing via hardware en code:  
-Een ingebouwde timerfunctie met encoder helpt bij het plannen van korte werkblokken en pauzes:  
-Via de rotary encoder kan de gebruiker eenvoudig een werk- of pauzeperiode instellen. De code zorgt voor slimme tijdsaanpassingen met stappen die afhangen van de ingestelde tijd (vb. stappen van 30 seconden voor korte pauzes).  
-De druk op de encoder start of stopt de timer.  
-Tijdens het aftellen is de RGB-ledring actief, wat een duidelijk signaal geeft dat de gebruiker aan een taak bezig is.  
+
+<ins>Oplossing:</ins>  
+Een visuele timer helpt bij brengen van structuur in een werkdag en het plannen van werkblokken en pauzes:  
+- Door het **draaien** aan de rotary encoder kan tijd toegevoegd (met de klok mee) of afgetrokken (tegen de klok in) worden van de timer.
+- Door het **drukken** op de rotary encoder kan de tijd gestart of stopgezet worden.  
+
+Tijdens het aftellen van de timer is de RGB-ledring actief, wat naast de werkstatus van de gebruiker dus ook meedeelt dat die persoon aanwezig is op het bureau en aan het werk. Als de timer gepauzeerd is of de timer afgelopen is, staat de ledring uit.  
 
 Wanneer de timer afloopt:  
 De lcd-tijd begint te knipperen.  
 De backlight wordt extra fel (helder groen of rood) om de gebruiker visueel te attenderen.  
 De ledring schakelt uit — dit benadrukt dat de ingestelde tijd voorbij is en nodigt uit tot pauze.  
-Door het gebruik van eenvoudige fysieke interactie (draaien, drukken) en duidelijke lichtsignalen, wordt de gebruiker subtiel begeleid in een gezonder werkritme.  
+Door het gebruik van eenvoudige fysieke interactie (draaien, drukken) en duidelijke lichtsignalen, wordt de gebruiker subtiel begeleid in een gezonder werkritme. 
+
+## Proces
+### 1. Werking RGB-led en RGB-backlight testen

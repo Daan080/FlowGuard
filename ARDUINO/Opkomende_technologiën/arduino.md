@@ -58,8 +58,39 @@ Door het gebruik van eenvoudige fysieke interactie (draaien, drukken) en duideli
 
 ## Proces
 ### 1. RGB-led met schakelaar
+[RGB_led_schakelaar](ARDUINO/Opkomende_technologiën/groenrood/RGB_led_schakelaar/RGB_led_schakelaar.ino)  
+<details>
+<summary>Code bekijken</summary>
+
+```cpp
+const int switchPin = 2;  // pin schakelaar
+const int redPin = 11;    // pin rood
+const int greenPin = 10;  // pin groen
+
+void setup() {
+    pinMode(switchPin, INPUT_PULLUP);
+    pinMode(redPin, OUTPUT);
+    pinMode(greenPin, OUTPUT);
+}
+
+void loop() {
+    int switchState = digitalRead(switchPin); // waarde schakelaar inlezen
+
+    if (switchState == LOW) {
+        digitalWrite(redPin, LOW);
+        digitalWrite(greenPin, HIGH);
+    } else {
+        digitalWrite(redPin, HIGH);
+        digitalWrite(greenPin, LOW);
+    }
+}
+```
+</details>  
+
+<ins>Setup:</ins>  
+![RGB_led_setup](ARDUINO/Opkomende_technologiën/groenrood/RGB_led_schakelaar/RGB_led_setup.png)  
+
 ### 2. RGB-backlight met twee drukknoppen
 ### 3. Timer zonder RGB-backlight
 ### 4. Timer met RGB-backlight en RGB-led
 ### 5. Timer met RGB-backlight en RGB-ring (finaal)
- 

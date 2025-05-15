@@ -57,4 +57,9 @@ De ledring schakelt uit — dit benadrukt dat de ingestelde tijd voorbij is en n
 Door het gebruik van eenvoudige fysieke interactie (draaien, drukken) en duidelijke lichtsignalen, wordt de gebruiker subtiel begeleid in een gezonder werkritme. 
 
 ## Proces
-### 1. Werking RGB-led en RGB-backlight testen
+### 1. RGB-led met schakelaar
+### 2. RGB-backlight met twee drukknoppen
+### 3. Timer zonder RGB-backlight
+### 4. Timer met RGB-backlight en RGB-led
+### 5. Timer met RGB-backlight en RGB-ring (finaal)
+ 

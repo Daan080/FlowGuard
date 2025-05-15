@@ -8,6 +8,25 @@ Regelmatig pauzes aan te moedigen,
 Visueel de werkstatus te tonen aan collega’s,
 Een gevoel van controle en voldoening te geven over het werkritme.
 Deze synthese beschrijft het ontwerp van het Arduino-circuit en de bijbehorende code die dit product functioneel maken.
+## materiaal
+- Arduino (Uno/Nano):
+  De kern van het systeem. Een stabiel en flexibel platform dat eenvoudig te programmeren is en veel ondersteuning heeft voor extra componenten. Hierdoor kon snel
+  een werkend prototype worden opgebouwd.
+
+- RGB LCD-scherm (met I2C):
+  Toont duidelijk de resterende tijd op een intuïtieve manier (HH:MM:SS).
+  De achtergrondkleur verandert afhankelijk van de status (groen of rood), wat zorgt voor een directe visuele koppeling tussen status en tijd.
+
+- Rotary Encoder (met drukknop):
+  Laat toe om op een natuurlijke manier tijd in te stellen en de timer te starten/stoppen.
+  De encoder biedt fysieke controle zonder dat er een schermmenu of complexe interactie nodig is, wat laagdrempelig is voor elke gebruiker.
+
+- LED Arcade drukknoppen:
+  Bieden een eenvoudige en directe manier om de werkstatus manueel aan te passen en hebben een goede sensiviteit en omvang, .
+
+- Adafruit NeoPixel RGB-ledring:
+  Visuele feedback op afstand: toont of de gebruiker beschikbaar is of in focus is zonder geluid of onderbrekingen.
+  De ledkleur is altijd synchroon met de status van de lcd-backlight, wat consistentie biedt.
 
 ## Onderdelen
 ### Groen/Rood lamp

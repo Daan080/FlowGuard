@@ -27,10 +27,10 @@ Deze synthese beschrijft het ontwerp van het Arduino-circuit en de bijbehorende 
 
 ## Functies
 ### Groen/Rood lamp
-<ins>Aan te pakken probleem:</ins>  
+**Aan te pakken probleem:**  
 In kantoren is het vaak onduidelijk of iemand geconcentreerd aan het werk is of openstaat voor onderbrekingen. Hierdoor ontstaan onnodige verstoringen die stress kunnen verhogen.  
 
-<ins>Oplossing:</ins>  
+**Oplossing:**  
 Met twee fysieke knoppen (groen en rood) kan de gebruiker zelf de werkstatus aangeven.  
 - Bij een druk op **de groene knop** kleuren de RGB-backlight en de RGB-ledring groen.  
 Dit geeft aan: "Ik ben beschikbaar" of "Ik werk in een normaal tempo".  
@@ -40,10 +40,10 @@ Dit geeft aan: "Niet storen" of "Ik ben gefocust bezig".
 Dit visueel systeem bevordert respect voor elkaars werkflow en voorkomt overbodige stressvolle onderbrekingen.  
 
 ### Timer
-<ins>Aan te pakken probleem:</ins>   
+**Aan te pakken probleem:**   
 Veel werknemers nemen te weinig pauzes, wat leidt tot mentale vermoeidheid. Pauzes zijn essentieel voor concentratie en stressverlaging, maar worden vaak vergeten of uitgesteld.  
 
-<ins>Oplossing:</ins>  
+**Oplossing:**  
 Een visuele timer helpt bij brengen van structuur in een werkdag en het plannen van werkblokken en pauzes:  
 - Door het **draaien** aan de rotary encoder kan tijd toegevoegd (met de klok mee) of afgetrokken (tegen de klok in) worden van de timer.
 - Door het **drukken** op de rotary encoder kan de tijd gestart of stopgezet worden.  

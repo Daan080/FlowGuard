@@ -459,7 +459,7 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 ## Overzicht Requirements
 
 |ID| Design Requirement | Bron | Datum |
-| -------- | :--- | :---: | :---: |
+| --------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
 | 1.1 | Er moeten pauzes aangeraden worden | user interviews | 17/10/2024 |
 | 1.3 | Onnodige meldingen moeten weggefilterd worden | user interviews | 27/10/2024 |
@@ -551,3 +551,5 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 - [arduino](ARDUINO/Opkomende_technologiën/arduino.md)
 - [Deelopdracht 5 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EbUUeYOipqdAkmavct5EJ2EBiMyxrSWoRJ1nJvaUuVvDsw?e=Ng8p4M)
 - [Deelopdracht 5 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=3fsowl)
+### informed consents
+- [informed consents](informed_consents/informed_consents.docx)

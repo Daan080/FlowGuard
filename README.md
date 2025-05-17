@@ -459,7 +459,7 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 ## Overzicht Requirements
 
 |ID| Design Requirement | Bron | Datum |
-| --------- | :--- | :---: | :---: |
+| ----------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
 | 1.1 | Er moeten pauzes aangeraden worden | user interviews | 17/10/2024 |
 | 1.3 | Onnodige meldingen moeten weggefilterd worden | user interviews | 27/10/2024 |

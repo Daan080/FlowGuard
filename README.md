@@ -493,14 +493,9 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 | 4.12 | Het product wordt aangeschaft door een bedrijf/organisatie, zodat iedereen deze kan gebruiken | Development 2 | 17/04/2025 |
 | 4.13 | Tijdens het werken staat het ledscherm van de hub op helderheid 25 | Development 2 | 17/04/2025 |
 
-
+## What's Next?
 ## Bill of materials
-- Arduino of andere makkelijk te programmeren tools om juist kleur licht te schijnen op het juiste moment.
-- elektronica voor het maken van een klok/timer
-- vormen om de esthetische kant te testen en de omvang (zelf te maken)
-- stressmeter (werkend met hartslagvariabiliteit)
-  --> idealiter te verbinden met de centrale interface om kleur te verkrijgen
-- vibratiemotor waarvan frequentie en intensiteit geregeld kan worden
+- 
   
 ## Kritische reflectie
 In het algemeen zit het project op schema. Bij de eerste stappen was er moeite met het afbakenen de essentie en zag men soms door het bos de bomen niet meer. Door de conceptvalidatie kreeg het project echter validatie en feedback wat zorgde voor meer richting. Bij elke stap kwam er meer duidelijkheid en structuur. Er werden signalen gegeven vanuit de doelgroep die aantoonden dat er een probleem is waar nog geen concrete oplossing voor is en waarvan de oplossing zeer gewild is. Het was rap duidelijk dat de doelgroep de leidraad is en hun feedback dit project vooruit zal helpen. Er werd heel veel input via de interviews en gebruikerstesten verkregen, maar het was niet altijd even simpel om met alles rekening te houden en deze zaken correct te analyseren. Dit kwam vooral omdat sommige antwoorden volledig verschilden met anderen. Daarom wordt belang gehecht aan de mogelijkheid om het product te personaliseren voor elke gebruiker, zonder de complexiteit te verhogen. De grootste uitdagingen die nu volgen zijn het prototypen en realiseren van de vorm en elektronica van het product en tevens evenveel belang hechten aan de feedback van de doelgroep als in de eerste fasen.

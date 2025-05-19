@@ -89,7 +89,7 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 ![discovery](img/discovery.png)
 
 
-## Definition
+## Definition (N = 10)
 
 Na de goedgekeuring van dit concept werd gefocust op definiëren van het concept en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit werd gedaan aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit de doelgroep. 
 
@@ -140,7 +140,7 @@ Vrijwel iedereen benadrukte het belang van **persoonlijke aanpassingsmogelijkhed
 Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. **Stressmetingen** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
 #### MoSCow review
 
-![moscow_review]<img src="/img/moscow_review.png" width="50%">
+<img src="/img/moscow_review.png" width="50%">
 
 
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
@@ -222,8 +222,8 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 > - D4.5 Tekst op het product dient in het Nederlands te zijn
 
 
-## Develop
-### Develop 1
+## Develop (N = 17)
+### Develop 1 (N = 4)
 #### Doelstellingen
 Om de volgende stappen in het proces makkelijker te maken het product meer de definiëren is nood aan een interace. Deze zal het fysieke aspect van het product bepalen en de integratie van electronica meer geordend maken. In deze test zal gekeken worden waar de interacties zich bevinden op de centrale interface samen met de indeling van de website die bij het product hoort. 
 
@@ -301,7 +301,7 @@ Tabblad Werkomgeving:
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
 
-### Develop 2
+### Develop 2 (N = 4)
 #### Doelstellingen
 In deze test worden de laatste onduidelijkheden aangepakt voor een eerste volledig concept kan worden gemaakt. Volgende onduidelijkheden worden onderzocht:
 -	Polsen bij gebruiker over plaats op het bureau
@@ -336,12 +336,12 @@ Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaatst moe
 Bij het overlopen van de triggers van het Hooked model waren er geen opvallende ondervindingen. De meeste gingen voor het werken een koffie of een thee halen, maar buiten dit waren er niet veel zaken waarop het product kan inspelen.
 > "Koffie halen, en dan begin ik eraan."
 
-Opvallend was het feit dat ieder van de participanten aanhaf hun gsm aan de kant te leggen voor ze begonnen met werken. Wanneer werd voorgesteld om misschien de gsm te integreren in het product of de werking van het product afhankelijjk te maken van het gesm-gebruik, was er weining inthousiasme door volgende opmerkingen:
+Opvallend was het feit dat ieder van de participanten aanhaf hun gsm aan de kant te leggen voor ze begonnen met werken. Wanneer werd voorgesteld om misschien de gsm te integreren in het product of de werking van het product afhankelijjk te maken van het gesm-gebruik, was er weining inthousiasme door volgende zaken:
 - De gsm is nodig voor het werk: bellen, WhatsAppen, ...
 - Sommigen halen hun gsm niet boven
 - Wat als je je gsm vergeet?
 - Vaak is er authentificatie met de gsm verreist en heb je deze dus ook meerdere malen nodig.
-Het is dus duidelijk dat men de gsm vaak nodig heeft tijdens het werk en dit concept van entegratie niet zo interessant zou zijn.
+Het is dus duidelijk dat men de gsm vaak nodig heeft tijdens het werk en dit concept van entegratie niet zo interessant zou zijn. Het product kan echter wel een niet essentiële functie hebben met betrekking tot de gsm.
 
 Over het algemeen heeft men het gevoel dat er genoeg stored value zit in het product om het te blijven gebruiken. Bij het vragen naar extra stored value zoals puntensystemen werden volgende zaken aangehaald:
 - Je kan moeilijk onderlinge taken vergelijken. Als de takenpaketten anders zijn, hoe kan je dan een competitieve meting doen?
@@ -396,7 +396,7 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 > - D4.13 Tijdens het werken staat het scherm op helderheid 25
 > - D2.13 Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140
 
-### Develop 3
+### Develop 3 WAVE 1 (N = 8)
 #### Doelstellingen
 Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd zowel functioneel als esthetisch geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe onduidelijkheden/problemen naar boven zullen komen om verder onderzoek mogelijk te maken. De doelstelling voor deze test is dus om de doelgroep te laten interageren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken: 
 - Hoe lang mag het licht maximaal op rood staan voordat het vanzelf uitvalt?
@@ -432,6 +432,42 @@ Om de werking hiervan te simuleren werd volgende arduinocircuit gebouwd en geïn
 
 Bij dit circuit hoort volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
 
+De test zelf bestaat uit een concept test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
+
+#### Resultaten
+##### <ins> eerste confrontatie + vrije interactie </ins>
+
+
+
+##### <ins> testen van enkele scenario's </ins>
+
+##### <ins> bespreking voorgaande testen en onduidelijkheden </ins>
+
+#### Conclusies & implicaties
+##### <ins> lamp- en interface positionering </ins>
+
+
+##### <ins> Triggers en de stored value van het product </ins>
+
+
+##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
+
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
+> - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
+
+
+### Develop 3: WAVE 2 (N = 8)
+#### Doelstellingen
+Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd zowel functioneel als esthetisch geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe onduidelijkheden/problemen naar boven zullen komen om verder onderzoek mogelijk te maken. De doelstelling voor deze test is dus om de doelgroep te laten interageren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken: 
+
+
+#### Materiaal & methoden
+
+
+
 De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>
@@ -454,8 +490,6 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 > Design Requirements:
 > - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
 > - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
-
-
 ## Overzicht Requirements
 
 |ID| Design Requirement | Bron | Datum |

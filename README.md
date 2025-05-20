@@ -434,6 +434,7 @@ Om de werking hiervan te simuleren werd volgende arduinocircuit gebouwd en geïn
 
 Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
 Uit de conceptschetsen en het arduino-schema kwam volgend prototype, gemaakt met behulp van lasercutten en 3D printen:
+
 <img src="/img/prototype_develop3.1.jpeg" width="40%">
 
 De test zelf bestaat uit een concept test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.

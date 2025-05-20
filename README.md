@@ -14,7 +14,7 @@ In het zoeken naar een oplossing werden naast de literatuuronderoeken en intervi
 
 De oplossing dat in dit dossier wordt voorgesteld is een product dat helpt om een gezonde balans te houden tussen werken en pauzes, en deze pauzes op fysisch niveau kan helpen verbeteren. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving. Dit door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s.
 Het product geeft een gevoel van voldoening die men zoekt in een werkdag.
-<img src="/renders/render_9" width="50%">
+<img src="/renders/render_9.png" width="50%">
 
 ## Introductie
 Volgens Riziv (Rijksinstituut voor ziekte- en invaliditeitsverzekering) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornissen en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress tijdens de job spelen hier een grote rol in, maar ook de constante bereikbaarheid via mail, berichten, sociale media, op de werkvloer, etc. zorgen voor een daling in werkefficiëntie met als gevolg een stijging in stress en werkdruk. Stress en werkdruk die te vermijden zijn…

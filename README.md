@@ -6,14 +6,15 @@
 23/09/2024 - 08/01/2025
 
 ## Samenvatting
-Op de werkvloer van tegenwoordig is er te veel stress en werkdruk, hoewel ze vaak te vermijden zijn. Onnodige stress en werkdruk kan leiden tot mentale en onrechtstreeks fysieke zorgen en in extreme gevallen tot burn-outs. 
+In de moderne kantooromgeving is er te veel stress en werkdruk, terwijl deze vaak te vermijden zijn. Onnodige stress en werkdruk kunnen leiden tot mentale en onrechtstreeks fysieke zorgen en in extreme gevallen tot burn-outs. 
 
 Uit meerdere literatuuronderzoeken en interviews met relevante participanten blijkt dat dit grotendeels ligt aan het feit dat men tegenwoordig constant bereikbaar is via de gsm en computer, maar ook dat er niet genoeg rekening gehouden wordt met elkaar. Dit laatste is vaak een gevolg van slechte communicatie of gaat over zaken die moeilijk te communiceren zijn, zoals stress.
 
 In het zoeken naar een oplossing werden naast de literatuuronderoeken en interviews ook andere ontwerpmethodes gebruikt om de diepe oorzaken te zoeken en tot een concrete oplossing te komen.
 
 De oplossing dat in dit dossier wordt voorgesteld is een product dat helpt om een gezonde balans te houden tussen werken en pauzes, en deze pauzes op fysisch niveau kan helpen verbeteren. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving. Dit door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s.
-Het product geeft een gevoel van voldoening  die men tegenwoordig zoekt op een werkdag. 
+Het product geeft een gevoel van voldoening die men zoekt in een werkdag.
+<img src="/renders/render_9" width="50%">
 
 ## Introductie
 Volgens Riziv (Rijksinstituut voor ziekte- en invaliditeitsverzekering) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornissen en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress tijdens de job spelen hier een grote rol in, maar ook de constante bereikbaarheid via mail, berichten, sociale media, op de werkvloer, etc. zorgen voor een daling in werkefficiëntie met als gevolg een stijging in stress en werkdruk. Stress en werkdruk die te vermijden zijn…
@@ -431,6 +432,8 @@ Om de werking hiervan te simuleren werd volgende arduinocircuit gebouwd en geïn
 <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
 
 Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
+Uit de conceptschetsen en het arduino-schema kwam volgend prototype, gemaakt met behulp van lasercutten en 3D printen:
+<img src="/img/prototype_develop3.1" width="40%">
 
 De test zelf bestaat uit een concept test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 

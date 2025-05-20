@@ -74,7 +74,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 > Design Requirements:
 > - D1.1 Het product moet pauzes aanraden
 > - D1.2 Er moet tijdens pauzes beweging aangeraden worden
-> - D1.3 Het product moet tijdens het werken onnodige meldingen wegfilteren
+> - D1.3 Het product moet tijdens het werken onnodige meldingen van de gsm wegfilteren
 > - D1.4 Werktijd en pauzetijd moeten duidelijk gescheiden worden
 > - D2.1 Werkstatus moet onderling gedeeld kunnen worden
 > - D2.2 Een focusstand moet gebruiker ongestoorde focus en rust bieden
@@ -236,10 +236,10 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 - Laptop om protocol voor te lezen en resultaten te noteren
 - Laptop om voorbeelden van de centrale interface te tonen en website te simuleren
 
-![knoppen_deelopdracht_3](img/knoppen_deelopdracht_3.png)
+![knoppen develop 1](img/knoppen_deelopdracht_3.png)
 
 De voorgemaakte layout's voor de website zien er uit als volgt:
-![websites_deelopdracht_3](img/websites_deelopdracht_3.png)
+![websites develop 1](img/websites_deelopdracht_3.png)
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 Naast de layout van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
 <img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="700">
@@ -255,7 +255,7 @@ Om de beste layout er uit te halen wordt aan de participanten gevraagd om websit
 - **Knop groen/rood:** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
 
 Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
-![interfaces_deelopdracht_3](img/interfaces_deelopdracht_3.png)
+![interfaces develop 1](img/interfaces_deelopdracht_3.png)
 
 ##### <ins> Website interface </ins>
 <ins> Lay-out </ins>
@@ -317,11 +317,11 @@ Het gebruikte materiaal voor deze test:
 - Foto’s van bureaus in verschillende opstellingen
 - Arduino circuit met LCD RGB backlight scherm, 2 potentiometers en een schakelaar. De eerste potentiometer bestuurt de lichtsterkte van het scherm en de tweede potentiometer de
 knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
-De bijhorende code van deze arduino-opstelling kan men hier vinden: ![arduino_code_deelopdracht_4](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
+De bijhorende code van deze arduino-opstelling kan men hier vinden: ![arduino code develop 2](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
 
 <img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%"> <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
 
-![bureauopstellingen_deelopdracht_4](img/bureauopstellingen_deelopdracht_4.png)
+![bureauopstellingen develop 2](img/bureauopstellingen_deelopdracht_4.png)
 
 
 #### Resultaten
@@ -430,74 +430,124 @@ Om de werking hiervan te simuleren werd volgende arduinocircuit gebouwd en geïn
 
 <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
 
-Bij dit circuit hoort volgende code: ![arduino code deelopdracht 5](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
+Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
 
 De test zelf bestaat uit een concept test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 
 #### Resultaten
 ##### <ins> eerste confrontatie + vrije interactie </ins>
+Bij het confronteren van de doelgroep met het product, na een korte introductie, lukt het iedere participant, zonder uitzondering, om alle delen van het product aan de juiste functie te koppelen. De enige fout die er werd gemaakt was het feit of op het scherm je focusstatus zou uitgetypt worden of niet.
 
+De vorm van de hub lijkt niet storend te zijn maar heeft nog ruimte voor verbetering. Zo halen sommigen aan dat de ronde, ergonomische knop niet samenhoort bij de strakke voorkant waar het scherm zit. De mogelijke vormgevingen werden echter beperkt tijdens het prototypen door de bischikbare componenten. Zo kon het product niet kleiner worden geprototyped dan de houdige opstelling. In de toekomst is er dus nog ruimte om betere, kleinere componenten te gebruiken om tijdens het ontwerpen van de hub nog meer vormvrijheid te hebben.
+Buiten deze kritiek zagen de participanten het product voor zich op de bureau en zag het er simpel uit. 
 
+> "Het lijkt een beetje op een apothekerweegschaal"
+
+Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen tussenkomst nodig van de onderzoekers. Nog niet alle functies werden echter uitgeprobeerd.
 
 ##### <ins> testen van enkele scenario's </ins>
+##### Plaatsen 
+(centrale hub met lamp worden aan de gebruiker gegeven; de lamphouder wordt geplaatst op een plek, aangegeven door de participant)
+1.	Waar zou jij de lamp plaatsen?
+   De meesten plaatsten deze op een hogere positie, zoals een akoestisch paneel of een muur, een minderheid plaatste hem op de hoek van de bureau
+2.	Verplaats de centrale hub met de lamp naar uw bureau
+   Hier werden geen problemen ondervonden
+3.	Geef de centrale hub een bereikbare plaats op uw bureau
+   Meesten kiezen rechts van de laptop, sommigen links
+4.	Plaats de lamp in de lamphouder
+   Geen problemen ondervonden
+##### Instellen 
+(product wordt met stroom geconnecteerd)
+5.	Stel een werktijd van 01:15:00 in
+   Hier werden sommigen verrast door de gevoeligheid van de knop en hoe deze plots grotere stappen zette. Na 1 maal dit te hebben gedaan, was dit geen probleem meer.
+   1 participant stelt per ongeluk 1 minuut en 30 seconden in en start de timer. Toch beseft ze dit zelf en kan met gemak de juiste tijd instellen.
+   Voor een groot deel ging dit zeer vlot.
+   > "Amai, dat gaat vlot!"
+6.	Start de timer
+   Dit lukt vlot voor iedereen. Het grootste probleem dat hier werd ondervonden was dat een tweetal participanten niet hard genoeg op de knop drukten, geen feedback kregen en daardoor andere dingen probeerden.
+##### Gebruiken
+7.	Schakel de focusstand in
+   Geen problemen ondervonden
+8.	Voeg een kwartier toe aan de tijd
+   Iedere participant probeert meteen te draaien aan de draaiknop, wanneer ze geen verandering zien in de timer begrijpen de meeste participanten dat ze eerst op pauze moeten drukken. Een meerderheid van de
+   participanten kan de opdracht uitvoeren onder de 5 seconden en begrijpt het nut van deze constraint. Bij een tweetal participanten moeten de onderzoekers even tussenkomen, maar begrijpen ze het ook snel.
+9.	Leg uw gsm op de centrale hub om hem op te laden
+   Geen probleem
+10.	Verlaag de timer naar 1 minuut en toon aan je collega’s dat je gestoord mag worden opbergen (product wordt uitgeschakeld)
+    Niemand maakt nog fouten na stap 8. Dit toont dat de fouten die bij vraag 8 werden gemaakt geen invloed hebben op de werking van het product of de intuïtiviteit.
+11.	Neem de lamp en de centrale hub en berg het op
+    De lamp wordt door iedereen intuîtief op de lamp geplaatst, hoewel sommigen niet beseffen dat dit voor het opladen is. Er wordt aangehaald dat de magneet in de hub minder sterk is dan in de lamphouder.
+
+Er wordt bij de laatste stap opgemerkt dat de lamp geen uit-knop heeft. Hoewel dit een terechte opmerking is, is hier wel een oplossing voor, maar kon deze niet in het product worden geïntegreerd.
+Opdracht 10 is zo opgesteld, dat de timer tijdens opdracht 11 zal afgaan en dit ook zal signaleren naar de gebruiker.
+Iedere participant, zonder uitzondering, werd meteen afgeleid en zag het signaal. Dit betekent dat het signaal efficiënt en effectief is. Er werd echter wel terecht opgemerkt dat er niet direct een knop is om dit signaal af te zetten, behalve de timer opnieuw instellen. Dit is een simpel, maar belangrijk op te lossen probleem.
 
 ##### <ins> bespreking voorgaande testen en onduidelijkheden </ins>
+- De plaatsing van de lamp werd door alle participanten ervaren als gemakkelijk, de magneten helpen hierbij, en stevig, met ruime plaatsmogelijkheden. Er waren enkele bezorgdheden of de lamphouder wel geplaatst kon worden op akoestische panelen en hoe stevig dit zou zijn en of het op iedere achterkant van een scherm kon hangen (niet altijd recht).
+> “Stevig, duidelijk, je kan niet missen”
+- Alle participanten vonden het gebruik zeer simpel en intuïtief, de constraint dat je eerst op pauze moet drukken voor je de timer kan herinstellen vond iedereen goed. Iedere fout dat werd gemaakt gingen de participanten maar 1 keer maken.
+Verder werd het ontbreken van een aan/uit-knop aangehaald, de associatie met een microgolftimer en dat de hub staat niet super vast op de bureau.
+- De 3 verschillende lichtsterktes van het scherm, afhankelijk van de tijd en status van de timer, werd niet door iedereen opgemerkt, wat positief is aangezien dit niet mag storen, behalve als timer afgaat. Nadat de onderzoekers dit nog eens toonden en de functie ervan aangaven, bevestigden alle participanten dat dit goed en nodig is. De meeste participanten halen aan dat het flikkersignaal, aangevend dat de timer afgelopen is, goed afleidt, maar snel afgezet moet kunnen worden.
+> "Het is goed dat je niet je aandacht erop vestigt tijdens het werken."
+- Het instellen van de timer, met name de variabele stapgroottes, vond niet iedereen even intuïtief. Zo werd meerdere malen aangehaald dat de stapgroottes in het begin te klein zijn in vergelijking met de stapgroottes op het einde en dat men daarom snel draait in het begin, niet direct stopt en plots meerdere uren op de timer heeft ingesteld. Als inbreng wordt meerdere malen een constante stapgrootte van 5 minuten voorgesteld. Dit sluit ook aan bij de pomodoromethode.
+Anderzijds wordt ook aanghaald dat het een kwestie is van gewoon worden en wordt wederom de associatie gelegd met een microgolfoven.
+- Bij het vragen naar de maximale tijd dat de gebruiker op focusmodus kan staan, om te vermijden dat de gebruiker zich hele dag afsluit van zijn omgeving, werd door alle gebruikers bevestigd dat er een limiet op moest staan. Echter gaven sommigen aan dat ze vertrouwen hadden in het feit dat iedereen dit voor zichzelf moest bepalen en moest naleven, sommmigen zeiden max. een half uur en sommigen max. een uur. Een interessante ingeving was om te kijken wat de wetenschap hierover zegt: hoelang kan een persoon zich aan een stuk concentreren.
+- De mogelijkheid om de lamp en gsm draadloos op te laden, en afhankelijk van je werkstatus bepaalde meldingen af te zetten, wordt door iedereen geapprecieerd. Dit zou helpen met focussen, maar ook met het wegleggen van de gsm, interactie met het product, besparen van stopcontacten en opladen van de lamp.
+Dit is tevens de uitknop van het product: Als de lamp op het product wordt gelegd, schakelt de hub uit. Op die manier vergeet men niet de lamp op te laden in de avond en moet geen aan/uit-knop in het interface toegevoegd te worden, wat zorgt voor minder mogelijke gebruiksfouten.
 
 #### Conclusies & implicaties
-##### <ins> lamp- en interface positionering </ins>
+##### <ins> eerste confrontatie + vrije interactie </ins>
+- De interface is duidelijk en laat geen ruimte voor onduidelijkheden of fout gebruik.
+- De vorm van het product heeft nog verbetering op het vlak van afmeting en esthetiek.
+##### <ins> testen van enkele scenario's </ins>
+- Het gebruik van het product verloopt intuïtief, vot en na een paar testen ook foutloos.
+##### <ins> bespreking voorgaande testen en onduidelijkheden </ins>
+- De lamphouder moet een stevige positionering hebben, ook op oppervlakten gemaakt van stof of verf, zonder beschadiging aan te brengen. Hier zou best nog een onderzoek naar gebeuren in de vorm van een marktonderzoek.
+- Het instellen, gebruiken, interageren en op-bergen/zetten van het product is intuïtief en simpel.
+- Het flikkeren van het scherm, wanneer de timer afgelopen is, moet snel kunnen worden afgezet.
+- De stapgroottes mogen beginnen met 1 minuut, 5 minuten en na een uur mogen deze verhoogd worden naar 15 minuten.
+- De focusstand kan maximaal 1 uur gebruikt worden, daarna moet de gebruiker de focusknop nogmaals indrukken.
+- De gsm moet draadloos kunnen worden opgeladen op de hub net als de lamp. Wanneer de lamp op de hub ligt, schakelt het product uit.
 
-
-##### <ins> Triggers en de stored value van het product </ins>
-
-
-##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
-
+> [""QUOTE]
+> “Het feit dat het goed werkt en eenvoudig lijkt, is omdat er veel achter zit”
+> "Ik zou het zeker willen gebruiken" x 8
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
-> - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
+> - D1.5 De focusmodus kan maximum een uur worden gebruikt, daarna moet deze status opnieuw worden bevestigd
+> - D2.14 Het flikkeren van het scherm bij afloop van de timer kan met 1 beweging worden afgezet.
+> - D4.14 Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken
+> - D4.15 De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten
+> - D4.16 Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden
 
 
 ### Develop 3: WAVE 2 (N = 8)
 #### Doelstellingen
 Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd zowel functioneel als esthetisch geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe onduidelijkheden/problemen naar boven zullen komen om verder onderzoek mogelijk te maken. De doelstelling voor deze test is dus om de doelgroep te laten interageren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken: 
 
-
 #### Materiaal & methoden
-
-
-
 De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>
-
-##### <ins> Triggers en de stored value van het product </ins>
-
-##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
-
 #### Conclusies & implicaties
 ##### <ins> lamp- en interface positionering </ins>
 
-
-##### <ins> Triggers en de stored value van het product </ins>
-
-
-##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
 
 
 > [!IMPORTANT]
 > Design Requirements:
 > - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
 > - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
-## Overzicht Requirements
 
+## Overzicht Requirements
 |ID| Design Requirement | Bron | Datum |
 | :-------- | :--- | :---: | :---: |
 |*Groep 1* | *Werkefficiëntie* |  |  |
 | 1.1 | Er moeten pauzes aangeraden worden | user interviews | 17/10/2024 |
-| 1.3 | Onnodige meldingen moeten weggefilterd worden | user interviews | 27/10/2024 |
+| 1.3 | Onnodige meldingen op de gsm moeten weggefilterd worden | user interviews | 27/10/2024 |
 | 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden | user interviews | 27/10/2024 |
+| 1.5 | De focusmodus kan maximum een uur worden gebruikt, daarna moet deze status opnieuw worden ingesteld | Develop 3 wave 1 | 17/05/2025 |
 |*Groep 2* | *Communicatie* |  |  |
 | 2.1 | Werkstatus moet onderling gedeeld kunnen worden | Definition (wave 1) | 01/12/2024 |
 | 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden | user interviews | 27/10/2024 |
@@ -509,7 +559,8 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 | 2.10 | Als de gebruiker niet aan de bureau zit gaat het licht uit  | Development 1 | 01/03/2025 |
 | 2.11 | Communiceren van product naar gebruiker gebeurt met een ledscherm | Development 2 | 17/04/2025 |
 | 2.12 | De gebruiker kan steeds de eigen timer bekijken | Development 2 | 17/04/2025 |
-| 2.13 | Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140 | Development 2 | 17/04/2025 |
+| 2.13 | Bij het aanraden van een pauze flikkert het scherm met een frequentie van 530 ms en helderheid 140 | Development 2 | 17/04/2025 |
+| 2.14 | Het flikkeren van het scherm bij afloop van de timer kan met 1 beweging worden afgezet | Develop 3 wave 1 | 17/05/2025 |
 |*Groep 3* | *Voldoening* |  |  |
 | 3.1 | Gebruiker moet voldoening hebben aan einde van de dag |  | 24/10/2024 |
 |*Groep 4* | *Systeem* |  |  |
@@ -526,10 +577,12 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 | 4.11 | De hub staat binnen handbereik van de gebruiker | Development 2 | 17/04/2025 |
 | 4.12 | Het product wordt aangeschaft door een bedrijf/organisatie, zodat iedereen deze kan gebruiken | Development 2 | 17/04/2025 |
 | 4.13 | Tijdens het werken staat het ledscherm van de hub op helderheid 25 | Development 2 | 17/04/2025 |
+| 4.14 | Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken | Develop 3 wave 1 | 17/05/2025 |
+| 4.15 | De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten | Develop 3 wave 1 | 17/05/2025 |
+| 4.16 | Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden | Develop 3 wave 1 | 17/05/2025 |
 
 ## What's Next?
 ## Bill of materials
-- 
   
 ## Kritische reflectie
 In het algemeen zit het project op schema. Bij de eerste stappen was er moeite met het afbakenen de essentie en zag men soms door het bos de bomen niet meer. Door de conceptvalidatie kreeg het project echter validatie en feedback wat zorgde voor meer richting. Bij elke stap kwam er meer duidelijkheid en structuur. Er werden signalen gegeven vanuit de doelgroep die aantoonden dat er een probleem is waar nog geen concrete oplossing voor is en waarvan de oplossing zeer gewild is. Het was rap duidelijk dat de doelgroep de leidraad is en hun feedback dit project vooruit zal helpen. Er werd heel veel input via de interviews en gebruikerstesten verkregen, maar het was niet altijd even simpel om met alles rekening te houden en deze zaken correct te analyseren. Dit kwam vooral omdat sommige antwoorden volledig verschilden met anderen. Daarom wordt belang gehecht aan de mogelijkheid om het product te personaliseren voor elke gebruiker, zonder de complexiteit te verhogen. De grootste uitdagingen die nu volgen zijn het prototypen en realiseren van de vorm en elektronica van het product en tevens evenveel belang hechten aan de feedback van de doelgroep als in de eerste fasen.

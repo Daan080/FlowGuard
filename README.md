@@ -448,32 +448,33 @@ Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen 
 ##### <ins> testen van enkele scenario's </ins>
 **Plaatsen**
 (centrale hub met lamp worden aan de gebruiker gegeven; de lamphouder wordt geplaatst op een plek, aangegeven door de participant)
-1.	Waar zou jij de lamp plaatsen?
+1.	Waar zou jij de lamp plaatsen? <br>
    De meesten plaatsten deze op een hogere positie, zoals een akoestisch paneel of een muur, een minderheid plaatste hem op de hoek van de bureau
-2.	Verplaats de centrale hub met de lamp naar uw bureau
+2.	Verplaats de centrale hub met de lamp naar uw bureau <br>
    Hier werden geen problemen ondervonden
-3.	Geef de centrale hub een bereikbare plaats op uw bureau
+3.	Geef de centrale hub een bereikbare plaats op uw bureau <br>
    Meesten kiezen rechts van de laptop, sommigen links
-4.	Plaats de lamp in de lamphouder
+4.	Plaats de lamp in de lamphouder <br>
    Geen problemen ondervonden
 **Instellen**
 (product wordt met stroom geconnecteerd)
-5.	Stel een werktijd van 01:15:00 in
+5.	Stel een werktijd van 01:15:00 in <br>
    Hier werden sommigen verrast door de gevoeligheid van de knop en hoe deze plots grotere stappen zette. Na 1 maal dit te hebben gedaan, was dit geen probleem meer.
-  	1 participant stelt per ongeluk 1 minuut en 30 seconden in en start de timer. Toch beseft ze dit zelf en kan met gemak de juiste tijd instellen. Voor het grootste deel ging dit zeer vlot.
+  	Een participant stelt per ongeluk 1 minuut en 30 seconden in en start de timer. Toch beseft ze dit zelf en kan met gemak de juiste tijd instellen. Voor het grootste deel ging dit zeer vlot.
    > "Amai, dat gaat vlot!"
-6. Start de timerDit lukt vlot voor iedereen. Het grootste probleem dat hier werd ondervonden was dat een tweetal participanten niet hard genoeg op de knop drukten, geen feedback kregen en daardoor andere dingen probeerden.
+6. Start de timer <br>
+   Dit lukt vlot voor iedereen. Het grootste probleem dat hier werd ondervonden was dat een tweetal participanten niet hard genoeg op de knop drukten, geen feedback kregen en daardoor andere dingen probeerden.
 **Gebruiken**
-7.	Schakel de focusstand in
+7.	Schakel de focusstand in <br>
    Geen problemen ondervonden
-8.	Voeg een kwartier toe aan de tijd
+8.	Voeg een kwartier toe aan de tijd <br>
    Iedere participant probeert meteen te draaien aan de draaiknop, wanneer ze geen verandering zien in de timer begrijpen de meeste participanten dat ze eerst op pauze moeten drukken. Een meerderheid van de
    participanten kan de opdracht uitvoeren onder de 5 seconden en begrijpt het nut van deze constraint. Bij een tweetal participanten moeten de onderzoekers even tussenkomen, maar begrijpen ze het ook snel.
-9.	Leg uw gsm op de centrale hub om hem op te laden
+9.	Leg uw gsm op de centrale hub om hem op te laden <br>
     Geen probleem
-10.	Verlaag de timer naar 1 minuut en toon aan je collega’s dat je gestoord mag worden opbergen (product wordt uitgeschakeld)
+10.	Verlaag de timer naar 1 minuut en toon aan je collega’s dat je gestoord mag worden opbergen (product wordt uitgeschakeld) <br>
     Niemand maakt nog fouten na stap 8. Dit toont dat de fouten die bij vraag 8 werden gemaakt geen invloed hebben op de werking van het product of de intuïtiviteit.
-11.	Neem de lamp en de centrale hub en berg het op
+11.	Neem de lamp en de centrale hub en berg het op <br>
     De lamp wordt door iedereen intuîtief op de lamp geplaatst, hoewel sommigen niet beseffen dat dit voor het opladen is. Er wordt aangehaald dat de magneet in de hub minder sterk is dan in de lamphouder.
 
 Er wordt bij de laatste stap opgemerkt dat de lamp geen uit-knop heeft. Hoewel dit een terechte opmerking is, is hier wel een oplossing voor, maar kon deze niet in het product worden geïntegreerd.

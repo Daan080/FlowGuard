@@ -513,7 +513,7 @@ Dit is tevens de uitknop van het product: Als de lamp op het product wordt geleg
 - De focusstand kan maximaal 1 uur gebruikt worden, daarna moet de gebruiker de focusknop nogmaals indrukken.
 - De gsm moet draadloos kunnen worden opgeladen op de hub net als de lamp. Wanneer de lamp op de hub ligt, schakelt het product uit.
 
-> “Het feit dat het goed werkt en eenvoudig lijkt, is omdat er veel achter zit”
+> “Het feit dat het goed werkt en eenvoudig lijkt, is omdat er veel achter zit” <br>
 > "Ik zou het zeker willen gebruiken" x 8
 
 > [!IMPORTANT]

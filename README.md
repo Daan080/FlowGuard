@@ -456,14 +456,16 @@ Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen 
    Meesten kiezen rechts van de laptop, sommigen links
 4.	Plaats de lamp in de lamphouder <br>
    Geen problemen ondervonden
+ <br>
 **Instellen**
 (product wordt met stroom geconnecteerd)
-5.	Stel een werktijd van 01:15:00 in <br>
+6.	Stel een werktijd van 01:15:00 in <br>
    Hier werden sommigen verrast door de gevoeligheid van de knop en hoe deze plots grotere stappen zette. Na 1 maal dit te hebben gedaan, was dit geen probleem meer.
   	Een participant stelt per ongeluk 1 minuut en 30 seconden in en start de timer. Toch beseft ze dit zelf en kan met gemak de juiste tijd instellen. Voor het grootste deel ging dit zeer vlot.
    > "Amai, dat gaat vlot!"
 6. Start de timer <br>
    Dit lukt vlot voor iedereen. Het grootste probleem dat hier werd ondervonden was dat een tweetal participanten niet hard genoeg op de knop drukten, geen feedback kregen en daardoor andere dingen probeerden.
+ <br>
 **Gebruiken**
 7.	Schakel de focusstand in <br>
    Geen problemen ondervonden

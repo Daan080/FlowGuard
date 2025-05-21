@@ -10,7 +10,7 @@ In de moderne kantooromgeving is er te veel stress en werkdruk, terwijl deze vaa
 
 Uit meerdere literatuuronderzoeken en interviews met relevante participanten blijkt dat dit grotendeels ligt aan het feit dat men tegenwoordig constant bereikbaar is via de gsm en computer, maar ook dat er niet genoeg rekening gehouden wordt met elkaar. Dit laatste is vaak een gevolg van slechte communicatie of gaat over zaken die moeilijk te communiceren zijn, zoals stress.
 
-In het zoeken naar een oplossing werden naast de literatuuronderoeken en interviews ook andere ontwerpmethodes gebruikt om de diepe oorzaken te zoeken en tot een concrete oplossing te komen.
+In het zoeken naar een oplossing werden naast de literatuuronderzoeken en interviews ook andere ontwerpmethodes gebruikt om de diepe oorzaken te zoeken en tot een concrete oplossing te komen.
 
 De oplossing dat in dit dossier wordt voorgesteld is een product dat helpt om een gezonde balans te houden tussen werken en pauzes, en deze pauzes op fysisch niveau kan helpen verbeteren. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving. Dit door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s.
 Het product geeft een gevoel van voldoening die men zoekt in een werkdag.
@@ -20,7 +20,7 @@ Het product geeft een gevoel van voldoening die men zoekt in een werkdag.
 ## Introductie
 Volgens Riziv (Rijksinstituut voor ziekte- en invaliditeitsverzekering) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornissen en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress tijdens de job spelen hier een grote rol in, maar ook de constante bereikbaarheid via mail, berichten, sociale media, op de werkvloer, etc. zorgen voor een daling in werkefficiëntie met als gevolg een stijging in stress en werkdruk. Stress en werkdruk die te vermijden zijn…
 
-Eerder dit jaar werd gekozen tussen verschillende design-challenges en hieruit kwam deze challenge voort, namelijk stress, werkdruk en pauzes verbeteren bij werknemers die dagelijks aan een bureau werken in een kantooromgeving. Het is de bedoeling dat ons product deze problemen oplossen door regelmatig pauzes aan te raden, de werkstatus te communiceren met collega’s en voldoening het geleverde werk.
+Eerder dit jaar werd gekozen tussen verschillende design-challenges en hieruit kwam deze challenge voort, namelijk stress, werkdruk en pauzes verbeteren bij werknemers die dagelijks aan een bureau werken in een kantooromgeving. Het is de bedoeling dat ons product deze problemen oplossen door regelmatig pauzes aan te raden, de werkstatus te communiceren met collega’s en voldoening te geven bij het geleverde werk.
 
 Dit is een alledaags probleem en komt voor bij meerdere doelgroepen, denk bijvoorbeeld aan studenten. Om dit probleem te begrenzen en de oplossing zo gebruiksgericht te kunnen ontwerpen, is eerst gekozen voor de doelgroep kantoormedewerkers die dagelijks het merendeel van de dag aan een bureau werken. Als een oplossing wordt gevonden voor deze doelgroep, kan verder gekeken worden naar andere doelgroepen met een gelijkaardig probleem.
 
@@ -33,12 +33,12 @@ In dit project werd gebruik gemaakt van onderstaande ontwerpmethode, deze is geb
 
 ![methodologie](img/methodologie.jpg)
 
-Het eerste semester werden de Discover en Define fase doorlopen, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
+Het eerste semester werden de Discovery- en Define-fase doorlopen, oftewel de eerste twee "diamonds". Er werd in de discovery-fase vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept werd bedacht om het probleem en deze oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definie-fase vooral gefocust op het concept valideren en kijken of alles van de discovery-fase goed is geanalyseerd.
 
 ## Discovery (N = 15)
 
 ### Doelstellingen
-De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was om van het probleem, namelijk stress en werkdruk, terug te bouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
+De doelstelling van de discovery-fase was vooral het probleem begrijpen en omvatten. De eerste manier om dit doel te bereiken was om van het probleem, namelijk stress en werkdruk, terug te bouwen naar de oorzaak. Een tweede methode was om de omvang van het probleem te begrijpen en kijken hoe dit probleem kan worden vastgesteld.
 ### Materiaal & methoden
  #### SOTA-schema (zie bijlagen)
  Alvorens methoden en doelstellingen werden vastgelegd, werd eerst gekeken wat men persoonlijk wist van dit probleem.
@@ -50,8 +50,8 @@ De doelstelling van de discoveryfase was vooral het probleem begrijpen en omvatt
  De liturature reviews werden uitgevoerd en samengevat aan de hand van een protocol en rapport (zie bijlagen) 
 
 ### Resultaten
-De liturature review werd uitgevoerd doorheen de volledige discoveryfase en werd uitgevoerd aan de hand van een protocol en rapport (zie bijlage). De belangrijkste zaken die hieruit kunnen worden afgeleid zijn:
-- **Methode om stress te meten**: Om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting mogelijks gecombineerd met galvanische  huidrespons. De hartslagmeter kan zonder persoonlijke aanpassing toch een accuraat beeld van de stress weergeven. Het werkt namelijk op basis van hartslagvariabiliteit en niet op de hartslagwaarde zelf, zo zijn er geen problemen bij mensen die van nature een hoge hartslag.
+De liturature review werd uitgevoerd doorheen de volledige discovery-fase en werd uitgevoerd aan de hand van een protocol en rapport (zie bijlage). De belangrijkste zaken die hieruit kunnen worden afgeleid zijn:
+- **Methode om stress te meten**: Om de stress goedkoop, maar toch zo correct mogelijk te meten, zou er best gebruik gemaakt worden van hartslagmeting, mogelijks gecombineerd met galvanische  huidrespons. De hartslagmeter kan zonder persoonlijke aanpassing toch een accuraat beeld van de stress weergeven. Het werkt namelijk op basis van hartslagvariabiliteit en niet op de hartslagwaarde zelf, zo zijn er geen problemen bij mensen die van nature een hoge hartslag.
 - **Het probleem is groter dan gedacht**: Niet alleen in de kantooromgeving, maar ook bij veel andere jobs en zelfs studenten is dit probleem aanwezig. Dit zijn doelgroepen die met behulp van kleine aanpassingen aan het eindproduct hier misschien ook gebruik van kunnen maken. Om het product tot stand te brengen zal de doelgroep echter beperkt blijven tot kantoorjobs.
 - **Weinig fysieke beweging**: Dit is niet het hoofdprobleem dat in dit proces onderzocht wordt of behandeld, maar kan een oorzaak zijn van stress in de context van het gekozen probleem en wordt verder onderzocht in de user interviews.
 - **Stress en werkdruk**: Meerdere zaken spelen een rol, namelijk de omgeving, kwaliteit van werken, organisatie, werkhoeveelheid, ... of deze allemaal van toepassing zijn zal ook nader onderzocht worden in de user interviews.
@@ -66,9 +66,9 @@ Bij de user interviews werden een 3-tal respondenten ondervraagt en werden de ov
 - **Pauzes**: Hier is zeker ruimte voor verbetering. Ze worden vaak vergeten, niet genoeg gesimuleerd en dit geeft een kans om even weg te zijn van je stresserende omgeving.
 
 ### Conclusies & implicaties
-De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, gebrek aan voldoening en weinig initiatief tot pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen ontstaan die uitgroeien tot grotere, vermijdbare problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden. Hierdoor is meer werk gedaan en zal de werkdruk en thuiswerk verminderen. Een ander belangrijk aspect is de stress, aangezien dit moeilijk te zien is en moeilijk valt te communiceren. Er is nood aan stressmeting en stressreductie, mogelijks door pauzes of andere rustmomenten.
+De grootste problemen op de moderne werkvloer zijn de communicatie, afleiding, gebrek aan voldoening en weinig initiatief tot pauzes. Het feit dat men vandaag de dag constant bereikbaar moet zijn, zorgt voor constante onderbreking tijdens het werken. Deze nieuwe vormen van communicatie zorgen ook dat er minder vlotte en duidelijke communciatie is tussen collega's, waardoor kleine problemen ontstaan die uitgroeien tot grotere, vermijdbare problemen. Hieruit volgt dat het product moet kunnen communiceren en empathie opwekken. Dit is belangrijk voor de groepsfeer en de werkefficiëntie. Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de andere deelproblemen: het product moet kunnen aangeven wanneer iemand geconcentreerd en gefocust bezig is om onnodige afleiding te beperken of zelfs vermijden. Hierdoor is meer werk gedaan en zal de werkdruk en thuiswerk verminderen. Een ander belangrijk aspect is de stress, aangezien dit moeilijk te zien is en moeilijk valt te communiceren. Er is nood aan stressmeting en stressreductie, mogelijk door pauzes of andere rustmomenten.
 <br>
-Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken.
+Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit, gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken, zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken.
 <br>
 <ins> Om deze zaken duidelijker te kaderen en te verwoorden in requirements, werd een innovatrix ingevuld (bijlagen)
 
@@ -93,9 +93,9 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
 ## Definition (N = 10)
 
-Na de goedgekeuring van dit concept werd gefocust op definiëren van het concept en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit werd gedaan aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit de doelgroep. 
+Na de goedkeuring van dit concept werd gefocust op definiëren van het concept en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit werd gedaan aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit de doelgroep. 
 
-Uit de discovery kunnen de belangrijkste aspecten van de oplossing gebundeld worden:
+Uit de discovery-fase kunnen de belangrijkste aspecten van de oplossing gebundeld worden:
 1. Werkefficiëntie verhogen
 2. Onderlinge communicatie verbeteren
 (3. Pauze en voldoening)
@@ -112,7 +112,7 @@ Het doel van deze conceptvalidatie is om het eerste concept met een paar mockups
 Testpersonen maken kennis met het concept en er worden enkele open, maar gerichte vragen gesteld. Voor een gedetailleerd stappenplan kan worden gekeken naar het protocol (bijlagen). 
 Benodigdheden zijn:
 - een laptop om de antwoorden te capteren
-- dyctafoon voor spraakopname
+- dictafoon voor spraakopname
 - 2 quick-and-dirty prototypes gemaakt om mee te interageren
 <br>**De prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
 
@@ -128,15 +128,15 @@ Benodigdheden zijn:
 **Pauzes**: Het idee van pauzes <ins> op basis van tijd </ins> wordt door iedereen als vanzelfsprekend gezien. Het zelf kunnen instellen van werk- en pauzelengtes is een must en sommigen opteren voor een optie om je pauze nog net iets uit te stellen, indien je net nog niet klaar was met een taak. 
 Er werd door iemand voorgesteld om pauzes synchroon te laten verlopen met andere collega's tijdens teamactiviteiten, zoals vergaderingen of telefoongesprekken, om efficiënter te werken als een team. Pauzes <ins> op basis van stressmetingen </ins> wordt door de meesten positief ontvangen en de meesten zijn dan ook bereid om daarvoor externe apparatuur te dragen. 2 participanten waren hier minder fan van en stelde voor om het als een optie aan te bieden. 
 
-**Meldingen**: Indien technologisch mogelijk, zouden sommigen het wenselijk vinden om meldingen van je gsm te syncroniseren met het product en niet-essentiële meldingen weg te filteren.
+**Meldingen**: Indien technologisch mogelijk, zouden sommigen het wenselijk vinden om meldingen van je gsm te synchroniseren met het product en niet-essentiële meldingen weg te filteren.
 
 **Vormgeving**: Het product wordt meerdere malen geassociëerd met een eierklokje, alleen wordt het niet gewenst dat het voortdurend gaat tikken tijdens het aftellen. Het product was groot genoeg om op te vallen. Indien er symbolen of woorden gebruikt worden, zou de betekenis zeer duidelijk moeten zijn en liefst in het Nederlands.
 
-**Communicatie**: De participanten benadrukken de respect voor de rust van collega’s en bevestigen de bijdrage dat het product kan leveren op vlak van communicatie. Live-updates over stress worden minder op prijs gesteld, omdat deze mogelijk meer afleiden dan bijdragen.
+**Communicatie**: De participanten benadrukken het respect voor de rust van collega’s en bevestigen de bijdrage dat het product kan leveren op vlak van communicatie. Live-updates over stress worden minder op prijs gesteld, omdat deze mogelijk meer afleiden dan bijdragen.
 
-**Dagelijkse evaluatie**: De evaluatie van werkprestaties en stressniveaus wordt door de meeste deelnemers gewaardeerd. Dit helpt hen reflecteren op hun werkdag en geeft inzicht in hun productiviteit. Een enkeling uitte echter zorgen dat dit juist zal zorgen voor ontenvredenheid.
+**Dagelijkse evaluatie**: De evaluatie van werkprestaties en stressniveaus wordt door de meeste deelnemers gewaardeerd. Dit helpt hen reflecteren op hun werkdag en geeft inzicht in hun productiviteit. Een enkeling uitte echter zorgen dat dit juist zal zorgen voor ontevredenheid.
 
-Vrijwel iedereen benadrukte het belang van **persoonlijke aanpassingsmogelijkheden**. Dat ging over voor werk- en pauzeduur, syncronisatie en filtering van meldingen, het meten van stress door externe apparatuur en de soorten analyses op het einde van de dag. Ook mocht alles niet te lang duren om in te stellen om het gebruiksgemak en de werkefficiëntie hoog te houden.
+Vrijwel iedereen benadrukte het belang van **persoonlijke aanpassingsmogelijkheden**. Dit ging over voor werk- en pauzeduur, synchronisatie en filtering van meldingen, het meten van stress door externe apparatuur en de soorten analyses op het einde van de dag. Ook mocht alles niet te lang duren om in te stellen om het gebruiksgemak en de werkefficiëntie hoog te houden.
 
 #### Conclusies & implicaties
 Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken rekening gehouden worden. Het product moet een ****intuïtieve instelling**** van werk- en pauzetijden bieden, met de mogelijkheid om pauzes uit te stellen of synchroon in te plannen met collega's. **Stressmetingen** kunnen als optionele functie worden geïntegreerd om melding te doen aan de gebruiker of pauzes te vervroegen. Indien mogelijk moeten storende **meldingen gefilterd** worden tijdens focusstand. Wat betreft de vormgeving moet het product **herkenbaar en opvallend** zijn, met duidelijke symbolen en tekst in het Nederlands. Een visuele indicator voor **focusstatus** moet aanwezig zijn, liefst een **kleurlicht**. Ten slotte moeten gebruikers instellingen kunnen **personaliseren**, want iedereen werkt op een andere manier.
@@ -152,8 +152,8 @@ Het product zal in staat moeten zijn om duidelijk te communiceren. Bij het gebru
 #### Materiaal & methoden
 Er wordt geopteerd om de testen uit te voeren in de juiste context, dus worden deze uitgevoerd bij 5 participanten in een vooraf gecontacteerd kantoor. Een gedetailleerd stappenplan voor de twee uit te voeren testen is te vinden in het protocol van Wave 2 (bijlagen). 
 Volgende zaken zijn nodig:
-- een laptop met een typtest
-- een prototype dat kan lichtgeven, geluid maken en trillen
+- een laptop met een typetest
+- een prototype dat licht kan geven, geluid kan maken en kan trillen
 - een smartwatch dat kan trillen
 - een laptop om te noteren/context te simuleren
 - gsm om interactie te capteren (filmen)
@@ -201,13 +201,13 @@ Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor 
 |**Wat zou de reden zijn dat jouw collega deze kleur zou gebruiken?** | - bereikbaar <br>- rustige taak<br>- mails checken  | - taken waarbij je liever niet gestoord wordt, maar het is geen groot probleem | - niet storen <br>- stressvolle taak<br>- druk bezig | <br>- zeer gefocust werk <br> - niet storen anders ben ik de kluts kwijt | - pauze <br> - rustige taak | - geen opdracht <br> - misschien pauze |
 |**Wat denk je dat hij/zij op dat moment aan het doen is?** | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven | zie hierboven |
 
-**Rood en groen** brengen een éénduidige emotie op bij alle participanten. Dit zorgt ervoor dat deze makkelijk geïntegreerd kunnen worden in het concept zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftwel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in het product, zonder dat hierover verwarring ontstaat.
-<br>**Blauw, wit en andere meer extrensieke kleuren**: Deze brengen verwarring en geven ze bij iedereen een ander gevoel. Dit kan misschien voor een specifieke functie/interactie gebruikt worden.
+**Rood en groen** brengen een eenduidige emotie op bij alle participanten. Dit zorgt ervoor dat deze makkelijk geïntegreerd kunnen worden in het concept zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftewel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in het product, zonder dat hierover verwarring ontstaat.
+<br>**Blauw, wit en andere meer extrinsieke kleuren**: Deze brengen verwarring en geven ze bij iedereen een ander gevoel. Dit kan misschien voor een specifieke functie/interactie gebruikt worden.
 <br>**Oranje en geel**: Deze staan tussen rood en groen, maar geven ook geen eenduidig gevoel bij de participanten, waardoor ze moeilijker intuïtief te gebruiken zijn.
 #### Conclusies & implicaties
 Het <ins> communiceren van product naar werknemer </ins> moet eenduidig zijn en genoeg aandacht trekken naar de gebruiker toe. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. 
 
-Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan zijfuncties van het product.
+Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht naar kleuren die bij de meeste participanten hetzelfde gevoel oproepen of kleuren waar nog een inbreng aan kan worden gegeven. In het algemeen volstaat **groen en rood** om duidelijk aan te geven of je beschikbaar bent of niet. Te veel onderverdelingen van deze kleuren zoals geel of oranje zijn minder gewenst. Kleuren zoals blauw en wit staan open voor interpretatie en kunnen eventueel nog een betekenis geven aan secundaire functies van het product.
 
 
 > [!IMPORTANT]
@@ -227,10 +227,10 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 ## Develop (N = 17)
 ### Develop 1 (N = 4)
 #### Doelstellingen
-Om de volgende stappen in het proces makkelijker te maken het product meer de definiëren is nood aan een interace. Deze zal het fysieke aspect van het product bepalen en de integratie van electronica meer geordend maken. In deze test zal gekeken worden waar de interacties zich bevinden op de centrale interface samen met de indeling van de website die bij het product hoort. 
+Om de volgende stappen in het proces makkelijker te maken en het product meer te definiëren is nood aan een interface. Deze zal het fysieke aspect van het product bepalen en de integratie van elektronica meer geordend maken. In deze test zal gekeken worden waar de interacties zich bevinden op de centrale interface samen met de indeling van de website die bij het product hoort. 
 
 #### Materiaal & methoden
-Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think aloud' interview om de indeling van de interface te bepalen en een interactief website-prototype op figma om deze layout te onderzoeken en te beoordelen. Om de 4 participanten zoveel mogelijk vrijheid te geven en de indeling van de interface worden geen voorgemaakte interfaces aangeboden maar lege foam-modellen waarop ze zelf de knoppen kunnen ordenen. De gebruikte zaken zijn:
+Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think aloud' interview om de indeling van de interface te bepalen en een interactief website-prototype op Figma om deze lay-out te onderzoeken en te beoordelen. Om de 4 participanten zoveel mogelijk vrijheid te geven en de indeling van de interface worden geen vooraf gemaakte interfaces aangeboden maar lege schuimmodellen waarop ze zelf de knoppen kunnen ordenen. De gebruikte zaken zijn:
 - Simpele schuimvormen (balk en cilinder)
 - Interacties in de vorm van knoppen per functie (tijd instellen, start/pauze, aan/uit, groen/rood)
 - Smartphone om conversaties op te nemen
@@ -240,20 +240,20 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 
 ![knoppen develop 1](img/knoppen_deelopdracht_3.png)
 
-De voorgemaakte layout's voor de website zien er uit als volgt:
+De vooraf gemaakte lay-out's voor de website zien er uit als volgt:
 ![websites develop 1](img/websites_deelopdracht_3.png)
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
-Naast de layout van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
+Naast de lay-out van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
 <img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="700">
 <br>
-Om de beste layout er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en dezeze achteraf te analyseren.
+Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en deze achteraf te analyseren.
 
 #### Resultaten
 ##### <ins> Centrale interface </ins>
 - **Vorm:** Cilinder heeft meest vriendelijke en organische uitstraling en het minst robuust.
 - **Knop tijd instellen:** Draaiknop heeft de voorkeur doordat het mooi in de centrale vorm geïntegreerd kan worden en zeer intuïtief werkt.
-- **Knop aan/uit:** Drukknop wint omdat zijn kleine omvang het minst opvalt. Er moet wel duidelijke feedback zijn in welke staat het zich bevindt. Het mag zich op een minder toegankelijke plek bevinden, aangezien het niet vaak gebruikt zal worden.
-- **Knop starten/stoppen:** Enkele drukknop die zich vanboven op toestel bevindt is het best voor gemakkelijke en snelle toegankelijkheid. Het indrukken van deze knop geeft een duidelijk gevoel van de start van een werkperiode. Duidelijkheid over huidige staat van knop is zeer belangrijk, dus daar moet rekening mee gehouden worden.
+- **Knop aan/uit:** De drukknop krijgt de voorkeur, omdat zijn kleine omvang het minst opvalt. Er moet wel duidelijke feedback zijn in welke staat het zich bevindt. Het mag zich op een minder toegankelijke plek bevinden, aangezien het niet vaak gebruikt zal worden.
+- **Knop starten/stoppen:** Een enkele drukknop die zich vanboven op toestel bevindt, is het best voor gemakkelijke en snelle toegankelijkheid. Het indrukken van deze knop geeft een duidelijk gevoel van de start van een werkperiode. Duidelijkheid over huidige staat van knop is zeer belangrijk, dus daar moet rekening mee gehouden worden.
 - **Knop groen/rood:** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
 
 Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
@@ -319,7 +319,7 @@ Het gebruikte materiaal voor deze test:
 - Foto’s van bureaus in verschillende opstellingen
 - Arduino circuit met LCD RGB backlight scherm, 2 potentiometers en een schakelaar. De eerste potentiometer bestuurt de lichtsterkte van het scherm en de tweede potentiometer de
 knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
-De bijhorende code van deze arduino-opstelling kan men hier vinden: ![arduino code develop 2](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
+De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino code develop 2](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
 
 <img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%"> <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
 
@@ -330,7 +330,7 @@ De bijhorende code van deze arduino-opstelling kan men hier vinden: ![arduino co
 ##### <ins> lamp- en interface positionering </ins>
 
 ![resultaten_bureauopstellingen](img/totale_bureauopstellingen.png)
-Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaatst moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
+Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 
 ##### <ins> Triggers en de stored value van het product </ins>
@@ -338,23 +338,23 @@ Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaatst moe
 Bij het overlopen van de triggers van het Hooked model waren er geen opvallende ondervindingen. De meeste gingen voor het werken een koffie of een thee halen, maar buiten dit waren er niet veel zaken waarop het product kan inspelen.
 > "Koffie halen, en dan begin ik eraan."
 
-Opvallend was het feit dat ieder van de participanten aanhaf hun gsm aan de kant te leggen voor ze begonnen met werken. Wanneer werd voorgesteld om misschien de gsm te integreren in het product of de werking van het product afhankelijjk te maken van het gesm-gebruik, was er weining inthousiasme door volgende zaken:
-- De gsm is nodig voor het werk: bellen, WhatsAppen, ...
+Opvallend was het feit dat ieder van de participanten aangaf hun gsm aan de kant te leggen voor ze begonnen met werken. Wanneer werd voorgesteld om misschien de gsm te integreren in het product of de werking van het product afhankelijk te maken van het gsm-gebruik, was er weinig enthousiasme door volgende zaken:
+- De gsm is nodig voor het werk: bellen, Whatsappen, ...
 - Sommigen halen hun gsm niet boven
 - Wat als je je gsm vergeet?
 - Vaak is er authentificatie met de gsm verreist en heb je deze dus ook meerdere malen nodig.
-Het is dus duidelijk dat men de gsm vaak nodig heeft tijdens het werk en dit concept van entegratie niet zo interessant zou zijn. Het product kan echter wel een niet essentiële functie hebben met betrekking tot de gsm.
+Het is dus duidelijk dat men de gsm vaak nodig heeft tijdens het werk en dit concept van integratie niet zo interessant zou zijn. Het product kan echter wel een niet essentiële functie hebben met betrekking tot de gsm.
 
 Over het algemeen heeft men het gevoel dat er genoeg stored value zit in het product om het te blijven gebruiken. Bij het vragen naar extra stored value zoals puntensystemen werden volgende zaken aangehaald:
-- Je kan moeilijk onderlinge taken vergelijken. Als de takenpaketten anders zijn, hoe kan je dan een competitieve meting doen?
+- Je kan moeilijk onderlinge taken vergelijken. Als de takenpakketten anders zijn, hoe kan je dan een competitieve meting doen?
 - Er zijn al veel likes of andere uitingen van appreciatie op sociale media. Om dit nog eens toe te voegen in een kantooromgeving lijkt niet nodig.
 - Het zou handig zijn om te zien hoeveel men het product gebruikt en op die manier ook anderen te motiveren om het te gebruiken
 - 
 ##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
 
-Eerst werd gekeken wat men dacht over de weglating van de communicatie via de armband en de voorlopige weglating van de stressmeting tijdens dit project. De communicatie van product naar gebruiker zal, gebaseerd op een vorige test, gebeuren aan de hand van flikkerend licht en constant licht via de centrale hub. Iedereen ging akkoord met deze keuze en volgde de gedachtengang.
+Eerst werd gekeken wat men dacht over de weglating van de communicatie via de armband en de voorlopige weglating van de stressmeting tijdens dit project. De communicatie van product naar gebruiker zal, gebaseerd op een vorige test, gebeuren aan de hand van flikkerend licht en constant licht via de centrale hub. Iedereen ging akkoord met deze keuze en volgde de gedachtegang.
 
-Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om aan te geven welke lichtinstensiteit ze aangenaam vonden tijdens het werken, welke ze wouden wanneer het product wou communiceren en welke snelheid het licht moest flikkeren als het product wou communiceren. De resultaten staan in onderstaande tabel.
+Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om aan te geven welke lichtintensiteit ze aangenaam vonden tijdens het werken, welke ze wouden wanneer het product wou communiceren en welke snelheid het licht moest flikkeren als het product wou communiceren. De resultaten staan in onderstaande tabel.
 
 | participant | lichtintensiteit constant | lichtintensiteit flikkeren | flikkersnelheid (ms) |
 |------|---|---|---|
@@ -373,7 +373,7 @@ Bij het testen met de arduino-opstelling werd aan de participanten gevraagd om a
 ##### <ins> Triggers en de stored value van het product </ins>
 - De meeste gebruikers starten hun werkdag met eenvoudige routines zoals laptop, toetsenbord en muis koppelen aan scherm en iets halen om te drinken.
 - Iedereen is tevreden met de huidige voordelen die het product biedt, maar sommigen merken op dat dit ook afhangt van de mate waarmee rekening wordt gehouden met het product.
-- Onderlinge competitie lijkt een moeilijk concept aangezien het niet duidelijk is wat er precies gemeten en vergeleken zou moeten worden en omdat iedere persoon een ander takenpakket heeft. Eén iemand geeft wel aan dat een speels/luchtig element het gebruik van het product kan stimuleren.
+- Onderlinge competitie lijkt een moeilijk concept, aangezien het niet duidelijk is wat er precies gemeten en vergeleken zou moeten worden en omdat iedere persoon een ander takenpakket heeft. Eén iemand geeft wel aan dat een speels/luchtig element het gebruik van het product kan stimuleren.
 - Op persoonlijk vlak kan het wel interessant zijn om eigen verbetering te zien.
 - Gebruiksgemak en een vlotte routine zijn belangrijk; te veel interactie of afhankelijkheid van de gsm wordt als hinderlijk ervaren.
 
@@ -411,7 +411,7 @@ Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet
 - Hoe wordt de mogelijkheid van draadloos opladen van je gsm ervaren met daarbij de functie om meldingen vanzelf uit te schakelen?
 
 #### Materiaal & methoden
-Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de design requirements. Hieronder ziet men een overzicht van de schetsen.
+Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen.
 
 <img src="/img/schetsen_deelopdracht_5.png" width="70%">
 
@@ -419,7 +419,7 @@ Na eliminatie en keuzes aan de hand van design requirements werd volgend concept
 
 <img src="/img/conceptschets_deelopdracht_5.jpg" width="40%">
 
-Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de webiste van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
+Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de website van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
 
 <img src="/img/ergonomieschetsen_deelopdracht_5.png" width="40%">
 
@@ -428,12 +428,12 @@ Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en 
 
 <img src="/img/functioneel_schema_scherm,lamp.png" width="40%">
 
-Om de werking hiervan te simuleren werd volgende arduinocircuit gebouwd en geïntegreerd in het prototype:
+Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype:
 
 <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
 
 Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
-Uit de conceptschetsen en het arduino-schema kwam volgend prototype, gemaakt met behulp van lasercutten en 3D printen:
+Uit de conceptschetsen en het arduino-schema kwam volgend prototype, gemaakt met behulp van lasercutten en 3D-printen:
 
 <img src="/img/prototype_develop3.1.jpeg" width="40%">
 
@@ -443,8 +443,8 @@ De test zelf bestaat uit een concept test, gecombineerd met bijhorende vragen. E
 ##### <ins> eerste confrontatie + vrije interactie </ins>
 Bij het confronteren van de doelgroep met het product, na een korte introductie, lukt het iedere participant, zonder uitzondering, om alle delen van het product aan de juiste functie te koppelen. De enige fout die er werd gemaakt was het feit of op het scherm je focusstatus zou uitgetypt worden of niet.
 
-De vorm van de hub lijkt niet storend te zijn maar heeft nog ruimte voor verbetering. Zo halen sommigen aan dat de ronde, ergonomische knop niet samenhoort bij de strakke voorkant waar het scherm zit. De mogelijke vormgevingen werden echter beperkt tijdens het prototypen door de bischikbare componenten. Zo kon het product niet kleiner worden geprototyped dan de houdige opstelling. In de toekomst is er dus nog ruimte om betere, kleinere componenten te gebruiken om tijdens het ontwerpen van de hub nog meer vormvrijheid te hebben.
-Buiten deze kritiek zagen de participanten het product voor zich op de bureau en zag het er simpel uit. 
+De vorm van de hub lijkt niet storend te zijn, maar heeft nog ruimte voor verbetering. Zo halen sommigen aan dat de ronde, ergonomische knop niet samen hoort bij de strakke voorkant waar het scherm zit. De mogelijke vormgevingen werden echter beperkt tijdens het prototypen door de beschikbare componenten. Zo kon het product niet kleiner worden geprototyped dan de huidige opstelling. In de toekomst is er dus nog ruimte om betere, kleinere componenten te gebruiken om tijdens het ontwerpen van de hub nog meer vormvrijheid te hebben.
+Buiten deze kritiek zagen de participanten het product voor zich op hun bureau en zag het er simpel uit. 
 
 > "Het lijkt een beetje op een apothekerweegschaal"
 
@@ -454,7 +454,7 @@ Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen 
 **Plaatsen**
 (centrale hub met lamp worden aan de gebruiker gegeven; de lamphouder wordt geplaatst op een plek, aangegeven door de participant)
 1.	Waar zou jij de lamp plaatsen? <br>
-   De meesten plaatsten deze op een hogere positie, zoals een akoestisch paneel of een muur, een minderheid plaatste hem op de hoek van de bureau
+   De meesten plaatsten deze op een hogere positie, zoals een akoestisch paneel of een muur, een minderheid plaatste hem op de hoek van hun bureau
 2.	Verplaats de centrale hub met de lamp naar uw bureau <br>
    Hier werden geen problemen ondervonden
 3.	Geef de centrale hub een bereikbare plaats op uw bureau <br>

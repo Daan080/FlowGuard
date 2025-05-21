@@ -463,7 +463,7 @@ Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen 
    Geen problemen ondervonden <br> <br>
 **Instellen**
 (product wordt met stroom geconnecteerd)
-6.	Stel een werktijd van 01:15:00 in <br>
+5.	Stel een werktijd van 01:15:00 in <br>
    Hier werden sommigen verrast door de gevoeligheid van de knop en hoe deze plots grotere stappen zette. Na 1 maal dit te hebben gedaan, was dit geen probleem meer.
   	Een participant stelt per ongeluk 1 minuut en 30 seconden in en start de timer. Toch beseft ze dit zelf en kan met gemak de juiste tijd instellen. Voor het grootste deel ging dit zeer vlot.
    > "Amai, dat gaat vlot!"
@@ -478,9 +478,9 @@ Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen 
 9.	Leg uw gsm op de centrale hub om hem op te laden <br>
     Geen probleem
 10.	Verlaag de timer naar 1 minuut en toon aan je collega’s dat je gestoord mag worden opbergen (product wordt uitgeschakeld) <br>
-    Niemand maakt nog fouten na stap 8. Dit toont dat de fouten die bij vraag 8 werden gemaakt geen invloed hebben op de werking van het product of de intuïtiviteit.
+    Niemand maakt nog fouten na stap 8. Dit toont dat de fouten die bij vraag 8 werden gemaakt geen invloed hebben op de werking van het product of hoe inuïtief deze werking gaat.
 11.	Neem de lamp en de centrale hub en berg het op <br>
-    De lamp wordt door iedereen intuîtief op de lamp geplaatst, hoewel sommigen niet beseffen dat dit voor het opladen is. Er wordt aangehaald dat de magneet in de hub minder sterk is dan in de lamphouder.
+    De lamp wordt door iedereen intuïtief op de lamp geplaatst, hoewel sommigen niet beseffen dat dit voor het opladen is. Er wordt aangehaald dat de magneet in de hub minder sterk is dan in de lamphouder.
 
 Er wordt bij de laatste stap opgemerkt dat de lamp geen uit-knop heeft. Hoewel dit een terechte opmerking is, is hier wel een oplossing voor, maar kon deze niet in het product worden geïntegreerd.
 Opdracht 10 is zo opgesteld, dat de timer tijdens opdracht 11 zal afgaan en dit ook zal signaleren naar de gebruiker.
@@ -489,15 +489,15 @@ Iedere participant, zonder uitzondering, werd meteen afgeleid en zag het signaal
 ##### <ins> bespreking voorgaande testen en onduidelijkheden </ins>
 - De plaatsing van de lamp werd door alle participanten ervaren als gemakkelijk, de magneten helpen hierbij, en stevig, met ruime plaatsmogelijkheden. Er waren enkele bezorgdheden of de lamphouder wel geplaatst kon worden op akoestische panelen en hoe stevig dit zou zijn en of het op iedere achterkant van een scherm kon hangen (niet altijd recht).
 > “Stevig, duidelijk, je kan niet missen”
-- Alle participanten vonden het gebruik zeer simpel en intuïtief, de constraint dat je eerst op pauze moet drukken voor je de timer kan herinstellen vond iedereen goed. Iedere fout dat werd gemaakt gingen de participanten maar 1 keer maken.
-Verder werd het ontbreken van een aan/uit-knop aangehaald, de associatie met een microgolftimer en dat de hub staat niet super vast op de bureau.
+- Alle participanten vonden het gebruik zeer simpel en intuïtief, de constraint dat je eerst op pauze moet drukken voor je de timer kan herinstellen vond iedereen goed. Iedere fout dat werd gemaakt gingen de participanten slechts 1 keer maken.
+Verder werd het ontbreken van een aan/uit-knop aangehaald, de associatie met een microgolftimer en dat de hub staat niet supervast op de bureau.
 - De 3 verschillende lichtsterktes van het scherm, afhankelijk van de tijd en status van de timer, werd niet door iedereen opgemerkt, wat positief is aangezien dit niet mag storen, behalve als timer afgaat. Nadat de onderzoekers dit nog eens toonden en de functie ervan aangaven, bevestigden alle participanten dat dit goed en nodig is. De meeste participanten halen aan dat het flikkersignaal, aangevend dat de timer afgelopen is, goed afleidt, maar snel afgezet moet kunnen worden.
 > "Het is goed dat je niet je aandacht erop vestigt tijdens het werken."
 - Het instellen van de timer, met name de variabele stapgroottes, vond niet iedereen even intuïtief. Zo werd meerdere malen aangehaald dat de stapgroottes in het begin te klein zijn in vergelijking met de stapgroottes op het einde en dat men daarom snel draait in het begin, niet direct stopt en plots meerdere uren op de timer heeft ingesteld. Als inbreng wordt meerdere malen een constante stapgrootte van 5 minuten voorgesteld. Dit sluit ook aan bij de pomodoromethode.
-Anderzijds wordt ook aanghaald dat het een kwestie is van gewoon worden en wordt wederom de associatie gelegd met een microgolfoven.
-- Bij het vragen naar de maximale tijd dat de gebruiker op focusmodus kan staan, om te vermijden dat de gebruiker zich hele dag afsluit van zijn omgeving, werd door alle gebruikers bevestigd dat er een limiet op moest staan. Echter gaven sommigen aan dat ze vertrouwen hadden in het feit dat iedereen dit voor zichzelf moest bepalen en moest naleven, sommmigen zeiden max. een half uur en sommigen max. een uur. Een interessante ingeving was om te kijken wat de wetenschap hierover zegt: hoelang kan een persoon zich aan een stuk concentreren.
+Anderzijds wordt ook aangehaald dat het een kwestie is van gewoon worden en wordt wederom de associatie gelegd met een microgolfoven.
+- Bij het vragen naar de maximale tijd dat de gebruiker op focusmodus kan staan, om te vermijden dat de gebruiker zich hele dag afsluit van zijn omgeving, werd door alle gebruikers bevestigd dat er een limiet op moest staan. Echter gaven sommigen aan dat ze vertrouwen hadden in het feit dat iedereen dit voor zichzelf moest bepalen en moest naleven, sommigen zeiden max. een half uur en sommigen max. een uur. Een interessante ingeving was om te kijken wat de wetenschap hierover zegt: hoelang kan een persoon zich aan een stuk concentreren.
 - De mogelijkheid om de lamp en gsm draadloos op te laden, en afhankelijk van je werkstatus bepaalde meldingen af te zetten, wordt door iedereen geapprecieerd. Dit zou helpen met focussen, maar ook met het wegleggen van de gsm, interactie met het product, besparen van stopcontacten en opladen van de lamp.
-Dit is tevens de uitknop van het product: Als de lamp op het product wordt gelegd, schakelt de hub uit. Op die manier vergeet men niet de lamp op te laden in de avond en moet geen aan/uit-knop in het interface toegevoegd te worden, wat zorgt voor minder mogelijke gebruiksfouten.
+Dit is tevens de uitknop van het product: Als de lamp op het product wordt gelegd, schakelt de hub uit. Op die manier vergeet men niet de lamp op te laden in de avond en moet geen aan/uit-knop in de interface toegevoegd te worden, wat zorgt voor minder mogelijke gebruiksfouten.
 
 #### Conclusies & implicaties
 ##### <ins> eerste confrontatie + vrije interactie </ins>
@@ -518,19 +518,20 @@ Dit is tevens de uitknop van het product: Als de lamp op het product wordt geleg
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D1.5 De focusmodus kan maximum een uur worden gebruikt, daarna moet deze status opnieuw worden bevestigd
+> - D1.5 De focusmodus kan maximaal een uur worden gebruikt, daarna moet deze status opnieuw worden bevestigd
 > - D2.14 Het flikkeren van het scherm bij afloop van de timer kan met 1 beweging worden afgezet.
 > - D4.14 Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken
 > - D4.15 De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten
 > - D4.16 Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden
 
 
-### Develop 3: WAVE 2 (N = 8)
+### Develop 3: WAVE 2 (N = 1)
 #### Doelstellingen
-Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd zowel functioneel als esthetisch geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe onduidelijkheden/problemen naar boven zullen komen om verder onderzoek mogelijk te maken. De doelstelling voor deze test is dus om de doelgroep te laten interageren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken: 
+Als laatste stap wordt het product meegegeven met een participant. Dankzij deze aanpak van testen, kunnen ook problemen die zich voordoen bij langer gebruik naar boven komen.
+De doelstelling voor deze test is dus kijken hoe vlot het product te gebruiken is op langere termijn, maar ook nog eens bekijken op kortere termijn.
 
 #### Materiaal & methoden
-De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
+De test bestaat uit een Diary Study van een testpersoon over een tijdspanne van 3 dagen. Een link naar het protocol kan men vinden in de bijlagen.
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>
 #### Conclusies & implicaties
@@ -550,7 +551,7 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 | 1.1 | Er moeten pauzes aangeraden worden | user interviews | 17/10/2024 |
 | 1.3 | Onnodige meldingen op de gsm moeten weggefilterd worden | user interviews | 27/10/2024 |
 | 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden | user interviews | 27/10/2024 |
-| 1.5 | De focusmodus kan maximum een uur worden gebruikt, daarna moet deze status opnieuw worden ingesteld | Develop 3 wave 1 | 17/05/2025 |
+| 1.5 | De focusmodus kan maximaal een uur worden gebruikt, daarna moet deze status opnieuw worden ingesteld | Develop 3 wave 1 | 17/05/2025 |
 |*Groep 2* | *Communicatie* |  |  |
 | 2.1 | Werkstatus moet onderling gedeeld kunnen worden | Definition (wave 1) | 01/12/2024 |
 | 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden | user interviews | 27/10/2024 |
@@ -559,7 +560,7 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 | 2.6 | De focusstand van de gebruiker wordt gecommuniceerd met een visuele indicator, namelijk kleur | Definition (wave 1) | 01/12/2024 |
 | 2.7 | Communicatie van product naar gebruiker mag de omgeving niet storen | Definition (wave 2) | 16/12/2024 |
 | 2.9 | Om de focusstand te communiceren worden de kleuren groen en rood gebruikt | Definition (wave 2) | 16/12/2024 |
-| 2.10 | Als de gebruiker niet aan de bureau zit gaat het licht uit  | Development 1 | 01/03/2025 |
+| 2.10 | Als de gebruiker niet aan de bureau zit, gaat het licht uit  | Development 1 | 01/03/2025 |
 | 2.11 | Communiceren van product naar gebruiker gebeurt met een ledscherm | Development 2 | 17/04/2025 |
 | 2.12 | De gebruiker kan steeds de eigen timer bekijken | Development 2 | 17/04/2025 |
 | 2.13 | Bij het aanraden van een pauze flikkert het scherm met een frequentie van 530 ms en helderheid 140 | Development 2 | 17/04/2025 |
@@ -574,7 +575,7 @@ De test zelf bestaat uit een usability test, gecombineerd met bijhorende vragen.
 | 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
 | 4.6 | De hub is in te stellen met 1 hand | Development 1 | 01/03/2024 |
 | 4.7 | De knoppen of instellingen geven geen twijfel over hun status | Development 1 | 01/03/2024 |
-| 4.8 | De ondersteunende webiste heeft bij het eerste gebruik een tutorial | Development 1 | 01/03/2025 |
+| 4.8 | De ondersteunende website heeft bij het eerste gebruik een tutorial | Development 1 | 01/03/2025 |
 | 4.9 | De stressmeting is een optie dat het eerste product niet zal bevatten | Development 2 | 17/04/2025 |
 | 4.10 | De lamp moet zowel op een verticale als een horizontale vlakte bevestigd kunnen worden | Development 2 | 17/04/2025 |
 | 4.11 | De hub staat binnen handbereik van de gebruiker | Development 2 | 17/04/2025 |
@@ -619,22 +620,22 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 #### inovatrix
 [innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p)
 ### Definition
-#### wave 1
-- [Wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
-- [Wave 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EcPC2BOr4uxJpqWIRvKC0M4BQ8RbzJkPKD4grVZVPXoH9Q?e=gx1EWL)
-#### wave 2
-- [Wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
-- [Wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
+#### Define: wave 1
+- [Define wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
+- [Define wave 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EcPC2BOr4uxJpqWIRvKC0M4BQ8RbzJkPKD4grVZVPXoH9Q?e=gx1EWL)
+#### Define: wave 2
+- [Define wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
+- [Define wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
 ### Develop
 #### Develop 1
-- [Deelopdracht 3 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYFXz3Ox31dMjIWU9mxE6FgBZwoSi5SSflYKvu9Z5Soqaw?e=1DOxIu)
-- [Deelopdracht 3 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZbGh_ffTqxMmQQITb3nka4BTq4fyeaXO81AsjtJjxOQ7g?e=cvizVJ)
+- [Develop 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYFXz3Ox31dMjIWU9mxE6FgBZwoSi5SSflYKvu9Z5Soqaw?e=1DOxIu)
+- [Develop 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZbGh_ffTqxMmQQITb3nka4BTq4fyeaXO81AsjtJjxOQ7g?e=cvizVJ)
 #### Develop 2
-- [Deelopdracht 4 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/Edxho0fY2PdEhJ_yUMeHUHQBbnlqlTn4GQjHduEMnQ49pg?e=bFp2Vj)
-- [Deelopdracht 4 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EfEEvYOeP2pOnN-NwB6_ADwBuQ34xDCxqp6btwziamVzog?e=ClKyfk)
+- [Develop 2- protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/Edxho0fY2PdEhJ_yUMeHUHQBbnlqlTn4GQjHduEMnQ49pg?e=bFp2Vj)
+- [Develop 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EfEEvYOeP2pOnN-NwB6_ADwBuQ34xDCxqp6btwziamVzog?e=ClKyfk)
 #### Develop 3
 - [arduino](ARDUINO/Opkomende_technologieën/arduino.md)
-- [Deelopdracht 5 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EbUUeYOipqdAkmavct5EJ2EBiMyxrSWoRJ1nJvaUuVvDsw?e=Ng8p4M)
-- [Deelopdracht 5 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=3fsowl)
+- [Develop 3 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EbUUeYOipqdAkmavct5EJ2EBiMyxrSWoRJ1nJvaUuVvDsw?e=Ng8p4M)
+- [Develop 3 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=3fsowl)
 ### informed consents
 - [informed consents](informed_consents/informed_consents.docx)

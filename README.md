@@ -31,7 +31,7 @@ Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Ho
 ## Methodologie
 In dit project werd gebruik gemaakt van onderstaande ontwerpmethode, deze is gebaseerd op de "quadriple diamond".
 
-![methodologie](img/methodologie.jpeg)
+![methodologie](img/methodologie.jpg)
 
 Het eerste semester werden de Discover en Define fase doorlopen, oftewel de eerste "diamond". Er werd in discovery vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept kon worden gemaakt om het probleem en oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definition fase vooral gefocust op het concept valideren en kijken of alles van de discovery goed is geanalyseerd.
 

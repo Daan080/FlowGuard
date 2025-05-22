@@ -3,7 +3,7 @@
 
 *Projectteam: Daan Dobbelaere; Jasper Dekeyser*
 
-23/09/2024 - 08/01/2025
+*23/09/2024 - 23/05/2025*
 
 ## Samenvatting
 In de moderne kantooromgeving is er te veel stress en werkdruk, terwijl deze vaak te vermijden zijn. Onnodige stress en werkdruk kunnen leiden tot mentale en onrechtstreeks fysieke zorgen en in extreme gevallen tot burn-outs. 
@@ -16,7 +16,7 @@ De oplossing dat in dit dossier wordt voorgesteld is een product dat helpt om ee
 <br>
 <p align="center">
   <img src="/renders/render_9.png" width="50%">
-  <img src="Renders/render_5.png" width="40%">
+  <img src="Renders/render_5.png" width="50%">
 </p>
 
 

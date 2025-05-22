@@ -43,6 +43,8 @@ In dit project werd gebruik gemaakt van onderstaande ontwerpmethodologie, deze i
 Het eerste semester werden de Discovery- en Define-fase doorlopen, oftewel de eerste twee "diamonds". Er werd in de Discovery-fase vooral gefocust op het onderzoeken van je probleem, het afbakenen van de doelgroep en het bedenken van een eerste concept. In de Define-fase werd gefocust op het valideren van het concept en werd op die manier gekeken of alles van de Discovery-fase goed was geanalyseerd. In het tweede semester werd dan vooral gefocust op het concept vormgeven en verfijnen, zodat het proces eindigde met een concreet product. <br>
 <br>
 Zoals men kan zien werden in de eerste fases pas laat geconvergeerd om tot een concept te komen. Dit kwam door de deadlines, en de vele info die moest verzameld en geanalyseerd worden.
+<br>
+<br>
 
 ## Discovery (N = 15)
 
@@ -97,7 +99,8 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
   <img src="img/discovery.png" width="70%">
-
+<br>
+<br>
 
 ## Definition (N = 10)
 
@@ -110,7 +113,8 @@ Uit de discovery-fase kunnen de belangrijkste aspecten van de oplossing gebundel
 
 Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.
  
-  <img src="img/storyboard.png" width="70%">
+<img src="img/storyboard.png" width="70%">
+<br>
   
 ### <ins>Wave 1: conceptvalidatie</ins> (N=5)
 
@@ -128,8 +132,6 @@ Benodigdheden zijn:
   <img src="img/wave_1_prototype_1.jpg" width="35%">
   <img src="img/wave_1_prototype_2.jpg" width="43.7%">
 </p>
-
-
 
 #### Resultaten
 **Stress**: Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden.
@@ -154,7 +156,7 @@ Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 #### MoSCow review
 
 <img src="/img/moscow_review.png" width="50%">
-
+<br>
 
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
 
@@ -233,9 +235,11 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 > - D4.3 Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast
 > - D4.4 Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen
 > - D4.5 Tekst op het product dient in het Nederlands te zijn
-
+<br>
+<br>
 
 ## Develop (N = 17)
+<br>
 
 ### Develop 1 (N = 4)
 
@@ -274,7 +278,7 @@ Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websi
 
 Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
 
-<img src="img/interfaces_deelopdracht_3.png" width="50%">
+<img src="img/interfaces_deelopdracht_3.png" width="70%">
 
 ##### <ins> Website interface </ins>
 <ins> Lay-out </ins>
@@ -321,7 +325,7 @@ Tabblad Werkomgeving:
 > - D4.6 Het product is in te stellen met 1 hand 
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
-
+<br>
 
 ### Develop 2 (N = 4)
 
@@ -422,6 +426,7 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 > - D2.12 De gebruiker kan steeds de eigen timer bekijken
 > - D4.13 Tijdens het werken staat het scherm op helderheid 25
 > - D2.13 Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140
+<br>
 
 ### Develop 3 WAVE 1 (N = 8)
 
@@ -546,7 +551,7 @@ Dit is tevens de uitknop van het product: Als de lamp op het product wordt geleg
 > - D4.14 Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken
 > - D4.15 De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten
 > - D4.16 Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden
-
+<br>
 
 ### Develop 3: WAVE 2 (N = 1)
 #### Doelstellingen
@@ -576,6 +581,8 @@ De benodigdheden voor deze zijn:
 > Design Requirements:
 > - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
 > - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
+<br>
+<br>
 
 ## Overzicht Requirements
 |ID| Design Requirement | Bron | Datum |

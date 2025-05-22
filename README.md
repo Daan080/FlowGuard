@@ -256,7 +256,7 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 De vooraf gemaakte lay-out's voor de website en het tablad specifiek voor de functie in verband met synchroniseren van pauzes worden getest met volgende simulaties:
 <p align="center">
   <img src="img/websites_deelopdracht_3.png" width="60%">
-  <img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="50">
+  <img src="img/tablad_werkomgeving_deelopdracht_3.png" width="50">
 </p>
 
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)

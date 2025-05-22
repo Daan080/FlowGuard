@@ -274,7 +274,7 @@ Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websi
 
 Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
 
-<img src="img/interfaces_deelopdracht_3.png" width="50%">
+<img src="img/interfaces_deelopdracht_3.png" width="70%">
 
 ##### <ins> Website interface </ins>
 <ins> Lay-out </ins>

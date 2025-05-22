@@ -97,8 +97,10 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
   <img src="img/discovery.png" width="70%">
-
-
+<br>
+<br>
+<br>
+<br>
 ## Definition (N = 10)
 
 Na de goedkeuring van dit concept werd gefocust op definiëren van het concept en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit werd gedaan aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit de doelgroep. 
@@ -129,8 +131,6 @@ Benodigdheden zijn:
   <img src="img/wave_1_prototype_2.jpg" width="43.7%">
 </p>
 
-
-
 #### Resultaten
 **Stress**: Stress wordt door iedereen ervaren als een onvermijdelijk deel van het werk, waarbij een duidelijke scheiding tussen werk en privé essentieel is om een gezonde balans te behouden.
 
@@ -154,8 +154,9 @@ Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 #### MoSCow review
 
 <img src="/img/moscow_review.png" width="50%">
-
-
+<br>
+<br>
+<br>
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
 
 #### Doelstellingen
@@ -233,8 +234,10 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 > - D4.3 Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast
 > - D4.4 Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen
 > - D4.5 Tekst op het product dient in het Nederlands te zijn
-
-
+<br>
+<br>
+<br>
+<br>
 ## Develop (N = 17)
 
 ### Develop 1 (N = 4)
@@ -321,8 +324,10 @@ Tabblad Werkomgeving:
 > - D4.6 Het product is in te stellen met 1 hand 
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
-
-
+<br>
+<br>
+<br>
+<br>
 ### Develop 2 (N = 4)
 
 #### Doelstellingen
@@ -422,7 +427,10 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 > - D2.12 De gebruiker kan steeds de eigen timer bekijken
 > - D4.13 Tijdens het werken staat het scherm op helderheid 25
 > - D2.13 Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140
-
+<br>
+<br>
+<br>
+<br>
 ### Develop 3 WAVE 1 (N = 8)
 
 #### Doelstellingen

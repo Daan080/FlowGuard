@@ -442,7 +442,7 @@ Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet
 #### Materiaal & methoden
 Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen. Na eliminatie en keuzes aan de hand van design requirements werd het rechter concept gekozen.
 <p align="center">
-  <img src="/img/schetsen_deelopdracht_5.png" width="70%">
+  <img src="/img/schetsen_deelopdracht_5.png" width="50%">
   <img src="/img/conceptschets_deelopdracht_5.jpg" width="30%">
 </p>
 

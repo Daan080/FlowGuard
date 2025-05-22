@@ -100,7 +100,7 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
 <br>
 <br>
 <br>
-<br>
+
 ## Definition (N = 10)
 
 Na de goedkeuring van dit concept werd gefocust op definiëren van het concept en een beter beeld te krijgen van de uiteindelijke vereisten van het product. Dit werd gedaan aan de hand van twee testing waves uitgevoerd door telkens vijf testpersonen uit de doelgroep. 

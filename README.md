@@ -96,7 +96,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
-  <img src="img/discovery.png" width="65%">
+  <img src="img/discovery.png" width="70%">
 
 
 ## Definition (N = 10)

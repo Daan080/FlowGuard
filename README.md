@@ -15,8 +15,8 @@ In het zoeken naar een oplossing werden naast de literatuuronderzoeken en interv
 De oplossing dat in dit dossier wordt voorgesteld is een product dat helpt om een gezonde balans te onderhouden tussen werken en pauzes, zonder daling in werkefficiëntie of werkeffectievieteit. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s. Het product geeft een gevoel van voldoening die men zoekt in idere werkdag.
 <br>
 <p align="center">
-  <img src="/renders/render_9.png" width="50%">
-  <img src="Renders/render_5.png" width="50%">
+  <img src="/renders/render_9.png" width="45%">
+  <img src="Renders/render_5.png" width="45%">
 </p>
 
 

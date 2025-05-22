@@ -125,7 +125,7 @@ Benodigdheden zijn:
 <br>**De prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
 
 <p align="center">
-  <img src="img/wave_1_prototype_1.jpg" width="40%">
+  <img src="img/wave_1_prototype_1.jpg" width="35%">
   <img src="img/wave_1_prototype_2.jpg" width="40%">
 </p>
 
@@ -251,14 +251,14 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 - Laptop om protocol voor te lezen en resultaten te noteren
 - Laptop om voorbeelden van de centrale interface te tonen en website te simuleren
 
-<img src="img/knoppen_deelopdracht_3.png" width="60%">
+<img src="img/knoppen_deelopdracht_3.png" width="65%">
 
 De vooraf gemaakte lay-out's voor de website zien er uit als volgt:
 <img src="img/websites_deelopdracht_3.png" width="65%">
 
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 Naast de lay-out van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
-<img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="70%">
+<img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="65%">
 <br>
 Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en deze achteraf te analyseren.
 
@@ -351,7 +351,7 @@ De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino co
 #### Resultaten
 
 ##### <ins> lamp- en interface positionering </ins>
-<img src="/img/totale_bureauopstellingen.png" width="60%">
+<img src="/img/totale_bureauopstellingen.png" width="70%">
 Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 
@@ -435,13 +435,11 @@ Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet
 - Hoe wordt de mogelijkheid van draadloos opladen van je gsm ervaren met daarbij de functie om meldingen vanzelf uit te schakelen?
 
 #### Materiaal & methoden
-Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen.
-
+Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen. Na eliminatie en keuzes aan de hand van design requirements werd het rechter concept gekozen.
+<p align="center">
 <img src="/img/schetsen_deelopdracht_5.png" width="70%">
-
-Na eliminatie en keuzes aan de hand van design requirements werd het volgende concept gekozen:
-
 <img src="/img/conceptschets_deelopdracht_5.jpg" width="40%">
+</p>
 
 Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de website van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
 
@@ -452,15 +450,13 @@ Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en 
 
 <img src="/img/functioneel_schema_scherm,lamp.png" width="40%">
 
-Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype:
-
+Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
+<p align="center">
 <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
-
-Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
-Uit de conceptschetsen en het arduino-schema kwam volgend prototype, gemaakt met behulp van lasercutten en 3D-printen:
-
 <img src="/img/prototype_develop3.1.jpeg" width="40%">
+</p>
 
+Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino) <br>
 De test zelf bestaat uit een producttest en -validatie, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 
 #### Resultaten

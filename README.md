@@ -630,10 +630,10 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 ### Discovery
 #### sota
 [Discovery probleem begrijpen](protocols/Discover_sota-FlowGuard.docx) 
-#### user interview:
+#### literature review:
  - [Discovery literature review protocol](protocols/user_interview_protocol.docx)
  - [Discovery literature review rapport](rapporten/user_interview_report.docx)
-#### literature review:
+#### user interview:
  - [Discovery user interviews protocol](protocols/literature_review_protocol.docx)
  - [Discovery user interviews rapport](rapporten/literature_review_report.docx)
 #### innovatrix

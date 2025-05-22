@@ -25,7 +25,7 @@ Eerder dit jaar werd gekozen tussen verschillende design-challenges en hieruit k
 Dit is een alledaags probleem en komt voor bij meerdere doelgroepen, denk bijvoorbeeld aan studenten. Om dit probleem te begrenzen en de oplossing zo gebruiksgericht te kunnen ontwerpen, is eerst gekozen voor de doelgroep kantoormedewerkers die dagelijks het merendeel van de dag aan een bureau werken. Als een oplossing wordt gevonden voor deze doelgroep, kan verder gekeken worden naar andere doelgroepen met een gelijkaardig probleem.
 
 
-**Bronnen:** <br>
+**Bron:** <br>
 Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar
 
 ## Methodologie

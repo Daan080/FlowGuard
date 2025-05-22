@@ -349,7 +349,7 @@ De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino co
   <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
 </p>
 <p align="center">
-<img src="/img/bureauopstellingen_deelopdracht_4.png" width="90%">
+<img src="/img/bureauopstellingen_deelopdracht_4.png" width="120%">
 </p>
 
 #### Resultaten

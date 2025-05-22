@@ -106,7 +106,7 @@ Na de goedkeuring van dit concept werd gefocust op definiëren van het concept e
 
 Uit de discovery-fase kunnen de belangrijkste aspecten van de oplossing gebundeld worden:
 1. Werkefficiëntie verhogen
-2. Onderlinge communicatie verbeteren
+2. Onderlinge communicatie verbeteren <br>
 (3. Pauze en voldoening)
 
 Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.

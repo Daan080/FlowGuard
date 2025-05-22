@@ -291,6 +291,7 @@ Ook moet duidelijker getoond worden dat dit een aflopende timer is dat overgaat 
 #### Conclusies & implicaties
 Centrale interface:
 Iedereen streeft naar een zo intuïtief mogelijk en esthetisch zo strak mogelijk ontwerp. Knoppen worden het liefst bijna blindelings en met één hand gebruikt. Indien mogelijk worden zo weinig mogelijk knoppen geprefereerd. Knoppen moeten tamelijk gegroepeerd zijn, zodat je er niet achter moet zoeken. Knoppen die vaker gebruikt worden, moeten groter zijn dan knoppen die minder vaak gebruikt worden. Ten slotte moeten knoppen duidelijke feedback geven en er mag geen twijfel zijn over de huidige staat van een product.
+De lamp moet apart van de centrale interface kunnen worden geplaatst. Dit zorgt voor een aanpassing van D4.4 (
 
 Tabblad Werkomgeving:
 - Er moet een duidelijk onderscheid zijn tussen de timer en de werkstatus.
@@ -301,7 +302,8 @@ Tabblad Werkomgeving:
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D2.10 Als de gebruiker niet aan de bureau zit gaat het licht uit 
+> - D2.10 Als de gebruiker niet aan de bureau zit gaat het licht uit
+> - D4.4 <ins>Het voorkomen van de lamp<ins> is opvallend en zichtbaar om aandacht op zich te kunnen brengen
 > - D4.6 Het product is in te stellen met 1 hand 
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
@@ -310,8 +312,8 @@ Tabblad Werkomgeving:
 ### Develop 2 (N = 4)
 
 #### Doelstellingen
-In deze test worden de laatste onduidelijkheden aangepakt voor een eerste volledig concept kan worden gemaakt. Volgende onduidelijkheden worden onderzocht:
--	Polsen bij gebruiker over plaats op het bureau
+Uit de vorige test blijkt dat een ecntrale hub op de bureau niet van overal te zien is. Daarom zal de lamp moeten gescheiden worden van de centrale hub. In deze test worden de laatste onduidelijkheden aangepakt voor een eerste volledig concept kan worden gemaakt. Volgende onduidelijkheden worden onderzocht:
+-	Polsen bij gebruiker over plaatsing van de hub en de lamp op het bureau
 -	Hook model overlopen met gebruiker
 -	Gebruik van armband om te communiceren wordt in twijfel getrokken, dus zoeken naar alternatief
 
@@ -384,6 +386,7 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 
 ##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
 - De testpersonen gaan akkoord met onze vaststellingen rond de armband en het nieuwe alternatief: het flikkerlicht.
+- Er is geen bezwaar tegen het weglaten van de stressmeting in dit project, vanwege de tijdsafbakening en de complexiteit.
 - In het algemeen moet de lichtintensiteit voor het signaal hoger zijn dan bij normaal gebruik en moet het licht snel genoeg flikkeren om op te vallen, maar niet te snel om te storen. De exacte waarden worden hier samengevat:
 
 | participant | lichtintensiteit constant | lichtintensiteit flikkeren | flikkersnelheid (ms) |
@@ -534,14 +537,24 @@ Dit is tevens de uitknop van het product: Als de lamp op het product wordt geleg
 ### Develop 3: WAVE 2 (N = 1)
 #### Doelstellingen
 Als laatste stap wordt het product meegegeven met een participant. Dankzij deze aanpak van testen, kunnen ook problemen die zich voordoen bij langer gebruik naar boven komen.
-De doelstelling voor deze test is dus kijken hoe vlot het product te gebruiken is op langere termijn, maar ook nog eens bekijken op kortere termijn.
+De doelstelling voor deze test zijn dus:
+- Hoe wordt het gebruik van het product op langere termijn ervaren?
+- Hoe wordt het gebruik van het product op korte termijn ervaren?
+- Houden collega’s rekening met het product?
 
 #### Materiaal & methoden
 De test bestaat uit een Diary Study van een testpersoon over een tijdspanne van 3 dagen. Een link naar het protocol kan men vinden in de bijlagen (Develop 3).
+De benodigdheden voor deze zijn:
+- prototype dat op zichzelf kan functioneren (zie wave 1 voor afbeelding)
+- laptop voor notities van participant
+- werkomgeving
+
 #### Resultaten
-##### <ins> lamp- en interface positionering </ins>
+##### Dag 1
+##### Dag 3
+
 #### Conclusies & implicaties
-##### <ins> lamp- en interface positionering </ins>
+
 
 
 
@@ -577,7 +590,7 @@ De test bestaat uit een Diary Study van een testpersoon over een tijdspanne van 
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit  | liturature review | 01/12/2024 |
 | 4.2 | Het product is snel en intuïtief in te stellen | Definition (wave 1) | 30/10/2024 |
 | 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast | Definition (wave 1) | 01/12/2024 |
-| 4.4 | Het voorkomen van het product is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
+| 4.4 | Het voorkomen van de lamp is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
 | 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
 | 4.6 | De hub is in te stellen met 1 hand | Development 1 | 01/03/2024 |
 | 4.7 | De knoppen of instellingen geven geen twijfel over hun status | Development 1 | 01/03/2024 |

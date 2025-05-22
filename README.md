@@ -125,8 +125,11 @@ Benodigdheden zijn:
 - 2 quick-and-dirty prototypes gemaakt om mee te interageren
 <br>**De prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
 
-![wave 1 prototype 1](img/wave_1_prototype_1.jpg)
-![wave 1 prototype 2](img/wave_1_prototype_2.jpg)
+<p align="center">
+  <img src="img/wave_1_prototype_1.jpg" width="80%">
+  <img src="img/wave_1_prototype_2.jpg" width="100%">
+</p>
+
 
 
 #### Resultaten

@@ -126,7 +126,7 @@ Benodigdheden zijn:
 
 <p align="center">
   <img src="img/wave_1_prototype_1.jpg" width="35%">
-  <img src="img/wave_1_prototype_2.jpg" width="43,7%">
+  <img src="img/wave_1_prototype_2.jpg" width="43.7%">
 </p>
 
 

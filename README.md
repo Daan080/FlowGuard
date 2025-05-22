@@ -478,7 +478,7 @@ Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen 
 9.	Leg uw gsm op de centrale hub om hem op te laden <br>
     Geen probleem
 10.	Verlaag de timer naar 1 minuut en toon aan je collega’s dat je gestoord mag worden opbergen (product wordt uitgeschakeld) <br>
-    Niemand maakt nog fouten na stap 8. Dit toont dat de fouten die bij vraag 8 werden gemaakt geen invloed hebben op de werking van het product of hoe inuïtief deze werking gaat.
+    Niemand maakt nog fouten na stap 8. Dit toont dat de fouten die bij vraag 8 werden gemaakt geen invloed hebben op de werking van het product of hoe intuïtief deze werking gaat.
 11.	Neem de lamp en de centrale hub en berg het op <br>
     De lamp wordt door iedereen intuïtief op de lamp geplaatst, hoewel sommigen niet beseffen dat dit voor het opladen is. Er wordt aangehaald dat de magneet in de hub minder sterk is dan in de lamphouder.
 

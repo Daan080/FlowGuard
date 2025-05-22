@@ -96,7 +96,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
-  <img src="img/discovery.png" width="40%">
+  <img src="img/discovery.png" width="60%">
 
 
 ## Definition (N = 10)
@@ -110,7 +110,7 @@ Uit de discovery-fase kunnen de belangrijkste aspecten van de oplossing gebundel
 
 Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.
  
-  <img src="img/storyboard.png" width="60%">
+  <img src="img/storyboard.png" width="70%">
   
 ### <ins>Wave 1: conceptvalidatie</ins> (N=5)
 
@@ -126,7 +126,7 @@ Benodigdheden zijn:
 
 <p align="center">
   <img src="img/wave_1_prototype_1.jpg" width="40%">
-  <img src="img/wave_1_prototype_2.jpg" width="60%">
+  <img src="img/wave_1_prototype_2.jpg" width="40%">
 </p>
 
 
@@ -251,14 +251,14 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 - Laptop om protocol voor te lezen en resultaten te noteren
 - Laptop om voorbeelden van de centrale interface te tonen en website te simuleren
 
-<img src="img/knoppen_deelopdracht_3.png" width="50%">
+<img src="img/knoppen_deelopdracht_3.png" width="60%">
 
 De vooraf gemaakte lay-out's voor de website zien er uit als volgt:
-<img src="img/websites_deelopdracht_3.png" width="50%">
+<img src="img/websites_deelopdracht_3.png" width="65%">
 
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 Naast de lay-out van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
-<img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="700">
+<img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="70%">
 <br>
 Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en deze achteraf te analyseren.
 
@@ -344,9 +344,9 @@ De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino co
   <img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%">
   <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
 </p>
- 
-<img src="/img/bureauopstellingen_deelopdracht_4.png" width="60%">
-
+<p align="center">
+<img src="/img/bureauopstellingen_deelopdracht_4.png" width="70%">
+</p>
 
 #### Resultaten
 

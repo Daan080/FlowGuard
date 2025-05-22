@@ -155,8 +155,7 @@ Het concept is zeer gewild binnen de doelgroep, maar er moeten met enkele zaken 
 
 <img src="/img/moscow_review.png" width="50%">
 <br>
-<br>
-<br>
+
 ### <ins>Wave 2: vorm van communicatie</ins> (N=5)
 
 #### Doelstellingen

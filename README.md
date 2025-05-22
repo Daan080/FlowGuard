@@ -17,7 +17,7 @@ Het product geeft een gevoel van voldoening die men zoekt in een werkdag.
 <br>
 <p align="center">
   <img src="/renders/render_9.png" width="50%">
-  <img src="Renders/render_5.png" width="50%">
+  <img src="Renders/render_5.png" width="40%">
 </p>
 
 

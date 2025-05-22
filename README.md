@@ -33,8 +33,8 @@ In dit project werd gebruik gemaakt van onderstaande ontwerpmethodologie, deze i
 
 ![methodologie](img/methodologie.jpg)
 
-Het eerste semester werden de Discovery- en Define-fase doorlopen, oftewel de eerste twee "diamonds". Er werd in de Discovery-fase vooral gefocust op het onderzoeken van je probleem, het afbakenen van de doelgroep en het bedenken van een eerste concept. In de Define-fase werd gefocust op het valideren van het concept en werd op die manier gekeken of alles van de Discovery-fase goed was geanalyseerd. In het tweede semester werd dan vooral gefocust op het vormgeven en verfijnen van het concept zodat het proces eindigde met een concreet product.
-Zoals men kan zien werden in de eerste fases pas laat geconvergeerd om tot een concept te komen, dit kwam door de deadlines, en de vele info die moest verzameld en geanalyseerd worden.
+Het eerste semester werden de Discovery- en Define-fase doorlopen, oftewel de eerste twee "diamonds". Er werd in de Discovery-fase vooral gefocust op het onderzoeken van je probleem, het afbakenen van de doelgroep en het bedenken van een eerste concept. In de Define-fase werd gefocust op het valideren van het concept en werd op die manier gekeken of alles van de Discovery-fase goed was geanalyseerd. In het tweede semester werd dan vooral gefocust op het concept vormgeven en verfijnen, zodat het proces eindigde met een concreet product.
+Zoals men kan zien werden in de eerste fases pas laat geconvergeerd om tot een concept te komen. Dit kwam door de deadlines, en de vele info die moest verzameld en geanalyseerd worden.
 
 ## Discovery (N = 15)
 

@@ -629,15 +629,15 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 ## Bijlagen
 ### Discovery
 #### sota
-[probleem begrijpen](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYZiQVYa3X1GpeBhcyGcWEcBCuQ2lsjSfwrgRcfts3pVXg?e=htsKas) 
+[Discovery probleem begrijpen](protocols/Discover_sota-FlowGuard.docx) 
 #### user interview:
- - [protocol literature review](protocols/user_interview_protocol.docx)
- - [rapport liturature review](rapporten/user_interview_report.docx)
+ - [Discovery literature review protocol](protocols/user_interview_protocol.docx)
+ - [Discovery literature review rapport](rapporten/user_interview_report.docx)
 #### literature review:
- - [protocol user interview](protocols/literature_review_protocol.docx)
- - [rapport user interviews](rapporten/literature_review_report.docx)
-#### inovatrix
-[innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p)
+ - [Discovery user interviews protocol](protocols/literature_review_protocol.docx)
+ - [Discovery user interviews rapport](rapporten/literature_review_report.docx)
+#### innovatrix
+[Discovery innovatrix](protocols/Discover_innovatrix-FlowGuard.docx)
 ### Definition
 #### Define: wave 1
 - [Define wave 1 - protocol](protocols/Define_Wave_1-protocol_FlowGuard.docx)
@@ -654,7 +654,7 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 - [Develop 2 - rapport](rapporten/Develop_2-rapport_FlowGuard.docx)
 #### Develop 3
 - [arduino](ARDUINO/Opkomende_technologieën/arduino.md)
-- [Develop 3 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EbUUeYOipqdAkmavct5EJ2EBiMyxrSWoRJ1nJvaUuVvDsw?e=Ng8p4M)
-- [Develop 3 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=3fsowl)
+- [Develop 3 - protocol](protocols/Develop_3-protocol_FlowGuard.docx)
+- [Develop 3 - rapport](rapporten/Develop_3-rapport_Flowguard.docx)
 ### informed consents
 - [informed consents](informed_consents/informed_consents.docx)

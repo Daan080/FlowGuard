@@ -96,8 +96,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
-
-![discovery](img/discovery.png)
+  <img src="img/discovery.png" width="40%">
 
 
 ## Definition (N = 10)
@@ -110,9 +109,9 @@ Uit de discovery-fase kunnen de belangrijkste aspecten van de oplossing gebundel
 3. Pauze en voldoening
 
 Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.
-![storyboard](img/storyboard.png)
-
-
+ 
+  <img src="img/storyboard.png" width="60%">
+  
 ### <ins>Wave 1: conceptvalidatie</ins> (N=5)
 
 #### Doelstellingen
@@ -126,8 +125,8 @@ Benodigdheden zijn:
 <br>**De prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
 
 <p align="center">
-  <img src="img/wave_1_prototype_1.jpg" width="80%">
-  <img src="img/wave_1_prototype_2.jpg" width="100%">
+  <img src="img/wave_1_prototype_1.jpg" width="40%">
+  <img src="img/wave_1_prototype_2.jpg" width="60%">
 </p>
 
 
@@ -174,7 +173,7 @@ Voor deze test wordt dus gekozen voor een **functioneel, ruw prototype** in de p
 
 #### Resultaten
 ##### <ins> Test 1 (product - gebruiker):
-![wave 2 test 1](img/wave_2_test_1.jpg)
+<img src="/img/wave_2_test_1.jpg" width="50%">
 <br>
 <br>
 Deze tabel bevat de gemiddelde scores van alle participanten. Voor de scores per participant kan gekeken worden in het rapport van Wave 2.
@@ -200,7 +199,7 @@ Uit het gemiddelde van de 5 testpersonen kunnen een aantal zaken afgeleid worden
  > “Als stress op een andere manier wordt gemeld, waardoor je zeker weet dat je stress hebt, dan zal dit leiden tot meer stress”
 
 ##### <ins> Test 2 (product - collega's):
-![wave 2 test 2](img/wave_2_test_2.png)
+<img src="img/wave_2_test_2.png" width="50%">
 <br>
 <br>
 Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor de antwoorden per participant kan gekeken worden in het rapport van Wave 2.
@@ -252,10 +251,11 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 - Laptop om protocol voor te lezen en resultaten te noteren
 - Laptop om voorbeelden van de centrale interface te tonen en website te simuleren
 
-![knoppen develop 1](img/knoppen_deelopdracht_3.png)
+<img src="img/knoppen_deelopdracht_3.png" width="50%">
 
 De vooraf gemaakte lay-out's voor de website zien er uit als volgt:
-![websites develop 1](img/websites_deelopdracht_3.png)
+<img src="img/websites_deelopdracht_3.png" width="50%">
+
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 Naast de lay-out van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
 <img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="700">
@@ -271,7 +271,8 @@ Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websi
 - **Knop groen/rood:** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
 
 Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
-![interfaces develop 1](img/interfaces_deelopdracht_3.png)
+
+<img src="img/interfaces_deelopdracht_3.png" width="50%">
 
 ##### <ins> Website interface </ins>
 <ins> Lay-out </ins>
@@ -339,15 +340,18 @@ Het gebruikte materiaal voor deze test:
 knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
 De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino code develop 2](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
 
-<img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%"> <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
-
-![bureauopstellingen develop 2](img/bureauopstellingen_deelopdracht_4.png)
+<p align="center">
+  <img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%">
+  <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
+</p>
+ 
+<img src="/img/bureauopstellingen_deelopdracht_4.png" width="60%">
 
 
 #### Resultaten
 
 ##### <ins> lamp- en interface positionering </ins>
-![resultaten_bureauopstellingen](img/totale_bureauopstellingen.png)
+<img src="/img/totale_bureauopstellingen.png" width="60%">
 Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 

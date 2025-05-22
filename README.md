@@ -12,10 +12,17 @@ Uit meerdere literatuuronderzoeken en interviews met relevante participanten bli
 
 In het zoeken naar een oplossing werden naast de literatuuronderzoeken en interviews ook andere ontwerpmethodes gebruikt om de diepe oorzaken te zoeken en tot een concrete oplossing te komen.
 
-De oplossing dat in dit dossier wordt voorgesteld is een product dat helpt om een gezonde balans te houden tussen werken en pauzes, en deze pauzes op fysisch niveau kan helpen verbeteren. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving. Dit door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s.
-Het product geeft een gevoel van voldoening die men zoekt in een werkdag.
+De oplossing dat in dit dossier wordt voorgesteld is een product dat helpt om een gezonde balans te onderhouden tussen werken en pauzes, zonder daling in werkefficiëntie of werkeffectievieteit. Daarnaast kan het zorgen voor complete focus, zonder afleiding van de omgeving door het wegfilteren van onnodige meldingen en onnodige onderbrekingen door collega’s. Het product geeft een gevoel van voldoening die men zoekt in idere werkdag.
 <br>
-<img src="/renders/render_9.png" width="80%">
+<p align="center">
+  <img src="/renders/render_9.png" width="50%">
+  <img src="Renders/render_5.png" width="40%">
+</p>
+
+
+> [!NOTE]
+> - Links naar volledige protocollen en rapporten met bijhorende ruwe data zijn te vinden onder [bijlagen](#bijlagen).
+> - Arduinocodes, NX-bestanden, 3D-files, renders, etc. zijn te vinden in de bijhorende bestanden.
 
 ## Introductie
 Volgens Riziv (Rijksinstituut voor ziekte- en invaliditeitsverzekering) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornissen en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress tijdens de job spelen hier een grote rol in, maar ook de constante bereikbaarheid via mail, berichten, sociale media, op de werkvloer, etc. zorgen voor een daling in werkefficiëntie met als gevolg een stijging in stress en werkdruk. Stress en werkdruk die te vermijden zijn…
@@ -25,7 +32,7 @@ Eerder dit jaar werd gekozen tussen verschillende design-challenges en hieruit k
 Dit is een alledaags probleem en komt voor bij meerdere doelgroepen, denk bijvoorbeeld aan studenten. Om dit probleem te begrenzen en de oplossing zo gebruiksgericht te kunnen ontwerpen, is eerst gekozen voor de doelgroep kantoormedewerkers die dagelijks het merendeel van de dag aan een bureau werken. Als een oplossing wordt gevonden voor deze doelgroep, kan verder gekeken worden naar andere doelgroepen met een gelijkaardig probleem.
 
 
-Bronnen:
+**Bron:** <br>
 Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar
 
 ## Methodologie
@@ -33,8 +40,9 @@ In dit project werd gebruik gemaakt van onderstaande ontwerpmethodologie, deze i
 
 ![methodologie](img/methodologie.jpg)
 
-Het eerste semester werden de Discovery- en Define-fase doorlopen, oftewel de eerste twee "diamonds". Er werd in de Discovery-fase vooral gefocust op het onderzoeken van je probleem, het afbakenen van de doelgroep en het bedenken van een eerste concept. In de Define-fase werd gefocust op het valideren van het concept en werd op die manier gekeken of alles van de Discovery-fase goed was geanalyseerd. In het tweede semester werd dan vooral gefocust op het vormgeven en verfijnen van het concept zodat het proces eindigde met een concreet product.
-Zoals men kan zien werden in de eerste fases pas laat geconvergeerd om tot een concept te komen, dit kwam door de deadlines, en de vele info die moest verzameld en geanalyseerd worden.
+Het eerste semester werden de Discovery- en Define-fase doorlopen, oftewel de eerste twee "diamonds". Er werd in de Discovery-fase vooral gefocust op het onderzoeken van je probleem, het afbakenen van de doelgroep en het bedenken van een eerste concept. In de Define-fase werd gefocust op het valideren van het concept en werd op die manier gekeken of alles van de Discovery-fase goed was geanalyseerd. In het tweede semester werd dan vooral gefocust op het concept vormgeven en verfijnen, zodat het proces eindigde met een concreet product. <br>
+<br>
+Zoals men kan zien werden in de eerste fases pas laat geconvergeerd om tot een concept te komen. Dit kwam door de deadlines, en de vele info die moest verzameld en geanalyseerd worden.
 
 ## Discovery (N = 15)
 
@@ -88,8 +96,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
-
-![discovery](img/discovery.png)
+  <img src="img/discovery.png" width="70%">
 
 
 ## Definition (N = 10)
@@ -99,12 +106,12 @@ Na de goedkeuring van dit concept werd gefocust op definiëren van het concept e
 Uit de discovery-fase kunnen de belangrijkste aspecten van de oplossing gebundeld worden:
 1. Werkefficiëntie verhogen
 2. Onderlinge communicatie verbeteren
-(3. Pauze en voldoening)
+3. Pauze en voldoening
 
 Om beter te kunnen bekijken waar er nog onduidelijkheden zijn werd eerst een storyboard uitgewerkt met als onderwerp het eerste concept van wave 1 en deze werd dan ook geanalyseerd.
-![storyboard](img/storyboard.png)
-
-
+ 
+  <img src="img/storyboard.png" width="70%">
+  
 ### <ins>Wave 1: conceptvalidatie</ins> (N=5)
 
 #### Doelstellingen
@@ -117,8 +124,11 @@ Benodigdheden zijn:
 - 2 quick-and-dirty prototypes gemaakt om mee te interageren
 <br>**De prototypes dienen dus vooral om het concept te communiceren met de doelgroep op visueel vlak**.
 
-![wave 1 prototype 1](img/wave_1_prototype_1.jpg)
-![wave 1 prototype 2](img/wave_1_prototype_2.jpg)
+<p align="center">
+  <img src="img/wave_1_prototype_1.jpg" width="35%">
+  <img src="img/wave_1_prototype_2.jpg" width="43.7%">
+</p>
+
 
 
 #### Resultaten
@@ -163,7 +173,7 @@ Voor deze test wordt dus gekozen voor een **functioneel, ruw prototype** in de p
 
 #### Resultaten
 ##### <ins> Test 1 (product - gebruiker):
-![wave 2 test 1](img/wave_2_test_1.jpg)
+<img src="/img/wave_2_test_1.jpg" width="50%">
 <br>
 <br>
 Deze tabel bevat de gemiddelde scores van alle participanten. Voor de scores per participant kan gekeken worden in het rapport van Wave 2.
@@ -189,7 +199,7 @@ Uit het gemiddelde van de 5 testpersonen kunnen een aantal zaken afgeleid worden
  > “Als stress op een andere manier wordt gemeld, waardoor je zeker weet dat je stress hebt, dan zal dit leiden tot meer stress”
 
 ##### <ins> Test 2 (product - collega's):
-![wave 2 test 2](img/wave_2_test_2.png)
+<img src="img/wave_2_test_2.png" width="50%">
 <br>
 <br>
 Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor de antwoorden per participant kan gekeken worden in het rapport van Wave 2.
@@ -241,13 +251,16 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 - Laptop om protocol voor te lezen en resultaten te noteren
 - Laptop om voorbeelden van de centrale interface te tonen en website te simuleren
 
-![knoppen develop 1](img/knoppen_deelopdracht_3.png)
+<img src="img/knoppen_deelopdracht_3.png" width="65%">
 
-De vooraf gemaakte lay-out's voor de website zien er uit als volgt:
-![websites develop 1](img/websites_deelopdracht_3.png)
+De vooraf gemaakte lay-out's voor de website en het tablad specifiek voor de functie in verband met synchroniseren van pauzes worden getest met volgende simulaties:
+<p align="center">
+  <img src="img/websites_deelopdracht_3.png" width="55%">
+  <img src="img/tablad_werkomgeving_deelopdracht_3.png" width="40%">
+</p>
+
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
-Naast de lay-out van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
-<img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="700">
+Naast de lay-out van de website wordt ook 
 <br>
 Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en deze achteraf te analyseren.
 
@@ -260,7 +273,8 @@ Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websi
 - **Knop groen/rood:** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
 
 Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
-![interfaces develop 1](img/interfaces_deelopdracht_3.png)
+
+<img src="img/interfaces_deelopdracht_3.png" width="50%">
 
 ##### <ins> Website interface </ins>
 <ins> Lay-out </ins>
@@ -328,15 +342,18 @@ Het gebruikte materiaal voor deze test:
 knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
 De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino code develop 2](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
 
-<img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%"> <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
-
-![bureauopstellingen develop 2](img/bureauopstellingen_deelopdracht_4.png)
-
+<p align="center">
+  <img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%">
+  <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
+</p>
+<p align="center">
+<img src="/img/bureauopstellingen_deelopdracht_4.png" width="70%">
+</p>
 
 #### Resultaten
 
 ##### <ins> lamp- en interface positionering </ins>
-![resultaten_bureauopstellingen](img/totale_bureauopstellingen.png)
+<img src="/img/totale_bureauopstellingen.png" width="70%">
 Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 
@@ -420,32 +437,29 @@ Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet
 - Hoe wordt de mogelijkheid van draadloos opladen van je gsm ervaren met daarbij de functie om meldingen vanzelf uit te schakelen?
 
 #### Materiaal & methoden
-Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen.
-
-<img src="/img/schetsen_deelopdracht_5.png" width="70%">
-
-Na eliminatie en keuzes aan de hand van design requirements werd het volgende concept gekozen:
-
-<img src="/img/conceptschets_deelopdracht_5.jpg" width="40%">
+Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen. Na eliminatie en keuzes aan de hand van design requirements werd het rechter concept gekozen.
+<p align="center">
+  <img src="/img/schetsen_deelopdracht_5.png" width="70%">
+  <img src="/img/conceptschets_deelopdracht_5.jpg" width="30%">
+</p>
 
 Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de website van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
-
-<img src="/img/ergonomieschetsen_deelopdracht_5.png" width="40%">
+<p align="center">
+  <img src="/img/ergonomieschetsen_deelopdracht_5.png" width="40%">
+</p>
 
 Het prototype bestaat hoofdzakelijk uit een in te stellen timer met digitaal scherm voor communicatie met de gebruiker en een lamp voor communicatie met de omgeving.
 Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en communicatie wordt verduidelijkt met volgend schema:
 
-<img src="/img/functioneel_schema_scherm,lamp.png" width="40%">
+<img src="/img/functioneel_schema_scherm,lamp.png" width="50%">
 
-Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype:
+Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
+<p align="center">
+  <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
+  <img src="/img/prototype_develop3.1.jpeg" width="40%">
+</p>
 
-<img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
-
-Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino)
-Uit de conceptschetsen en het arduino-schema kwam volgend prototype, gemaakt met behulp van lasercutten en 3D-printen:
-
-<img src="/img/prototype_develop3.1.jpeg" width="40%">
-
+Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino) <br>
 De test zelf bestaat uit een producttest en -validatie, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 
 #### Resultaten
@@ -629,15 +643,15 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 ## Bijlagen
 ### Discovery
 #### sota
-[probleem begrijpen](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYZiQVYa3X1GpeBhcyGcWEcBCuQ2lsjSfwrgRcfts3pVXg?e=htsKas) 
-#### user interview:
- - [protocol literature review](protocols/user_interview_protocol.docx)
- - [rapport liturature review](rapporten/user_interview_report.docx)
+[Discovery probleem begrijpen](protocols/Discover_sota-FlowGuard.docx) 
 #### literature review:
- - [protocol user interview](protocols/literature_review_protocol.docx)
- - [rapport user interviews](rapporten/literature_review_report.docx)
-#### inovatrix
-[innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p)
+ - [Discovery literature review protocol](protocols/user_interview_protocol.docx)
+ - [Discovery literature review rapport](rapporten/user_interview_report.docx)
+#### user interview:
+ - [Discovery user interviews protocol](protocols/literature_review_protocol.docx)
+ - [Discovery user interviews rapport](rapporten/literature_review_report.docx)
+#### innovatrix
+[Discovery innovatrix](protocols/Discover_innovatrix-FlowGuard.docx)
 ### Definition
 #### Define: wave 1
 - [Define wave 1 - protocol](protocols/Define_Wave_1-protocol_FlowGuard.docx)
@@ -654,7 +668,7 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 - [Develop 2 - rapport](rapporten/Develop_2-rapport_FlowGuard.docx)
 #### Develop 3
 - [arduino](ARDUINO/Opkomende_technologieën/arduino.md)
-- [Develop 3 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EbUUeYOipqdAkmavct5EJ2EBiMyxrSWoRJ1nJvaUuVvDsw?e=Ng8p4M)
-- [Develop 3 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EQ_cBcfZBppLoQHCO0fyffsB8ewsAfusE9Bt793GeBy-mg?e=3fsowl)
+- [Develop 3 - protocol](protocols/Develop_3-protocol_FlowGuard.docx)
+- [Develop 3 - rapport](rapporten/Develop_3-rapport_Flowguard.docx)
 ### informed consents
 - [informed consents](informed_consents/informed_consents.docx)

@@ -99,7 +99,6 @@ Hierna kon een correct en innovatief eerste concept opgesteld worden.
   <img src="img/discovery.png" width="70%">
 <br>
 <br>
-<br>
 
 ## Definition (N = 10)
 
@@ -235,7 +234,6 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 > - D4.5 Tekst op het product dient in het Nederlands te zijn
 <br>
 <br>
-<br>
 
 ## Develop (N = 17)
 
@@ -323,7 +321,6 @@ Tabblad Werkomgeving:
 > - D4.6 Het product is in te stellen met 1 hand 
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
-<br>
 <br>
 <br>
 
@@ -426,7 +423,6 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 > - D2.12 De gebruiker kan steeds de eigen timer bekijken
 > - D4.13 Tijdens het werken staat het scherm op helderheid 25
 > - D2.13 Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140
-<br>
 <br>
 <br>
 

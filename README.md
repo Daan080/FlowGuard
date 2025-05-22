@@ -177,7 +177,6 @@ Voor deze test wordt dus gekozen voor een **functioneel, ruw prototype** in de p
 ##### <ins> Test 1 (product - gebruiker):
 <img src="/img/wave_2_test_1.jpg" width="50%">
 <br>
-<br>
 Deze tabel bevat de gemiddelde scores van alle participanten. Voor de scores per participant kan gekeken worden in het rapport van Wave 2.
 <br>
 <br>
@@ -202,7 +201,6 @@ Uit het gemiddelde van de 5 testpersonen kunnen een aantal zaken afgeleid worden
 
 ##### <ins> Test 2 (product - collega's):
 <img src="img/wave_2_test_2.png" width="50%">
-<br>
 <br>
 Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor de antwoorden per participant kan gekeken worden in het rapport van Wave 2.
 <br>

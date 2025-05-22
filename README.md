@@ -29,11 +29,12 @@ Bronnen:
 Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar
 
 ## Methodologie
-In dit project werd gebruik gemaakt van onderstaande ontwerpmethode, deze is gebaseerd op de "triple diamond".
+In dit project werd gebruik gemaakt van onderstaande ontwerpmethodologie, deze is gebaseerd op de "triple diamond".
 
 ![methodologie](img/methodologie.jpg)
 
-Het eerste semester werden de Discovery- en Define-fase doorlopen, oftewel de eerste twee "diamonds". Er werd in de discovery-fase vooral gefocust op het onderzoeken van je probleem en het afbakenen van de doelgroep, waarna een concept werd bedacht om het probleem en deze oplossingsmogelijkheid te pitchen. Toen het concept werd gekozen, is in de definie-fase vooral gefocust op het concept valideren en kijken of alles van de discovery-fase goed is geanalyseerd.
+Het eerste semester werden de Discovery- en Define-fase doorlopen, oftewel de eerste twee "diamonds". Er werd in de Discovery-fase vooral gefocust op het onderzoeken van je probleem, het afbakenen van de doelgroep en het bedenken van een eerste concept. In de Define-fase werd gefocust op het valideren van het concept en werd op die manier gekeken of alles van de Discovery-fase goed was geanalyseerd. In het tweede semester werd dan vooral gefocust op het vormgeven en verfijnen van het concept zodat het proces eindigde met een concreet product.
+Zoals men kan zien werden in de eerste fases pas laat geconvergeerd om tot een concept te komen, dit kwam door de deadlines, en de vele info die moest verzameld en geanalyseerd worden.
 
 ## Discovery (N = 15)
 
@@ -225,7 +226,9 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 
 
 ## Develop (N = 17)
+
 ### Develop 1 (N = 4)
+
 #### Doelstellingen
 Om de volgende stappen in het proces makkelijker te maken en het product meer te definiëren is nood aan een interface. Deze zal het fysieke aspect van het product bepalen en de integratie van elektronica meer geordend maken. In deze test zal gekeken worden waar de interacties zich bevinden op de centrale interface samen met de indeling van de website die bij het product hoort. 
 
@@ -303,7 +306,9 @@ Tabblad Werkomgeving:
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
 
+
 ### Develop 2 (N = 4)
+
 #### Doelstellingen
 In deze test worden de laatste onduidelijkheden aangepakt voor een eerste volledig concept kan worden gemaakt. Volgende onduidelijkheden worden onderzocht:
 -	Polsen bij gebruiker over plaats op het bureau
@@ -327,14 +332,13 @@ De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino co
 
 
 #### Resultaten
-##### <ins> lamp- en interface positionering </ins>
 
+##### <ins> lamp- en interface positionering </ins>
 ![resultaten_bureauopstellingen](img/totale_bureauopstellingen.png)
 Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 
 ##### <ins> Triggers en de stored value van het product </ins>
-
 Bij het overlopen van de triggers van het Hooked model waren er geen opvallende ondervindingen. De meeste gingen voor het werken een koffie of een thee halen, maar buiten dit waren er niet veel zaken waarop het product kan inspelen.
 > "Koffie halen, en dan begin ik eraan."
 
@@ -349,9 +353,8 @@ Over het algemeen heeft men het gevoel dat er genoeg stored value zit in het pro
 - Je kan moeilijk onderlinge taken vergelijken. Als de takenpakketten anders zijn, hoe kan je dan een competitieve meting doen?
 - Er zijn al veel likes of andere uitingen van appreciatie op sociale media. Om dit nog eens toe te voegen in een kantooromgeving lijkt niet nodig.
 - Het zou handig zijn om te zien hoeveel men het product gebruikt en op die manier ook anderen te motiveren om het te gebruiken
-- 
-##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
 
+##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
 Eerst werd gekeken wat men dacht over de weglating van de communicatie via de armband en de voorlopige weglating van de stressmeting tijdens dit project. De communicatie van product naar gebruiker zal, gebaseerd op een vorige test, gebeuren aan de hand van flikkerend licht en constant licht via de centrale hub. Iedereen ging akkoord met deze keuze en volgde de gedachtegang.
 
 Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om aan te geven welke lichtintensiteit ze aangenaam vonden tijdens het werken, welke ze wouden wanneer het product wou communiceren en welke snelheid het licht moest flikkeren als het product wou communiceren. De resultaten staan in onderstaande tabel.
@@ -363,7 +366,9 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 | **3** | 37 | 200 | 809 |
 | **4** | 18 | 107 | 516 |
 
+
 #### Conclusies & implicaties
+
 ##### <ins> lamp- en interface positionering </ins>
 - De scheidingswanden zijn een voorkeurslocatie voor de lampen omdat ze van overal goed zichtbaar zijn en afhankelijk van de kant waarop men de lamp plaatst kan men zien aan wie de lamp toebehoort
 - Sommige deelnemers kiezen ook voor een plaatsing op het scherm, maar geven aan dat dit misschien afleidend kan zijn voor zichzelf.
@@ -399,6 +404,7 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 > - D2.13 Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140
 
 ### Develop 3 WAVE 1 (N = 8)
+
 #### Doelstellingen
 Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd zowel functioneel als esthetisch geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe onduidelijkheden/problemen naar boven zullen komen om verder onderzoek mogelijk te maken. De doelstelling voor deze test is dus om de doelgroep te laten interageren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken: 
 - Hoe lang mag het licht maximaal op rood staan voordat het vanzelf uitvalt?
@@ -415,7 +421,7 @@ Om het concept uit te werken werden eerst de designrequirements geordend op basi
 
 <img src="/img/schetsen_deelopdracht_5.png" width="70%">
 
-Na eliminatie en keuzes aan de hand van design requirements werd volgend concept gekozen:
+Na eliminatie en keuzes aan de hand van design requirements werd het volgende concept gekozen:
 
 <img src="/img/conceptschets_deelopdracht_5.jpg" width="40%">
 
@@ -437,7 +443,7 @@ Uit de conceptschetsen en het arduino-schema kwam volgend prototype, gemaakt met
 
 <img src="/img/prototype_develop3.1.jpeg" width="40%">
 
-De test zelf bestaat uit een concept test, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
+De test zelf bestaat uit een producttest en -validatie, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 
 #### Resultaten
 ##### <ins> eerste confrontatie + vrije interactie </ins>
@@ -531,7 +537,7 @@ Als laatste stap wordt het product meegegeven met een participant. Dankzij deze 
 De doelstelling voor deze test is dus kijken hoe vlot het product te gebruiken is op langere termijn, maar ook nog eens bekijken op kortere termijn.
 
 #### Materiaal & methoden
-De test bestaat uit een Diary Study van een testpersoon over een tijdspanne van 3 dagen. Een link naar het protocol kan men vinden in de bijlagen.
+De test bestaat uit een Diary Study van een testpersoon over een tijdspanne van 3 dagen. Een link naar het protocol kan men vinden in de bijlagen (Develop 3).
 #### Resultaten
 ##### <ins> lamp- en interface positionering </ins>
 #### Conclusies & implicaties
@@ -621,18 +627,18 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 [innovatrix discovery](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/ETVq83qsM1RGu6nbJd2OT-ABc87Mdt7JGQi-2IB-lqhOzg?e=SkpB7p)
 ### Definition
 #### Define: wave 1
-- [Define wave 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EYZHktuN6tFPi1oRMK0JxQwBntFvwxELfS6gzhyvpQ0wDw?e=xnT6e5)
-- [Define wave 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EcPC2BOr4uxJpqWIRvKC0M4BQ8RbzJkPKD4grVZVPXoH9Q?e=gx1EWL)
+- [Define wave 1 - protocol](protocols/Define_Wave_1-protocol_FlowGuard.docx)
+- [Define wave 1 - rapport](rapporten/Define_Wave_1-rapport_FlowGuard.docx)
 #### Define: wave 2
-- [Define wave 2 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/ESFLEPYkUs5Mu0Bn32X77uUBLm22u--p32820eaFBhQU7g?e=gaSdDT)
-- [Define wave 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/EfGzS8FE1ONKkOFaDqWbGA0BpjgTuPXQ3o3FHSvaMkoTlA?e=zEjI0B)
+- [Define wave 2 - protocol](protocols/Define_Wave_2-protocol_FlowGuard.docx)
+- [Define wave 2 - rapport](rapporten/Define_Wave_2-rapport_FlowGuard.docx)
 ### Develop
 #### Develop 1
-- [Develop 1 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EYFXz3Ox31dMjIWU9mxE6FgBZwoSi5SSflYKvu9Z5Soqaw?e=1DOxIu)
-- [Develop 1 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EZbGh_ffTqxMmQQITb3nka4BTq4fyeaXO81AsjtJjxOQ7g?e=cvizVJ)
+- [Develop 1 - protocol](protocols/Develop_1-protocol_FlowGuard.docx)
+- [Develop 1 - rapport](rapporten/Develop_1-rapport_FlowGuard.docx)
 #### Develop 2
-- [Develop 2- protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/jasper_dekeyser_ugent_be/Edxho0fY2PdEhJ_yUMeHUHQBbnlqlTn4GQjHduEMnQ49pg?e=bFp2Vj)
-- [Develop 2 - rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EfEEvYOeP2pOnN-NwB6_ADwBuQ34xDCxqp6btwziamVzog?e=ClKyfk)
+- [Develop 2- protocol](protocols/Develop_2-protocol_FlowGuard.docx)
+- [Develop 2 - rapport](rapporten/Develop_2-rapport_FlowGuard.docx)
 #### Develop 3
 - [arduino](ARDUINO/Opkomende_technologieën/arduino.md)
 - [Develop 3 - protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/daan_dobbelaere_ugent_be/EbUUeYOipqdAkmavct5EJ2EBiMyxrSWoRJ1nJvaUuVvDsw?e=Ng8p4M)

@@ -549,7 +549,8 @@ Dit is tevens de uitknop van het product: Als de lamp op het product wordt geleg
 > - D4.14 Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken
 > - D4.15 De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten
 > - D4.16 Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden
-
+<br>
+<br>
 
 ### Develop 3: WAVE 2 (N = 1)
 #### Doelstellingen

@@ -443,7 +443,7 @@ Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet
 Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen. Na eliminatie en keuzes aan de hand van design requirements werd het rechter concept gekozen.
 <p align="center">
   <img src="/img/schetsen_deelopdracht_5.png" width="50%">
-  <img src="/img/conceptschets_deelopdracht_5.jpg" width="30%">
+  <img src="/img/conceptschets_deelopdracht_5.jpg" width="40%">
 </p>
 
 Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de website van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
@@ -459,7 +459,7 @@ Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en 
 Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
 <p align="center">
   <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
-  <img src="/img/prototype_develop3.1.jpeg" width="40%">
+  <img src="/img/prototype_develop3.1.jpeg" width="47%">
 </p>
 
 Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino) <br>

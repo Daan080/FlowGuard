@@ -236,7 +236,7 @@ Bij de <ins> communicatie van het product naar de collega's </ins> wordt gezocht
 <br>
 <br>
 <br>
-<br>
+
 ## Develop (N = 17)
 
 ### Develop 1 (N = 4)
@@ -326,7 +326,7 @@ Tabblad Werkomgeving:
 <br>
 <br>
 <br>
-<br>
+
 ### Develop 2 (N = 4)
 
 #### Doelstellingen
@@ -429,7 +429,7 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 <br>
 <br>
 <br>
-<br>
+
 ### Develop 3 WAVE 1 (N = 8)
 
 #### Doelstellingen

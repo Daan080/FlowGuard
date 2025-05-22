@@ -349,13 +349,13 @@ De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino co
   <img src="/img/arduino_schema_deelopdracht_4.png" width="43.6%">
 </p>
 <p align="center">
-<img src="/img/bureauopstellingen_deelopdracht_4.png" width="120%">
+<img src="/img/bureauopstellingen_deelopdracht_4.png" width="70%">
 </p>
 
 #### Resultaten
 
 ##### <ins> lamp- en interface positionering </ins>
-<img src="/img/totale_bureauopstellingen.png" width="70%">
+<img src="/img/totale_bureauopstellingen.png" width="100%">
 Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 

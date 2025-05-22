@@ -96,7 +96,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
 
-  <img src="img/discovery.png" width="60%">
+  <img src="img/discovery.png" width="65%">
 
 
 ## Definition (N = 10)
@@ -126,7 +126,7 @@ Benodigdheden zijn:
 
 <p align="center">
   <img src="img/wave_1_prototype_1.jpg" width="35%">
-  <img src="img/wave_1_prototype_2.jpg" width="40%">
+  <img src="img/wave_1_prototype_2.jpg" width="45%">
 </p>
 
 
@@ -253,12 +253,14 @@ Om deze test te realiseren wordt gebruik gemaakt van een interactief, 'think alo
 
 <img src="img/knoppen_deelopdracht_3.png" width="65%">
 
-De vooraf gemaakte lay-out's voor de website zien er uit als volgt:
-<img src="img/websites_deelopdracht_3.png" width="65%">
+De vooraf gemaakte lay-out's voor de website en het tablad specifiek voor de functie in verband met synchroniseren van pauzes worden getest met volgende simulaties:
+<p align="center">
+  <img src="img/websites_deelopdracht_3.png" width="60%">
+  <img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="60%">
+</p>
 
 Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
-Naast de lay-out van de website wordt ook specifiek de functie in verband met synchroniseren van pauzes op de website getest.
-<img src="img/tablad_werkomgeving_deelopdracht_3.png" alt="Alt Text" width="65%">
+Naast de lay-out van de website wordt ook 
 <br>
 Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en deze achteraf te analyseren.
 
@@ -437,23 +439,24 @@ Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet
 #### Materiaal & methoden
 Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen. Na eliminatie en keuzes aan de hand van design requirements werd het rechter concept gekozen.
 <p align="center">
-<img src="/img/schetsen_deelopdracht_5.png" width="70%">
-<img src="/img/conceptschets_deelopdracht_5.jpg" width="40%">
+  <img src="/img/schetsen_deelopdracht_5.png" width="70%">
+  <img src="/img/conceptschets_deelopdracht_5.jpg" width="30%">
 </p>
 
 Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de website van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
-
-<img src="/img/ergonomieschetsen_deelopdracht_5.png" width="40%">
+<p align="center">
+  <img src="/img/ergonomieschetsen_deelopdracht_5.png" width="40%">
+</p>
 
 Het prototype bestaat hoofdzakelijk uit een in te stellen timer met digitaal scherm voor communicatie met de gebruiker en een lamp voor communicatie met de omgeving.
 Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en communicatie wordt verduidelijkt met volgend schema:
 
-<img src="/img/functioneel_schema_scherm,lamp.png" width="40%">
+<img src="/img/functioneel_schema_scherm,lamp.png" width="50%">
 
 Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
 <p align="center">
-<img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
-<img src="/img/prototype_develop3.1.jpeg" width="40%">
+  <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
+  <img src="/img/prototype_develop3.1.jpeg" width="40%">
 </p>
 
 Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino) <br>

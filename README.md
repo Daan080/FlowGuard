@@ -464,7 +464,7 @@ Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en 
 Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
 <p align="center">
   <img src="/ARDUINO/Opkomende_technologieën/timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring_setup.png" width="40%">
-  <img src="/img/prototype_develop3.1.jpeg" width="48%">
+  <img src="/img/prototype_develop3.1.jpeg" width="47.7%">
 </p>
 
 Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologieën/eindcode/eindcode.ino) <br>

@@ -429,6 +429,8 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 > - D2.12 De gebruiker kan steeds de eigen timer bekijken
 > - D4.13 Tijdens het werken staat het scherm op helderheid 25
 > - D2.13 Bij het communiceren naar de gebruiker flikkert het scherm met een frequentie van 530 ms en is de helderheid 140
+> - D4.14 Het instellen van het product moet geintegreerd worden in de dagelijkse werkroutine
+> - D4.15 De integratie van de gsm mag geen verplichting zijn voor het gebruik van het product
 <br>
 
 ### Develop 3 WAVE 1 (N = 8)
@@ -644,9 +646,11 @@ Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer
 | 4.11 | De hub staat binnen handbereik van de gebruiker | Development 2 | 17/04/2025 |
 | 4.12 | Het product wordt aangeschaft door een bedrijf/organisatie, zodat iedereen deze kan gebruiken | Development 2 | 17/04/2025 |
 | 4.13 | Tijdens het werken staat het ledscherm van de hub op helderheid 25 | Development 2 | 17/04/2025 |
-| 4.14 | Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken | Develop 3 wave 1 | 17/05/2025 |
-| 4.15 | De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten | Develop 3 wave 1 | 17/05/2025 |
-| 4.16 | Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden | Develop 3 wave 1 | 17/05/2025 |
+| 4.14 | Het instellen van het product moet geintegreerd worden in de dagelijkse werkroutine | Development 2 | 17/04/2025 |
+| 4.15 | De integratie van de gsm mag geen verplichting zijn voor het gebruik van het product | Development 2 | 17/04/2025 |
+| 4.16 | Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken | Develop 3 wave 1 | 17/05/2025 |
+| 4.17 | De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten | Develop 3 wave 1 | 17/05/2025 |
+| 4.18 | Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden | Develop 3 wave 1 | 17/05/2025 |
 <br>
 <br>
 

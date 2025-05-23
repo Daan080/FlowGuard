@@ -670,8 +670,8 @@ Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer
 | 4.17 | De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten | Develop 3 wave 1 | 17/05/2025 |
 | 4.18 | Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden | Develop 3 wave 1 | 17/05/2025 |
 | 4.19 | Het product moet een strakke uitstraling hebben | Develop 1 | 01/03/2025 |
-
-<br>
+<br>  
+Hier een [link](https://miro.com/app/board/uXjVIa8oaKs=/?focusWidget=3458764628877495166) naar de design requirements gerangschikt op relevantie en een simpele aanduiding of de requirement al dan niet gehaald is binnen dit project.
 <br>
 
 ## Kritische reflectie

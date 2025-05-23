@@ -169,7 +169,8 @@ Volgende zaken zijn nodig:
 - een prototype dat licht kan geven, geluid kan maken en kan trillen
 - een smartwatch dat kan trillen
 - een laptop om te noteren/context te simuleren
-- gsm om interactie te capteren (filmen)
+- gsm om interactie te capteren (filmen)  
+  
 Het prototype is een doos gemaakt uit MDF en plexiglas met ruimte om een smartphone in te plaatsen en focust puur op de functie om signalen te kunnen verzenden en is niet bedoeld om het voorkomen van het product te representeren. 
 Voor deze test wordt dus gekozen voor een **functioneel, ruw prototype** in de plaats van een esthetisch prototype.
 
@@ -302,11 +303,11 @@ Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out:
 <br>
 Bij het testen van de interacties op de website werden snel enkele zaken duidelijk. Om alle opmerkingen te zien of enkele schermopnamen kan gekeken worden naar het rapport van deelopdracht 3 (bijlagen). De belangrijkste zaken zijn:
 - **Tutorial**: Na de website even te proberen en enkele fouten te hebben gemaakt was iedereen ervan overtuigd dat ze deze niet meer opnieuw zouden maken. Een tutorial of korte uitleg over de werking zou dus helpen.
-- **Tijdsaanduiding**: Er moet duidelijker getoond worden als het over uren of minuten gaat. Om dit te duiden met een voorbeeld: de meesten dachten dat 01:20 een timer was voor een minuut en 20 seconden, waar een uur werd bedoeld.
+- **Tijdsaanduiding**: Er moet duidelijker getoond worden als het over uren of minuten gaat. Om dit te duiden met een voorbeeld: de meesten dachten dat 01:20 een timer was voor 1 minuut en 20 seconden, waar 1 uur en 20 minuten werd bedoeld.
 Ook moet duidelijker getoond worden dat dit een aflopende timer is dat overgaat in een pauze wanneer deze eindigt.
 - **Licht uit**: Men was niet zeker wat de betekenis was van een licht dat niet aan stond.
 
-> Krijg je een melding als iemand met jouw timer synchroniseert?
+> "Krijg je een melding als iemand met jouw timer synchroniseert?"
 
 #### Conclusies & implicaties
 Centrale interface:
@@ -323,10 +324,10 @@ Tabblad Werkomgeving:
 > [!IMPORTANT]
 > Design Requirements:
 > - D2.10 Als de gebruiker niet aan de bureau zit gaat het licht uit
-> - D4.4 <ins>Het voorkomen van de lamp<ins> is opvallend en zichtbaar om aandacht op zich te kunnen brengen
+> - D4.4 Het voorkomen van <ins>de lamp</ins> is opvallend en zichtbaar om aandacht op zich te kunnen brengen
 > - D4.6 Het product is in te stellen met 1 hand 
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
-> - D4.8 De ondersteunende webiste heeft bij het eerste gebruik een tutorial
+> - D4.8 De ondersteunende website heeft bij het eerste gebruik een tutorial
 <br>
 
 ### Develop 2 (N = 4)
@@ -462,11 +463,11 @@ Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en 
 
 Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
 <p align="center">
-  <img src="/img/arduino_opstelling_deelopdracht_5.png" width="40%">
+  <img src="/ARDUINO/Opkomende_technologieën/timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring_setup.png" width="40%">
   <img src="/img/prototype_develop3.1.jpeg" width="48%">
 </p>
 
-Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologiën/eindcode/eindcode.ino) <br>
+Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologieën/eindcode/eindcode.ino) <br>
 De test zelf bestaat uit een producttest en -validatie, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
 
 #### Resultaten

@@ -362,6 +362,7 @@ De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino co
 ##### <ins> lamp- en interface positionering </ins>
 <img src="/img/totale_bureauopstellingen.png" width="100%">
 Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet staan, zichtbaar voor iedereen en de interface binnen handbereik.
+
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 
 ##### <ins> Triggers en de stored value van het product </ins>

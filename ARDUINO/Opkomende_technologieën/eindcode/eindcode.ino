@@ -1,18 +1,21 @@
 // libraries
 #include <Wire.h> // indirect gebruikt via rgb_ldc
-#include "rgb_lcd.h" // aansturen van rgb lcd scherm
+#include "rgb_lcd.h" // aansturen van rbd lcd scherm
 #include <Encoder.h> // aansturen van rotary encoder
+#include <Adafruit_NeoPixel.h> // aansturen RGB led ring
 
 // pinnen
 const int CLK = 2; // clock pin rotary encoder
 const int DT = 3; // data pin rotary encoder
 const int SW = 4; // switch pin rotary encoder
-const int buttonGreen = 6; // groene knop
-const int buttonRed = 7; // rode knop
+const int buttonGreen = 12; // groene knop
+const int buttonRed = 11; // rode knop
+const int ledRing = 10; // RGB led ring
 
 // naamgeving hardware
 rgb_lcd lcd; // rgb lcd scherm benoemen
 Encoder RotEnc(CLK, DT); // rotary encoder benoemen
+Adafruit_NeoPixel ring(12, ledRing, NEO_GRB + NEO_KHZ800); // RGB led ring benoemen
 
 // drukknoppen debouncen
 unsigned long lastDebounceTimeGreen = 0;
@@ -22,6 +25,7 @@ unsigned long debounceDelay = 50;
 // statussen timer
 volatile unsigned long totalSeconds = 0; // totaal aantal seconden
 unsigned long lastInteractionTime = 0; // tijdstip van laatste interactie met encoder of switch
+unsigned long lastRedPress = 0; // tijdstip van laatste keer op rood gedrukt
 long lastEncPos = 0; // positie van laatste encoder-lezing
 bool timerRunning = false; // timer staat stil
 bool timerFinished = false; // timer is niet afgelopen
@@ -33,7 +37,8 @@ const unsigned int LIGHT_VSOFT = 5; // heel zachte lichtsterkte
 const unsigned int LIGHT_SOFT = 25; // zachte lichtsterkte
 const unsigned int LIGHT_BRIGHT = 140; // felle lichtsterkte
 const unsigned int BLINK_SPEED = 530; // flikkersnelheid in ms
-const unsigned long BACKLIGHT_DELAY = 7000; // tijd dat RGB aanblijft in ms, moet long zijn want moet compatibel zijn met millis()
+const unsigned long BACKLIGHT_DELAY = 7000; // tijd dat backlight aanblijft in ms, moet long zijn want moet compatibel zijn met millis()
+const unsigned long REDLIGHT_DELAY = 3600000; // tijd dat RGB ring op rood blijft in ms
 
 void setup() {
   pinMode(buttonGreen, INPUT_PULLUP); // groene knop activeren
@@ -43,6 +48,8 @@ void setup() {
   displayTime(totalSeconds); // lcd tijd weergeven
   BacklightSoft(); // rgb backlight op zacht groen
   lastEncPos = RotEnc.read(); // stand encoder lezen
+  ring.begin();
+  ring.show();
 }
 
 void loop() {
@@ -52,6 +59,7 @@ void loop() {
   Timer(); // tijd laten aflopen per seconde en stoppen bij 0
   Blink(); // flikkeren van de tijd en backlight wanneer nodig
   BacklightOff(); // vanzelf uitzetten backlight na bepaalde delay
+  RedLightOff(); // vanzelf RGB ring van rood naar groen zetten na een uur
   delay(5);
 }
 
@@ -107,12 +115,19 @@ void Switch() {
   if (lastPress == HIGH && newPress == LOW) { // als knop ingedrukt wordt
     if (timerRunning) { // als timer loopt
       timerRunning = false; // timer staat stil
+      updateRgbLed();
       BacklightSoft(); // rgb backlight op zacht groen
       backlightOn = true; // backlight staat aan
     } else { // als timer stilstaat
       if (totalSeconds > 0) { // als tijd groter is dan 00:00:00
         timerRunning = true; // timer loopt
+        updateRgbLed();
         lastInteractionTime = millis(); // laatste interactietijd updaten om backlight vanzelf uit te schakelen
+      } else if (totalSeconds == 0 && timerFinished){ // als tijd afgelopen is
+        timerFinished = false; // flikkeren stopt
+        displayTime(totalSeconds); // toon tijd
+        BacklightBright(); // zacht licht
+        backlightOn = true;
       }
     }
   }
@@ -131,6 +146,7 @@ void Timer() {
       timerRunning = false; // timer staat stil
       timerFinished = true; // timer is afgelopen
       backlightOn = true; // backlight staat aan
+      updateRgbLed();
     }
   }
 }
@@ -177,20 +193,24 @@ void BacklightOff() {
 void GreenRed() {
   if (digitalRead(buttonGreen) == LOW && (millis() - lastDebounceTimeGreen) > debounceDelay) {
     backlightGreen = true;
-    lcd.setRGB(0, LIGHT_BRIGHT, 0);  // Directe update van het scherm naar groen
-    lastDebounceTimeGreen = millis();  // Update the last debounce time for green button
+    lcd.setRGB(0, LIGHT_BRIGHT, 0);  // LCD backlight naar groen
+    lastDebounceTimeGreen = millis();
     lastInteractionTime = millis();
-    backlightOn = true;  
+    backlightOn = true;
+    lastRedPress = 0;
 
+    updateRgbLed();  // LED-ring updaten naar groen
   }
 
   if (digitalRead(buttonRed) == LOW && (millis() - lastDebounceTimeRed) > debounceDelay) {
     backlightGreen = false;
-    lcd.setRGB(LIGHT_BRIGHT, 0, 0);  // Directe update van het scherm naar rood
-    lastDebounceTimeRed = millis();  // Update the last debounce time for red button
+    lcd.setRGB(LIGHT_BRIGHT, 0, 0);  // LCD backlight naar rood
+    lastDebounceTimeRed = millis();
     lastInteractionTime = millis();
-    backlightOn = true;  
+    backlightOn = true;
+    lastRedPress = millis();
 
+    updateRgbLed();  // LED-ring updaten naar rood
   }
 }
 
@@ -210,11 +230,35 @@ void BacklightBright() {
   }
 }
 
+void updateRgbLed() {
+  if (!timerRunning || timerFinished) {
+    ring.clear();        // alle leds uit
+    ring.show();
+    return;
+  }
+
+  uint32_t color = backlightGreen ? ring.Color(0, 150, 0) : ring.Color(150, 0, 0);
+
+  for (int i = 0; i < 12; i++) {
+    ring.setPixelColor(i, color);
+  }
+  ring.show();
+}
+
+void RedLightOff() {
+  if (!backlightGreen && lastRedPress > 0 && (millis() - lastRedPress) >= REDLIGHT_DELAY) { // na een uur dat het licht op rood staat
+    lastRedPress = 0;
+    backlightGreen = true;
+    backlightOn = true;
+    lcd.setRGB (0, LIGHT_BRIGHT, 0); // backlight op groen
+    updateRgbLed(); // RGB ring op groen
+  }
+}
+
 unsigned long getStepSize() { // stapgrootte bepalen afhankelijk van totalSeconds
-  if (totalSeconds < 10 * 60) return 30;
-  else if (totalSeconds < 30 * 60) return 60;
-  else if (totalSeconds < 60 * 60) return 300;
-  else return 900;
+  if (totalSeconds < 20 * 60) return 60;
+  else if (totalSeconds < 60 * 60) return 5*60;
+  else return 15*60;
 }
 
 void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
@@ -227,3 +271,4 @@ void displayTime(unsigned long seconds) { // totalSeconds omzetten naar HH:MM:SS
   lcd.setCursor(4, 1);
   lcd.print(timeArray); // lcd scherm print ketting
 }
+

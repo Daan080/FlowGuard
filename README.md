@@ -671,7 +671,8 @@ Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer
 | 4.18 | Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden | Develop 3 wave 1 | 17/05/2025 |
 | 4.19 | Het product moet een strakke uitstraling hebben | Develop 1 | 01/03/2025 |
 <br>  
-Hier een [link](https://miro.com/app/board/uXjVIa8oaKs=/?focusWidget=3458764628877495166) naar de design requirements gerangschikt op relevantie en een simpele aanduiding of de requirement al dan niet gehaald is binnen dit project.
+Hier een  naar de design requirements gerangschikt op relevantie en een simpele aanduiding of de requirement al dan niet gehaald is binnen dit project.  
+[link](https://miro.com/app/board/uXjVIa8oaKs=/?focusWidget=3458764628877495166)
 <br>
 
 ## Kritische reflectie

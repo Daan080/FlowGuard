@@ -464,7 +464,7 @@ Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en 
 Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
 <p align="center">
   <img src="/ARDUINO/Opkomende_technologieën/timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring_setup.png" width="40%">
-  <img src="/img/prototype_develop3.1.jpeg" width="47.7%">
+  <img src="/img/prototype_develop3.1.jpeg" width="47.4%">
 </p>
 
 Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologieën/eindcode/eindcode.ino) <br>
@@ -658,13 +658,13 @@ Uit de interviews en gebruikerstesten bleek dat er effectief een nood is aan een
 
 Hoewel er veel nuttige input werd verzameld, was het niet altijd eenvoudig om alles correct te interpreteren. Sommige antwoorden waren tegenstrijdig, wat het analyseren moeilijk maakte. Daarom werd het duidelijk dat personalisatie belangrijk is, zodat het product voor verschillende gebruikers werkt zonder dat het te ingewikkeld wordt.
 
-De volgende uitdaging is het bouwen van een goed werkend prototype, waarbij zowel de vormgeving als de elektronica uitgewerkt moeten worden. Tegelijk blijft het belangrijk om de feedback van de doelgroep te blijven meenemen, zoals we dat vanaf het begin hebben gedaan.
+De volgende uitdaging is het bouwen van een goed werkend prototype, waarbij zowel de vormgeving als de elektronica uitgewerkt moeten worden. Tegelijk blijft het belangrijk om de feedback van de doelgroep te blijven meenemen, zoals vanaf het begin is gebeurd.
 
 ### Semester 2
 Uit het eerste semester bleek dat de juiste testen waren uitgevoerd en dat er relevante data werd verzameld, maar dat de analyse en verwerking van die data duidelijker en gestructureerder hadden gekund. De inzichten uit de testen waren er wel, maar werden niet altijd overzichtelijk genoteerd of toegepast. In het tweede semester bleef het testmateriaal relevant, maar werd er sterker ingezet op het gestructureerd bijhouden van informatie. Dit maakte het makkelijker om alles later om te zetten in een helder en onderbouwd concept.
 
-Het tweede semester begon wel wat stroef, door de lange onderbreking van het project en een vals gevoel dat het concept al bijna af was, maar al snel werd duidelijk dat er nog veel werk aan de winkel was. Na het structureren van de informatie uit het eerste semester konden we helder onderscheiden welke ontwerpkeuzes al vastlagen, welke nog openstonden en welke gebaseerd waren op veronderstellingen.
-Dit gaf richting aan de verdere ontwikkeling en leidde tot een vernieuwd – en op veel vlakken aangepast – concept, dat uiteindelijk werd uitgewerkt tot het finale prototype.
+Het tweede semester begon wel wat stroef, door de lange onderbreking van het project en een vals gevoel dat het concept al bijna af was, maar al snel werd duidelijk dat er nog veel werk aan de winkel was. Na het structureren van de informatie uit het eerste semester konden ontwerpkeuzes helder worden onderscheiden: welke al vastlagen, welke nog openstonden en welke gebaseerd waren op veronderstellingen.
+Dit gaf richting aan de verdere ontwikkeling en leidde tot een vernieuwd, en op veel vlakken aangepast, concept, dat uiteindelijk werd uitgewerkt tot het finale prototype.
 
 ### What's Next?
 Hoewel het project eindigt bij een finaal prototype, heeft FlowGuard nog veel potentieel en ruimte voor verbeteringen en aanpassingen. Zo kan de doelgroep opengetrokken worden naar zowel kleine bedrijven als grote kantoorgebouwen, coworking spaces en onderwijsinstellingen. Verdere gebruikerstesten en onderzoek kunnen meer informatie opleveren over effectiviteit, gebruikerservaring en aanpassingsmogelijkheden.

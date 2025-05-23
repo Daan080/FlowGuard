@@ -343,7 +343,7 @@ Uit de vorige test blijkt dat een centrale hub op het bureau niet van overal te 
 #### Materiaal & methoden
 Omdat er drie verschillende zaken dienen getest te worden en hier uitgebreid wordt op ingegaan wordt geopteerd voor een user interview gepaard met een paar opdrachten waarbij luidop nagedacht dient te worden. De participanten kunnen bij deze opdracht niet in de context worden geïnterviewd door tijdelijke beperkte mobiliteit van het onderzoeksteam.  
 Bij aanvang van de test werd het huidig concept geanalyseerd aan de hand van de 4 fases van het Hook model. (zie bijlagen)  
-Over enkele zaken wordt er in de test naar gevraagd:
+Hieruit kwamen enkele vragen die in het interview werden gesteld:
 - Wat doet een de gebruiker net voor ze het product gebruiken?
 - Is de gsm wegleggen een trigger om te starten met werken?
 - Haalt de gebruiker genoeg rewards uit het product?

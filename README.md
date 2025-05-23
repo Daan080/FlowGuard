@@ -627,12 +627,49 @@ De benodigdheden voor deze zijn:
 | 4.14 | Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken | Develop 3 wave 1 | 17/05/2025 |
 | 4.15 | De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten | Develop 3 wave 1 | 17/05/2025 |
 | 4.16 | Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden | Develop 3 wave 1 | 17/05/2025 |
+<br>
+<br>
 
-## What's Next?
-## Bill of materials
-  
 ## Kritische reflectie
-In het algemeen zit het project op schema. Bij de eerste stappen was er moeite met het afbakenen de essentie en zag men soms door het bos de bomen niet meer. Door de conceptvalidatie kreeg het project echter validatie en feedback wat zorgde voor meer richting. Bij elke stap kwam er meer duidelijkheid en structuur. Er werden signalen gegeven vanuit de doelgroep die aantoonden dat er een probleem is waar nog geen concrete oplossing voor is en waarvan de oplossing zeer gewild is. Het was rap duidelijk dat de doelgroep de leidraad is en hun feedback dit project vooruit zal helpen. Er werd heel veel input via de interviews en gebruikerstesten verkregen, maar het was niet altijd even simpel om met alles rekening te houden en deze zaken correct te analyseren. Dit kwam vooral omdat sommige antwoorden volledig verschilden met anderen. Daarom wordt belang gehecht aan de mogelijkheid om het product te personaliseren voor elke gebruiker, zonder de complexiteit te verhogen. De grootste uitdagingen die nu volgen zijn het prototypen en realiseren van de vorm en elektronica van het product en tevens evenveel belang hechten aan de feedback van de doelgroep als in de eerste fasen.
+### Semester 1
+Het project verloopt over het algemeen goed en volgens planning. In de beginfase was het soms moeilijk om het overzicht te bewaren en de kern van het probleem scherp te stellen. Door de conceptvalidatie kwam er echter waardevolle feedback, waardoor het project meer richting kreeg en de structuur verbeterde.
+
+Uit de interviews en gebruikerstesten bleek dat er effectief een nood is aan een oplossing zoals Flowguard. De doelgroep gaf aan dat het probleem herkenbaar is en dat een oplossing welkom zou zijn. Hun feedback werd dan ook een belangrijke leidraad in het proces.
+
+Hoewel er veel nuttige input werd verzameld, was het niet altijd eenvoudig om alles correct te interpreteren. Sommige antwoorden waren tegenstrijdig, wat het analyseren moeilijk maakte. Daarom werd het duidelijk dat personalisatie belangrijk is, zodat het product voor verschillende gebruikers werkt zonder dat het te ingewikkeld wordt.
+
+De volgende uitdaging is het bouwen van een goed werkend prototype, waarbij zowel de vormgeving als de elektronica uitgewerkt moeten worden. Tegelijk blijft het belangrijk om de feedback van de doelgroep te blijven meenemen, zoals we dat vanaf het begin hebben gedaan.
+
+### Semester 2
+Uit het eerste semester bleek dat de juiste testen waren uitgevoerd en dat er relevante data werd verzameld, maar dat de analyse en verwerking van die data duidelijker en gestructureerder hadden gekund. De inzichten uit de testen waren er wel, maar werden niet altijd overzichtelijk genoteerd of toegepast. In het tweede semester bleef het testmateriaal relevant, maar werd er sterker ingezet op het gestructureerd bijhouden van informatie. Dit maakte het makkelijker om alles later om te zetten in een helder en onderbouwd concept.
+
+Het tweede semester begon wel wat stroef, door de lange onderbreking van het project en een vals gevoel dat het concept al bijna af was, maar al snel werd duidelijk dat er nog veel werk aan de winkel was. Na het structureren van de informatie uit het eerste semester konden we helder onderscheiden welke ontwerpkeuzes al vastlagen, welke nog openstonden en welke gebaseerd waren op veronderstellingen.
+Dit gaf richting aan de verdere ontwikkeling en leidde tot een vernieuwd – en op veel vlakken aangepast – concept, dat uiteindelijk werd uitgewerkt tot het finale prototype.
+
+### What's Next?
+Hoewel het project eindigt bij een finaal prototype, heeft FlowGuard nog veel potentieel en ruimte voor verbeteringen en aanpassingen. Zo kan de doelgroep opengetrokken worden naar zowel kleine bedrijven als grote kantoorgebouwen, coworking spaces en onderwijsinstellingen. Verdere gebruikerstesten en onderzoek kunnen meer informatie opleveren over effectiviteit, gebruikerservaring en aanpassingsmogelijkheden.
+
+Ook op vlak van materiaalgebruik zijn er nog veel opties te verkennen, zoals duurzame of recycleerbare materialen. Op die manier kan het bijdragen aan de uitstraling, maar zal het product ook aantrekkelijker worden voor bedrijven die inzetten op duurzaamheid.
+
+Het businessmodel richt zich dus niet op individuele werknemers, maar op volledige kantoorbedrijven die Flowguard aanschaffen om het welzijn en de productiviteit van hun werknemers te verbeteren. Deze aanpak biedt mogelijkheden om niet alleen hardware, maar ook software aan te bieden en persoonlijke aanpassingen per bedrijf.
+
+Flowguard biedt dus niet alleen een antwoord op een actueel probleem in de werkomgeving, maar vormt ook een basis voor toekomstige innovatie binnen welzijn en werkstructuur.
+<br>
+<br>
+
+## Bill of materials finaal prototype
+- Arduino Nano
+- RGB LCD-scherm
+- Digital Rotary Encoder
+- LED Arcade drukknoppen
+- Adafruit NeoPixel RGB-ledring
+- lamp casing (plexiglas)
+- lamphouder (3D-print)
+- centrale hub (3D-print + lasercut)
+- magneten
+<br>
+<br>
+
 ## Bronnen
 - Nws, V. (2021, 17 mei). Aantal langdurige burn-outs en depressies blijft stijgen tot meer dan 100.000: “Ons brein kent geen rust meer”. vrtnws.be.      https://www.vrt.be/vrtnws/nl/2021/05/17/aantal-burn-outs-en-depressies-blijft-stijgen/
 - Langdurige arbeidsongeschiktheid: Hoeveel langdurige burn-outs en depressies? Hoeveel kost dat aan uitkeringen?  | RIZIV. (z.d.). https://www.riziv.fgov.be/nl/statistieken/statistieken-uitkeringen/langdurige-arbeidsongeschiktheid-hoeveel-langdurige-burn-outs-en-depressies-hoeveel-kost-dat-aan-uitkeringen#Een_toename_van_46%_van_langdurige_burn-outs_en_depressies_in%C2%A05%C2%A0jaar

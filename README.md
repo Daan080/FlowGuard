@@ -83,9 +83,10 @@ Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de 
 <br>
 Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit, gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken, zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken.
 <br>
+<br>
 <ins> Om deze zaken duidelijker te kaderen en te verwoorden in requirements, werd een innovatrix ingevuld (bijlagen)
 <br>
-  
+<br>
 > [!IMPORTANT]
 > Design Requirements:
 > - D1.1 Het product moet pauzes aanraden

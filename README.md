@@ -22,7 +22,7 @@ De oplossing die in dit dossier wordt voorgesteld is een product dat helpt om ee
 
 > [!NOTE]
 > - Links naar volledige protocollen en rapporten met de bijhorende ruwe data zijn terug te vinden onder [bijlagen](#bijlagen).
-> - Arduinocodes, NX-bestanden, 3D-files, renders, ... zijn te vinden in de bijhorende bestanden.
+> - Arduinocodes, NX-bestanden, 3D-files, renders, ... zijn te vinden in de bijhorende mappen.
 
 ## Introductie
 Volgens het Rijksinstituut voor ziekte- en invaliditeitsverzekering (Riziv) zijn 36,44% van de mensen in invaliditeit op 31 december 2021 arbeidsongeschikt door een psychische stoornis en 66,39% daarvan door een depressie of een burn-out. De werkdruk en stress tijdens de job spelen hier een grote rol in, maar ook de constante bereikbaarheid via mail, berichten, sociale media, op de werkvloer, ... zorgen voor een daling in werkefficiëntie met als gevolg een stijging in stress en werkdruk. Stress en werkdruk die te vermijden zijn…

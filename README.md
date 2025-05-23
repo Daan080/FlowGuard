@@ -573,17 +573,37 @@ De benodigdheden voor deze zijn:
 
 #### Resultaten
 ##### Dag 1
+###### <ins>instellingen<ins>
+- De instellingen variëren en zijn meestal rond de 50 minuten tot een uur.
+- Er werd een paar keer ingesteld in functie van een pauze, zo stelt de participant bijvoorbeeld een bepaalde tijd in om om 12 uur te kunnen gaan eten.
+- Er werd slechts 1 maal na afloop van timer extra tijd ingesteld. D
+- De timer werd enkele keren afgesteld op de duur van een taak, zo stelt de participant in de middag 1 uur in met een groene lamp om de mailbox op te kuisen.
+###### <ins>opmerkingen<ins>
+- De participant zat de participant aan een bureau zonder akoustische scheiding, echter kon de lamp op de hoek van het bureau geplaatst worden.
+- De timer helpt om te werken naar een pauze toe, zo wou de participant iets gaan vragen aan een collega, maar heeft eerst nog een kleine 10 minuten gewacht tot de timer afging.
+- De collega's hielden rekenig met het licht, zagen wanneer de participant in pauze was, bereikbaar of onbereikbaar was.
+- Voordelig dat de timer ingesteld kan worden om op een bepaald moment een pauze te pakken, op basis van de duur van een taak of andere zaken.
+
 ##### Dag 3
+###### <ins>instellingen<ins>
+- De meeste instellingen zijn gelijkaardig aan deze van dag 1.
+- De lamp werd 5 minuten op rood gezet voor een belangrijke telefoon.
+- In de middag zet de participant de lamp even op rood, omdat er veel collega's pauze namen, en wou duidleijk maken dat ze nog even ging doorwerken.
+###### <ins>opmerkingen<ins>
+- De collega's hielden rekening met de lamp
+- De lamp was goed zichtbaar voor iedereen
+- De collega's toonden enthousiasme voor het product
+- De particpant was al zeer vertrouwd met het product en maakte amper fouten.
+- Zou het graag nog langer gebruiken om meer effect te zien.
 
 #### Conclusies & implicaties
+- De gebruiker is meer bewust bezig met het plannen van pauzes en werktijden.
+- Timer wordt ingezet om de dag slim te structuren en kan makkelijk aangepast worden in het geval van een wijziging in de planning.
+- Het rood/groen licht is intuïtief en duidelijk in betekenis voor de collega’s.
+- Het knippersignaal wordt heel goed opgemerkt en wordt als vervelend ervaren indien genegeerd (positief). Het dringt de gebruiker op om pauze te nemen.
+- Na 2 dagen went de gebruiker al aan de gevoeligheid van de draaiknop.
 
-
-
-
-> [!IMPORTANT]
-> Design Requirements:
-> - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
-> - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
+Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer aan te passen aan de persoonlijke wensen van de gebruiker. Dit zou het product dan ook voorzien van meer persoonlijke instellingen, wat niet gepaard mag gaan met meer complexiteit.
 <br>
 <br>
 

@@ -198,6 +198,7 @@ Uit het gemiddelde van de 5 testpersonen kunnen een aantal zaken afgeleid worden
 - **Trillen via een armband** biedt een mooie balans: het trekt voldoende aandacht, motiveert goed tot actie en stoort collega's bijna niet. Het signaal is vrij lastig te negeren en op aangenaamheid scoort de armband maar middelmatig.
 
  > “Als stress op een andere manier wordt gemeld, waardoor je zeker weet dat je stress hebt, dan zal dit leiden tot meer stress”
+<br>
 
 ##### <ins> Test 2 (product - collega's):
 <img src="img/wave_2_test_2.png" width="50%">

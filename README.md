@@ -216,6 +216,8 @@ Deze tabel is een samenbundeling van de antwoorden van alle participanten. Voor 
 **Rood en groen** brengen een eenduidige emotie op bij alle participanten. Dit zorgt ervoor dat deze makkelijk geïntegreerd kunnen worden in het concept zonder veel uitleg of moeilijkheden. Een aantal van de andere kleuren brengen oftewel zeer verschillende gevoelens naar boven oftewel zeer neutrale. Deze kunnen met enige duiding gebruikt worden in het product, zonder dat hierover verwarring ontstaat.
 <br>**Blauw, wit en andere meer extrinsieke kleuren**: Deze brengen verwarring en geven ze bij iedereen een ander gevoel. Dit kan misschien voor een specifieke functie/interactie gebruikt worden.
 <br>**Oranje en geel**: Deze staan tussen rood en groen, maar geven ook geen eenduidig gevoel bij de participanten, waardoor ze moeilijker intuïtief te gebruiken zijn.
+<br>
+
 #### Conclusies & implicaties
 Het <ins> communiceren van product naar werknemer </ins> moet eenduidig zijn en genoeg aandacht trekken naar de gebruiker toe. Anderzijds moet worden vermeden dat collega's hiermee worden gestoord. Het product zal dus gebruik maken van een **trillende armband** om met de gebruiker te communiceren. Omdat velen het trilsignaal toch niet zo aangenaam vonden, kan er misschien gewerkt worden naar een masserend trilpatroon. 
 

@@ -268,20 +268,20 @@ De vooraf gemaakte lay-out's voor de website en het tabblad specifiek voor de fu
   <img src="img/tablad_werkomgeving_deelopdracht_3.png" width="40%">
 </p>
 
-Deze kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
+Deze lay-outs kunnen worden getest met volgende link: [prototype websites](https://www.figma.com/design/WJBzaDU9i3cPEKHMzfiFzu/websites?node-id=0-1&m=dev&t=i1vy643DXOuWa7JA-1)
 Naast de lay-out van de website wordt ook 
 <br>
-Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en deze achteraf te analyseren.
+Om de beste lay-out er uit te halen wordt aan de participanten gevraagd om de websites van beste tot minst goed te ranken. Verder wordt gekeken naar moeilijkheden bij het gebruik van de websites door live mee te kijken, maar ook door schermopnames te maken en deze achteraf te analyseren.
 
 #### Resultaten
 ##### <ins> Centrale interface </ins>
-- **Vorm:** Cilinder heeft meest vriendelijke en organische uitstraling en het minst robuust.
-- **Knop tijd instellen:** Draaiknop heeft de voorkeur doordat het mooi in de centrale vorm geïntegreerd kan worden en zeer intuïtief werkt.
-- **Knop aan/uit:** De drukknop krijgt de voorkeur, omdat zijn kleine omvang het minst opvalt. Er moet wel duidelijke feedback zijn in welke staat het zich bevindt. Het mag zich op een minder toegankelijke plek bevinden, aangezien het niet vaak gebruikt zal worden.
-- **Knop starten/stoppen:** Een enkele drukknop die zich vanboven op toestel bevindt, is het best voor gemakkelijke en snelle toegankelijkheid. Het indrukken van deze knop geeft een duidelijk gevoel van de start van een werkperiode. Duidelijkheid over huidige staat van knop is zeer belangrijk, dus daar moet rekening mee gehouden worden.
-- **Knop groen/rood:** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al rap duidelijk door de kleur van het licht.
+- **Vorm.** Een cilinder heeft meest vriendelijke en organische uitstraling en het minst robuust.
+- **Knop tijd instellen.** Een draaiknop heeft de voorkeur doordat deze mooi in de centrale vorm geïntegreerd kan worden en zeer intuïtief werkt.
+- **Knop aan/uit.** De drukknop krijgt de voorkeur, omdat zijn kleine omvang het minst opvalt. Er moet wel duidelijke feedback zijn in welke staat hij zich bevindt. Hij mag zich op een minder toegankelijke plek bevinden, aangezien hij niet vaak gebruikt zal worden.
+- **Knop starten/stoppen.** Een enkele drukknop die zich bovenop het toestel bevindt, is het best voor gemakkelijke en snelle toegankelijkheid. Het indrukken van deze knop geeft een duidelijk gevoel van de start van een werkperiode. Duidelijkheid over huidige staat van knop is zeer belangrijk, dus daar moet rekening mee gehouden worden.
+- **Knop groen/rood.** Twee drukknoppen moeten vrij groot zijn om makkelijk te bedienen, liefst ook op een toegankelijke plaats. De kleurlichten moeten duidelijk zijn en een groot oppervlak bedekken, maar mogen niet te fel zijn. De lichten moeten ook zichtbaar zijn als bureaus visueel van elkaar gescheiden worden. Ook hierbij is de staat van de knop zeer belangrijk, maar die wordt al snel duidelijk door de kleur van het licht.
 
-Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
+Onderstaande interfaces werden ontworpen tijdens het interactief ontwerpen:
 
 <img src="img/interfaces_deelopdracht_3.png" width="70%">
 
@@ -289,9 +289,9 @@ Volgende interfaces werden ontworpen tijdens het interactief ontwerpen:
 <ins> Lay-out </ins>
 - Website 1 is goed door het strak design, maar slechter doordat er meer clicks nodig zijn.
 - Website 2 en 3 worden als gelijkaardig beschouwd en zijn goed doordat de functies duidelijk zijn weergegeven. De voorkeur ging toch naar website 3.
-- Website 4 is goed doordat visueel duidelijk is wat er achter de knoppen zit.
+- Website 4 is goed doordat visueel duidelijk is naar welke tabbladen de knoppen leiden.
 
-Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out:
+Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out: dit is weergegeven in onderstaande tabel.
 
 | participant | lay-out 1 | lay-out 2 | lay-out 3 | lay-out 4 |
 |------|---|---|---|---|
@@ -303,31 +303,31 @@ Er werd ook gevraagd naar een rangschikking van beste naar slechtste lay-out:
 
 <ins> Tablad werkomgeving </ins>
 <br>
-Bij het testen van de interacties op de website werden snel enkele zaken duidelijk. Om alle opmerkingen te zien of enkele schermopnamen kan gekeken worden naar het rapport van deelopdracht 3 (bijlagen). De belangrijkste zaken zijn:
+Bij het testen van de interacties op de website werden snel enkele zaken duidelijk. Om alle opmerkingen te zien of enkele schermopnamen kan gekeken worden naar het rapport van deelopdracht 3 (bijlagen). De belangrijkste zaken zijn hieronder weergegeven.
 - **Tutorial**: Na de website even te proberen en enkele fouten te hebben gemaakt was iedereen ervan overtuigd dat ze deze niet meer opnieuw zouden maken. Een tutorial of korte uitleg over de werking zou dus helpen.
-- **Tijdsaanduiding**: Er moet duidelijker getoond worden als het over uren of minuten gaat. Om dit te duiden met een voorbeeld: de meesten dachten dat 01:20 een timer was voor 1 minuut en 20 seconden, waar 1 uur en 20 minuten werd bedoeld.
-Ook moet duidelijker getoond worden dat dit een aflopende timer is dat overgaat in een pauze wanneer deze eindigt.
+- **Tijdsaanduiding**: Er moet duidelijker getoond worden of het over uren of minuten gaat. Om dit te duiden met een voorbeeld: de meesten dachten dat 01:20 een timer was voor 1 minuut en 20 seconden, waar 1 uur en 20 minuten werd bedoeld.
+Ook moet duidelijker getoond worden dat dit een aflopende timer is die overgaat in een pauze wanneer deze eindigt.
 - **Licht uit**: Men was niet zeker wat de betekenis was van een licht dat niet aan stond.
 
 > "Krijg je een melding als iemand met jouw timer synchroniseert?"
 
 #### Conclusies & implicaties
 Centrale interface:
-Iedereen streeft naar een zo intuïtief mogelijk en esthetisch zo strak mogelijk ontwerp. Knoppen worden het liefst bijna blindelings en met één hand gebruikt. Indien mogelijk worden zo weinig mogelijk knoppen geprefereerd. Knoppen moeten tamelijk gegroepeerd zijn, zodat je er niet achter moet zoeken. Knoppen die vaker gebruikt worden, moeten groter zijn dan knoppen die minder vaak gebruikt worden. Ten slotte moeten knoppen duidelijke feedback geven en er mag geen twijfel zijn over de huidige staat van een product.
-De lamp moet apart van de centrale interface kunnen worden geplaatst. Dit zorgt voor een aanpassing van D4.4 (
+Iedereen streeft naar een zo intuïtief mogelijk en esthetisch zo strak mogelijk ontwerp. Knoppen worden het liefst bijna blindelings en met één hand gebruikt. Indien mogelijk worden zo weinig mogelijk knoppen geprefereerd. Knoppen moeten tamelijk gegroepeerd zijn, zodat je er niet naar moet zoeken. Knoppen die vaker gebruikt worden, moeten groter zijn dan knoppen die minder vaak gebruikt worden. Ten slotte moeten knoppen duidelijke feedback geven en er mag geen twijfel zijn over de huidige staat van een product.
+De lamp moet afzonderlijk van de centrale interface kunnen worden geplaatst. Dit zorgt voor een aanpassing van D4.4
 
 Tabblad Werkomgeving:
 - Er moet een duidelijk onderscheid zijn tussen de timer en de werkstatus.
-- Tijdsaanduiding mag niet verwarrend zijn.
-- Bij eerste gebruik van de website moet er een kleine introductie zijn om duidelijkheid te scheppen.
-- Synchroniseren gebeurt intuïtiever door eerst op naam te klikken en vervolgens op “synchroniseer” of door één grote “synchroniseer”-knop te voorzien en vervolgens op een naam.
+- De tijdsaanduiding mag niet verwarrend zijn.
+- Bij het eerste gebruik van de website moet er een kleine introductie zijn om duidelijkheid te scheppen.
+- Synchroniseren gebeurt intuïtiever door eerst op "naam" te klikken en vervolgens op “synchroniseer” of door één grote “synchroniseer”-knop te voorzien en vervolgens op een naam.
 
 
 > [!IMPORTANT]
 > Design Requirements:
 > - D2.10 Als de gebruiker niet aan de bureau zit gaat het licht uit
 > - D4.4 Het voorkomen van <ins>de lamp</ins> is opvallend en zichtbaar om aandacht op zich te kunnen brengen
-> - D4.6 Het product is in te stellen met 1 hand 
+> - D4.6 Het product is in te stellen met één hand 
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende website heeft bij het eerste gebruik een tutorial
 <br>
@@ -335,13 +335,13 @@ Tabblad Werkomgeving:
 ### Develop 2 (N = 4)
 
 #### Doelstellingen
-Uit de vorige test blijkt dat een ecntrale hub op de bureau niet van overal te zien is. Daarom zal de lamp moeten gescheiden worden van de centrale hub. In deze test worden de laatste onduidelijkheden aangepakt voor een eerste volledig concept kan worden gemaakt. Volgende onduidelijkheden worden onderzocht:
+Uit de vorige test blijkt dat een centrale hub op het bureau niet van overal te zien is, daarom zal de lamp moeten gescheiden worden van de centrale hub. In deze test worden de laatste onduidelijkheden aangepakt voordat een eerste volledig concept kan worden gemaakt. Onderstaande onduidelijkheden worden onderzocht.
 -	Polsen bij gebruiker over plaatsing van de hub en de lamp op het bureau
--	Hook model overlopen met gebruiker
--	Gebruik van armband om te communiceren wordt in twijfel getrokken, dus zoeken naar alternatief
+-	Het "Hook model" wordt overlopen met de gebruiker
+-	Het gebruik van een armband om te communiceren wordt in twijfel getrokken, dus zoeken naar alternatief
 
 #### Materiaal & methoden
-Omdat er 3 verschillende zaken dienen getest te worden en hier uitgebreid op in wordt gegaan wordt geopteerd voor een user interview gepaard met een paar opdrachten waarbij luidop nagedacht dient te worden. De participanten kunnen bij deze opdracht niet in de context worden geïnterviewd door tijdelijke beperkte mobiliteit van het onderzoeksteam.  
+Omdat er drie verschillende zaken dienen getest te worden en hier uitgebreid wordt op ingegaan wordt geopteerd voor een user interview gepaard met een paar opdrachten waarbij luidop nagedacht dient te worden. De participanten kunnen bij deze opdracht niet in de context worden geïnterviewd door tijdelijke beperkte mobiliteit van het onderzoeksteam.  
 Bij aanvang van de test werd het huidig concept geanalyseerd aan de hand van de 4 fases van het Hook model. (zie bijlagen)  
 Over enkele zaken wordt er in de test naar gevraagd:
 - Wat doet een de gebruiker net voor ze het product gebruiken?
@@ -350,13 +350,13 @@ Over enkele zaken wordt er in de test naar gevraagd:
 - Wat vindt men van een puntensysteem, competitie of analyse van persoonlijke vooruitgang als investment om het product te blijven gebruiken?  
 
 Het gebruikte materiaal voor deze test:
-- Smartphone om conversaties op te nemen
-- 4 afgeprinte informed consents
-- Laptop om protocol voor te lezen en resultaten te noteren
+- Een smartphone om conversaties op te nemen
+- Vier afgeprinte informed consents
+- Een laptop om het protocol voor te lezen en de resultaten te noteren
 - Foto’s van bureaus in verschillende opstellingen
-- Arduino circuit met LCD RGB backlight scherm, 2 potentiometers en een schakelaar. De eerste potentiometer bestuurt de lichtsterkte van het scherm en de tweede potentiometer de
+- Arduino circuit met LCD RGB backlight scherm, twee potentiometers en een schakelaar. De eerste potentiometer bestuurt de lichtsterkte van het scherm en de tweede potentiometer de
 knippersnelheid. De schakelaar geeft de keuze om het scherm te laten flikkeren of stil te laten staan.
-De bijhorende code van deze Arduino-opstelling kan men hier vinden: ![arduino code develop 2](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
+De bijhorende code van deze Arduino-opstelling kan men hieronder vinden: ![arduino code develop 2](ARDUINO/Gebruiksgericht_ontwerpen/helderheid_flikkeren/helderheid_flikkeren.ino)
 
 <p align="center">
   <img src="/img/arduino_opstelling_deelopdracht_4.png" width="40%">
@@ -377,14 +377,14 @@ Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 
 ##### <ins> Triggers en de stored value van het product </ins>
-Bij het overlopen van de triggers van het Hook model waren er geen opvallende ondervindingen. De meeste gingen voor het werken een koffie of een thee halen, maar buiten dit waren er niet veel zaken waarop het product kan inspelen.
+Bij het overlopen van de triggers van het "Hook model" waren er geen opvallende bevindingen. De meeste gingen voor het werken een koffie of een thee halen, maar buiten dit waren er niet veel zaken waarop het product kan inspelen.
 > "Koffie halen, en dan begin ik eraan."
 
 Opvallend was het feit dat ieder van de participanten aangaf hun gsm aan de kant te leggen voor ze begonnen met werken. Wanneer werd voorgesteld om misschien de gsm te integreren in het product of de werking van het product afhankelijk te maken van het gsm-gebruik, was er weinig enthousiasme door volgende zaken:
 - De gsm is nodig voor het werk: bellen, Whatsappen, ...
 - Sommigen halen hun gsm niet boven
-- Wat als je je gsm vergeet?
-- Vaak is er authentificatie met de gsm verreist en heb je deze dus ook meerdere malen nodig.
+- Wat als de gsm vergeet wordt vergeten?
+- Vaak is er authenticatie met de gsm verreist en is deze dus ook meerdere malen nodig.
 Het is dus duidelijk dat men de gsm vaak nodig heeft tijdens het werk en dit concept van integratie niet zo interessant zou zijn. Het product kan echter wel een niet essentiële functie hebben met betrekking tot de gsm.
 
 Over het algemeen heeft men het gevoel dat er genoeg stored value zit in het product om het te blijven gebruiken. Bij het vragen naar extra stored value zoals puntensystemen werden volgende zaken aangehaald:
@@ -395,7 +395,7 @@ Over het algemeen heeft men het gevoel dat er genoeg stored value zit in het pro
 ##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
 Eerst werd gekeken wat men dacht over de weglating van de communicatie via de armband en de voorlopige weglating van de stressmeting tijdens dit project. De communicatie van product naar gebruiker zal, gebaseerd op een vorige test, gebeuren aan de hand van flikkerend licht en constant licht via de centrale hub. Iedereen ging akkoord met deze keuze en volgde de gedachtegang.
 
-Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om aan te geven welke lichtintensiteit ze aangenaam vonden tijdens het werken, welke ze wouden wanneer het product wou communiceren en welke snelheid het licht moest flikkeren als het product wou communiceren. De resultaten staan in onderstaande tabel.
+Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om aan te geven welke lichtintensiteit ze aangenaam vonden tijdens het werken, welke ze wilden, wanneer het product wou communiceren en welke snelheid het licht moest flikkeren als het product wou communiceren. De resultaten staan in onderstaande tabel.
 
 | participant | lichtintensiteit constant | lichtintensiteit flikkeren | flikkersnelheid (ms) |
 |------|---|---|---|
@@ -407,10 +407,10 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 
 #### Conclusies & implicaties
 
-##### <ins> lamp- en interface positionering </ins>
-- De scheidingswanden zijn een voorkeurslocatie voor de lampen omdat ze van overal goed zichtbaar zijn en afhankelijk van de kant waarop men de lamp plaatst kan men zien aan wie de lamp toebehoort
+##### <ins> Lamp- en interface positionering </ins>
+- De scheidingswanden zijn een voorkeurslocatie voor de lampen omdat ze van overal goed zichtbaar zijn en men, afhankelijk van de kant waarop men de lamp plaatst, kan men zien aan wie de lamp toebehoort
 - Sommige deelnemers kiezen ook voor een plaatsing op het scherm, maar geven aan dat dit misschien afleidend kan zijn voor zichzelf.
-- De hub wordt het liefst dicht bij het scherm geplaatst, in handbereik.
+- De hub wordt het liefst dicht bij het scherm geplaatst, binnen handbereik.
 - Uniformiteit in plaatsing binnen een organisatie is belangrijk om verwarring te vermijden.
 
 ##### <ins> Triggers en de stored value van het product </ins>
@@ -423,7 +423,7 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 ##### <ins> Gebruik van de armband en flikkerend licht als alternatief </ins>
 - De testpersonen gaan akkoord met onze vaststellingen rond de armband en het nieuwe alternatief: het flikkerlicht.
 - Er is geen bezwaar tegen het weglaten van de stressmeting in dit project, vanwege de tijdsafbakening en de complexiteit.
-- In het algemeen moet de lichtintensiteit voor het signaal hoger zijn dan bij normaal gebruik en moet het licht snel genoeg flikkeren om op te vallen, maar niet te snel om te storen. De exacte waarden worden hier samengevat:
+- In het algemeen moet de lichtintensiteit voor het signaal hoger zijn dan bij normaal gebruik en moet het licht snel genoeg flikkeren om op te vallen, maar niet te snel om te storen. De exacte waarden worden in onderstaande tabel opgelijst.
 
 | participant | lichtintensiteit constant | lichtintensiteit flikkeren | flikkersnelheid (ms) |
 |------|---|---|---|
@@ -432,7 +432,7 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 > [!IMPORTANT]
 > Design Requirements:
 > - D2.4 ~~Stress moet gemeten en gecommuniceerd worden~~
-> - D4.9 De stressmeting is een optie dat het eerste product niet zal bevatten
+> - D4.9 De stressmeting is een optie die het eerste product niet zal bevatten
 > - D2.8 ~~Communiceren van product naar gebruiker gebeurt met een trillend, masserend patroon op de pols~~
 > - D2.11 Communiceren van product naar gebruiker gebeurt met een ledscherm
 > - D4.10 De lamp moet zowel op een verticale als een horizontale vlakte bevestigd kunnen worden
@@ -450,22 +450,22 @@ Bij het testen met de Arduino-opstelling werd aan de participanten gevraagd om a
 #### Doelstellingen
 Na de vorige testen bleven slechts enkele onduidelijkheden over. Omdat deze niet genoeg waren om een test rond op te bouwen werd een concept uitgewerkt aan de hand van de requirements, tevens een finaal concept voor dit product wegens de tijdsafbakening. Dit concept werd zowel functioneel als esthetisch geprototyped om op die manier een usability test te kunnen doen waarbij nieuwe onduidelijkheden/problemen naar boven zullen komen om verder onderzoek mogelijk te maken. De doelstelling voor deze test is dus om de doelgroep te laten interageren met het product, de sterke en de zwakke punten eruit halen, de overgebleven onduidelijkheden/te onderzoeken zaken aan te pakken: 
 - Hoe lang mag het licht maximaal op rood staan voordat het vanzelf uitvalt?
-- Zijn 3 verschillende levels van lichtsterkte duidelijk in betekenis en visueel?
+- Zijn de drie verschillende levels van lichtsterkte duidelijk in betekenis en visueel?
 - Is de tijd vlot en intuïtief in te stellen met de huidige stapgroottes?
     - 30 sec (< 10 min)
     - 1 min (< 30 min)
     - 5 min (< 1 uur)
     - 15 min (> 1 uur)
-- Hoe wordt de mogelijkheid van draadloos opladen van je gsm ervaren met daarbij de functie om meldingen vanzelf uit te schakelen?
+- Hoe wordt de mogelijkheid van draadloos opladen van de gsm ervaren met daarbij de functie om meldingen vanzelf uit te schakelen?
 
 #### Materiaal & methoden
-Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen. Na eliminatie en keuzes aan de hand van design requirements werd het rechter concept gekozen.
+Om het concept uit te werken werden eerst de designrequirements geordend op basis van hun belang. Hierna werden meerdere concepten geschetst, meerdere mogelijkheden uitgetekend en werd dan gekeken welke voldeden aan de designrequirements. Hieronder ziet men een overzicht van de schetsen. Na eliminatie en keuzes aan de hand van design requirements werd concept gekozen dat hieronder aan de rechterkant wordt geplaatst.
 <p align="center">
   <img src="/img/schetsen_deelopdracht_5.png" width="50%">
   <img src="/img/conceptschets_deelopdracht_5.jpg" width="38%">
 </p>
 
-Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de website van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en SD gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen staan hieronder.
+Om aan de requirements te voldoen werden sommige onderdelen van het prototype ontworpen aan de hand van ergonomie. Hiervoor werd de website van [DINBelg](https://www.dinbelg.be/) geraadpleegd. Omwille van de context werden volgende gemiddelden en standaarddeviaties (SD) gebruikt voor mannen en vrouwen van 18-65 jaar in zittende positie: handbreedte (knop, variërend met SD), ooghoogte en ellebooghoogte (berekeningen hoek van scherm, gemiddelde bureauhoogte = gemiddelde ellebooghoogte) en de reikafstand (berekening hoek van scherm + plaatsing hub). De bijhorende, verduidelijkende schetsen zijn hieronder te zien.
 <p align="center">
   <img src="/img/ergonomieschetsen_deelopdracht_5.png" width="40%">
 </p>
@@ -475,41 +475,41 @@ Deze combinatie van instellen van de timer, kleur van lamp, kleur van scherm en 
 
 <img src="/img/functioneel_schema_scherm,lamp.png" width="50%">
 
-Om de werking hiervan te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
+Om de werking van deze lamp te simuleren werd volgende Arduinocircuit gebouwd en geïntegreerd in het prototype, gemaakt volgens de conceptschets en met behulp van lasercutten en 3D-printen.
 <p align="center">
   <img src="/ARDUINO/Opkomende_technologieën/timer_met_RGB_backlight_en_RGB_ring/timer_met_RGB_backlight_en_RGB_ring_setup.png" width="40%">
   <img src="/img/prototype_develop3.1.jpeg" width="46.8%">
 </p>
 
 Bij dit circuit hoort volgende code: ![arduino code develop 3.1](ARDUINO/Opkomende_technologieën/eindcode/eindcode.ino) <br>
-De test zelf bestaat uit een producttest en -validatie, gecombineerd met bijhorende vragen. Een link naar het protocol kan men vinden in de bijlagen.
+De test zelf bestaat uit een producttest en -validatie, gecombineerd met bijhorende vragen.
 
 #### Resultaten
 ##### <ins> eerste confrontatie + vrije interactie </ins>
-Bij het confronteren van de doelgroep met het product, na een korte introductie, lukt het iedere participant, zonder uitzondering, om alle delen van het product aan de juiste functie te koppelen. De enige fout die er werd gemaakt was het feit of op het scherm je focusstatus zou uitgetypt worden of niet.
+Bij het confronteren van de doelgroep met het product, na een korte introductie, lukt het iedere participant, zonder uitzondering, om alle delen van het product aan de juiste functie te koppelen. De enige fout die er werd gemaakt was het feit of op het scherm de focusstatus zou uitgetypt worden of niet.
 
 De vorm van de hub lijkt niet storend te zijn, maar heeft nog ruimte voor verbetering. Zo halen sommigen aan dat de ronde, ergonomische knop niet samen hoort bij de strakke voorkant waar het scherm zit. De mogelijke vormgevingen werden echter beperkt tijdens het prototypen door de beschikbare componenten. Zo kon het product niet kleiner worden geprototyped dan de huidige opstelling. In de toekomst is er dus nog ruimte om betere, kleinere componenten te gebruiken om tijdens het ontwerpen van de hub nog meer vormvrijheid te hebben.
-Buiten deze kritiek zagen de participanten het product voor zich op hun bureau en zag het er simpel uit. 
+Buiten deze feedback zagen de participanten het product voor zich op hun bureau en zag het er simpel uit. 
 
 > "Het lijkt een beetje op een apothekerweegschaal"
 
-Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen tussenkomst nodig van de onderzoekers. Nog niet alle functies werden echter uitgeprobeerd.
+Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen tussenkomst nodig van de onderzoekers. Nog niet alle functies van het product werden uitgeprobeerd.
 
 ##### <ins> testen van enkele scenario's </ins>
 **Plaatsen**
 (centrale hub met lamp worden aan de gebruiker gegeven; de lamphouder wordt geplaatst op een plek, aangegeven door de participant)
 1.	Waar zou jij de lamp plaatsen? <br>
    De meesten plaatsten deze op een hogere positie, zoals een akoestisch paneel of een muur, een minderheid plaatste hem op de hoek van hun bureau
-2.	Verplaats de centrale hub met de lamp naar uw bureau <br>
+2.	Verplaats de centrale hub met de lamp naar je bureau <br>
    Hier werden geen problemen ondervonden
-3.	Geef de centrale hub een bereikbare plaats op uw bureau <br>
+3.	Geef de centrale hub een bereikbare plaats op je bureau <br>
    Meesten kiezen rechts van de laptop, sommigen links
 4.	Plaats de lamp in de lamphouder <br>
    Geen problemen ondervonden <br> <br>
 **Instellen**
 (product wordt met stroom geconnecteerd)
 5.	Stel een werktijd van 01:15:00 in <br>
-   Hier werden sommigen verrast door de gevoeligheid van de knop en hoe deze plots grotere stappen zette. Na 1 maal dit te hebben gedaan, was dit geen probleem meer.
+   Hier werden sommigen verrast door de gevoeligheid van de knop en hoe deze plots grotere stappen zette. Na eenmaal dit te hebben gedaan, was dit geen probleem meer.
   	Een participant stelt per ongeluk 1 minuut en 30 seconden in en start de timer. Toch beseft ze dit zelf en kan met gemak de juiste tijd instellen. Voor het grootste deel ging dit zeer vlot.
    > "Amai, dat gaat vlot!"
 6. Start de timer <br>
@@ -520,7 +520,7 @@ Tijdens de vrije interactie werden niet veel problemen ondervonden, er was geen 
 8.	Voeg een kwartier toe aan de tijd <br>
    Iedere participant probeert meteen te draaien aan de draaiknop, wanneer ze geen verandering zien in de timer begrijpen de meeste participanten dat ze eerst op pauze moeten drukken. Een meerderheid van de
    participanten kan de opdracht uitvoeren onder de 5 seconden en begrijpt het nut van deze constraint. Bij een tweetal participanten moeten de onderzoekers even tussenkomen, maar begrijpen ze het ook snel.
-9.	Leg uw gsm op de centrale hub om hem op te laden <br>
+9.	Leg je gsm op de centrale hub om hem op te laden <br>
     Geen probleem
 10.	Verlaag de timer naar 1 minuut en toon aan je collega’s dat je gestoord mag worden opbergen (product wordt uitgeschakeld) <br>
     Niemand maakt nog fouten na stap 8. Dit toont dat de fouten die bij vraag 8 werden gemaakt geen invloed hebben op de werking van het product of hoe intuïtief deze werking gaat.
@@ -532,17 +532,17 @@ Opdracht 10 is zo opgesteld, dat de timer tijdens opdracht 11 zal afgaan en dit 
 Iedere participant, zonder uitzondering, werd meteen afgeleid en zag het signaal. Dit betekent dat het signaal efficiënt en effectief is. Er werd echter wel terecht opgemerkt dat er niet direct een knop is om dit signaal af te zetten, behalve de timer opnieuw instellen. Dit is een simpel, maar belangrijk op te lossen probleem.
 
 ##### <ins> bespreking voorgaande testen en onduidelijkheden </ins>
-- De plaatsing van de lamp werd door alle participanten ervaren als gemakkelijk, de magneten helpen hierbij, en stevig, met ruime plaatsmogelijkheden. Er waren enkele bezorgdheden of de lamphouder wel geplaatst kon worden op akoestische panelen en hoe stevig dit zou zijn en of het op iedere achterkant van een scherm kon hangen (niet altijd recht).
+- De plaatsing van de lamp werd door alle participanten ervaren als gemakkelijk (de magneten helpen hierbij) en voelt stevig aan, met ruime plaatsingsmogelijkheden. Er waren enkele bezorgdheden of de lamphouder wel geplaatst kon worden op akoestische panelen en hoe stevig dit zou zijn en of het op iedere achterkant van een scherm kon hangen (die niet altijd recht is, maar vaak een gebogen vorom heeft).
 > “Stevig, duidelijk, je kan niet missen”
-- Alle participanten vonden het gebruik zeer simpel en intuïtief, de constraint dat je eerst op pauze moet drukken voor je de timer kan herinstellen vond iedereen goed. Iedere fout dat werd gemaakt gingen de participanten slechts 1 keer maken.
-Verder werd het ontbreken van een aan/uit-knop aangehaald, de associatie met een microgolftimer en dat de hub staat niet supervast op de bureau.
-- De 3 verschillende lichtsterktes van het scherm, afhankelijk van de tijd en status van de timer, werd niet door iedereen opgemerkt, wat positief is aangezien dit niet mag storen, behalve als timer afgaat. Nadat de onderzoekers dit nog eens toonden en de functie ervan aangaven, bevestigden alle participanten dat dit goed en nodig is. De meeste participanten halen aan dat het flikkersignaal, aangevend dat de timer afgelopen is, goed afleidt, maar snel afgezet moet kunnen worden.
+- Alle participanten vonden het gebruik zeer simpel en intuïtief, de constraint dat er eerst op pauze moet gedrukt worden voor de de timer kan heringesteld worden, vond iedereen goed. Iedere fout dat werd gemaakt gingen de participanten slechts 1 keer maken.
+Verder werd het ontbreken van een aan/uit-knop aangehaald, de associatie met een microgolftimer en dat de hub niet zeer vast staat op het bureau.
+- De drie verschillende lichtsterktes van het scherm, afhankelijk van de tijd en status van de timer, werden niet door iedereen opgemerkt, wat positief is aangezien dit niet mag storen, behalve als timer afgaat. Nadat de onderzoekers dit nog eens toonden en de functie ervan aangaven, bevestigden alle participanten dat dit goed en nodig is. De meeste participanten halen aan dat het flikkersignaal, aangevend dat de timer afgelopen is, goed afleidt, maar snel afgezet moet kunnen worden.
 > "Het is goed dat je niet je aandacht erop vestigt tijdens het werken."
 - Het instellen van de timer, met name de variabele stapgroottes, vond niet iedereen even intuïtief. Zo werd meerdere malen aangehaald dat de stapgroottes in het begin te klein zijn in vergelijking met de stapgroottes op het einde en dat men daarom snel draait in het begin, niet direct stopt en plots meerdere uren op de timer heeft ingesteld. Als inbreng wordt meerdere malen een constante stapgrootte van 5 minuten voorgesteld. Dit sluit ook aan bij de pomodoromethode.
 Anderzijds wordt ook aangehaald dat het een kwestie is van gewoon worden en wordt wederom de associatie gelegd met een microgolfoven.
-- Bij het vragen naar de maximale tijd dat de gebruiker op focusmodus kan staan, om te vermijden dat de gebruiker zich hele dag afsluit van zijn omgeving, werd door alle gebruikers bevestigd dat er een limiet op moest staan. Echter gaven sommigen aan dat ze vertrouwen hadden in het feit dat iedereen dit voor zichzelf moest bepalen en moest naleven, sommigen zeiden max. een half uur en sommigen max. een uur. Een interessante ingeving was om te kijken wat de wetenschap hierover zegt: hoelang kan een persoon zich aan een stuk concentreren.
-- De mogelijkheid om de lamp en gsm draadloos op te laden, en afhankelijk van je werkstatus bepaalde meldingen af te zetten, wordt door iedereen geapprecieerd. Dit zou helpen met focussen, maar ook met het wegleggen van de gsm, interactie met het product, besparen van stopcontacten en opladen van de lamp.
-Dit is tevens de uitknop van het product: Als de lamp op het product wordt gelegd, schakelt de hub uit. Op die manier vergeet men niet de lamp op te laden in de avond en moet geen aan/uit-knop in de interface toegevoegd te worden, wat zorgt voor minder mogelijke gebruiksfouten.
+- Bij het vragen naar de maximale tijd dat de gebruiker op focusmodus kan staan, om te vermijden dat de gebruiker zich hele dag afsluit van zijn omgeving, werd door alle gebruikers bevestigd dat er een limiet op moest staan. Echter gaven sommigen aan dat ze vertrouwen hadden in het feit dat iedereen dit voor zichzelf moest bepalen en moest naleven, sommigen zeiden maximaal een half uur en sommigen maximaal een uur. Een interessante ingeving was om te kijken wat de wetenschap hierover zegt: hoelang kan een persoon zich aan een stuk concentreren.
+- De mogelijkheid om de lamp en gsm draadloos op te laden, en afhankelijk van de werkstatus bepaalde meldingen af te zetten, wordt door iedereen geapprecieerd. Dit zou helpen met focussen, maar ook met het wegleggen van de gsm, interactie met het product, besparen van stopcontacten en opladen van de lamp.
+Dit is tevens de uitknop van het product: als de lamp op het product wordt gelegd, schakelt de hub uit. Op die manier vergeet men niet de lamp op te laden in de avond en moet er geen aan/uit-knop in de interface toegevoegd te worden, wat zorgt voor minder mogelijke gebruiksfouten.
 
 #### Conclusies & implicaties
 ##### <ins> eerste confrontatie + vrije interactie </ins>
@@ -566,8 +566,8 @@ Dit is tevens de uitknop van het product: Als de lamp op het product wordt geleg
 > - D1.5 De focusmodus kan maximaal een uur worden gebruikt, daarna moet deze status opnieuw worden bevestigd
 > - D2.14 Het flikkeren van het scherm bij afloop van de timer kan met 1 beweging worden afgezet.
 > - D4.14 Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken
-> - D4.15 De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten
-> - D4.16 Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden
+> - D4.15 De stapgrootte is tot 20 minuten per 1 minuut, tot een uur per 5 minuten en vanaf een uur per 15 minuten
+> - D4.16 Het product heeft de mogelijkheid om een gsm en de lamp draadloos op te laden
 <br>
 
 ### Develop 3: WAVE 2 (N = 1)
@@ -579,43 +579,43 @@ De doelstelling voor deze test zijn dus:
 - Houden collega’s rekening met het product?
 
 #### Materiaal & methoden
-De test bestaat uit een Diary Study van een testpersoon over een tijdspanne van 3 dagen. Een link naar het protocol kan men vinden in de bijlagen (Develop 3).
+De test bestaat uit een Diary Study van een testpersoon over een tijdspanne van drie dagen. Een link naar het protocol kan men vinden in de bijlagen (Develop 3).
 De benodigdheden voor deze zijn:
-- prototype dat op zichzelf kan functioneren (zie wave 1 voor afbeelding)
-- laptop voor notities van participant
-- werkomgeving
+- een prototype dat op zichzelf kan functioneren (zie wave 1 voor afbeelding)
+- een laptop voor notities van participant
+- een kantooromgeving
 
 #### Resultaten
 ##### Dag 1
 ###### <ins>instellingen<ins>
 - De instellingen variëren en zijn meestal rond de 50 minuten tot een uur.
 - Er werd een paar keer ingesteld in functie van een pauze, zo stelt de participant bijvoorbeeld een bepaalde tijd in om om 12 uur te kunnen gaan eten.
-- Er werd slechts 1 maal na afloop van timer extra tijd ingesteld. D
+- Er werd slechts eenmaal na afloop van timer extra tijd ingesteld.
 - De timer werd enkele keren afgesteld op de duur van een taak, zo stelt de participant in de middag 1 uur in met een groene lamp om de mailbox op te kuisen.
 ###### <ins>opmerkingen<ins>
-- De participant zat de participant aan een bureau zonder akoustische scheiding, echter kon de lamp op de hoek van het bureau geplaatst worden.
+- De participant zat aan een bureau zonder akoestische scheiding, echter kon de lamp op de hoek van het bureau geplaatst worden.
 - De timer helpt om te werken naar een pauze toe, zo wou de participant iets gaan vragen aan een collega, maar heeft eerst nog een kleine 10 minuten gewacht tot de timer afging.
-- De collega's hielden rekenig met het licht, zagen wanneer de participant in pauze was, bereikbaar of onbereikbaar was.
-- Voordelig dat de timer ingesteld kan worden om op een bepaald moment een pauze te pakken, op basis van de duur van een taak of andere zaken.
+- De collega's hielden rekening met het licht, zagen wanneer de participant in pauze was, bereikbaar of onbereikbaar was.
+- Een voordeel dat de timer ingesteld kan worden om op een bepaald moment een pauze te pakken, op basis van de duur van een taak of andere zaken.
 
 ##### Dag 3
 ###### <ins>instellingen<ins>
 - De meeste instellingen zijn gelijkaardig aan deze van dag 1.
 - De lamp werd 5 minuten op rood gezet voor een belangrijke telefoon.
-- In de middag zet de participant de lamp even op rood, omdat er veel collega's pauze namen, en wou duidleijk maken dat ze nog even ging doorwerken.
+- In de middag zet de participant de lamp even op rood, omdat er veel collega's pauze namen, en wou duidelijk maken dat ze nog even ging doorwerken.
 ###### <ins>opmerkingen<ins>
 - De collega's hielden rekening met de lamp
 - De lamp was goed zichtbaar voor iedereen
 - De collega's toonden enthousiasme voor het product
-- De particpant was al zeer vertrouwd met het product en maakte amper fouten.
-- Zou het graag nog langer gebruiken om meer effect te zien.
+- De participant was al zeer vertrouwd met het product en maakte amper fouten.
+- De participant zou het product graag nog langer gebruiken om meer effect te zien.
 
 #### Conclusies & implicaties
 - De gebruiker is meer bewust bezig met het plannen van pauzes en werktijden.
-- Timer wordt ingezet om de dag slim te structuren en kan makkelijk aangepast worden in het geval van een wijziging in de planning.
+- De timer wordt ingezet om de dag slim te structuren en kan gemakkelijk aangepast worden in het geval van een wijziging in de planning.
 - Het rood/groen licht is intuïtief en duidelijk in betekenis voor de collega’s.
-- Het knippersignaal wordt heel goed opgemerkt en wordt als vervelend ervaren indien genegeerd (positief). Het dringt de gebruiker op om pauze te nemen.
-- Na 2 dagen went de gebruiker al aan de gevoeligheid van de draaiknop.
+- Het knippersignaal wordt heel goed opgemerkt en wordt als vervelend ervaren indien genegeerd (positief): het dringt de gebruiker op om pauze te nemen.
+- Na twee dagen went de gebruiker al aan de gevoeligheid van de draaiknop.
 
 Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer aan te passen aan de persoonlijke wensen van de gebruiker. Dit zou het product dan ook voorzien van meer persoonlijke instellingen, wat niet gepaard mag gaan met meer complexiteit.
 <br>
@@ -650,7 +650,7 @@ Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer
 | 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast | Definition (wave 1) | 01/12/2024 |
 | 4.4 | Het voorkomen van de lamp is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
 | 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
-| 4.6 | De hub is in te stellen met 1 hand | Development 1 | 01/03/2024 |
+| 4.6 | De hub is in te stellen met één hand | Development 1 | 01/03/2024 |
 | 4.7 | De knoppen of instellingen geven geen twijfel over hun status | Development 1 | 01/03/2024 |
 | 4.8 | De ondersteunende website heeft bij het eerste gebruik een tutorial | Development 1 | 01/03/2025 |
 | 4.9 | De stressmeting is een optie dat het eerste product niet zal bevatten | Development 2 | 17/04/2025 |
@@ -670,14 +670,14 @@ Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer
 ### Semester 1
 Het project verloopt over het algemeen goed en volgens planning. In de beginfase was het soms moeilijk om het overzicht te bewaren en de kern van het probleem scherp te stellen. Door de conceptvalidatie kwam er echter waardevolle feedback, waardoor het project meer richting kreeg en de structuur verbeterde.
 
-Uit de interviews en gebruikerstesten bleek dat er effectief een nood is aan een oplossing zoals Flowguard. De doelgroep gaf aan dat het probleem herkenbaar is en dat een oplossing welkom zou zijn. Hun feedback werd dan ook een belangrijke leidraad in het proces.
+Uit de interviews en gebruikerstesten bleek dat er effectief nood is aan een oplossing zoals de FlowGuard. De doelgroep gaf aan dat het probleem herkenbaar is en dat een oplossing welkom zou zijn. Hun feedback werd dan ook een belangrijke leidraad in het proces.
 
 Hoewel er veel nuttige input werd verzameld, was het niet altijd eenvoudig om alles correct te interpreteren. Sommige antwoorden waren tegenstrijdig, wat het analyseren moeilijk maakte. Daarom werd het duidelijk dat personalisatie belangrijk is, zodat het product voor verschillende gebruikers werkt zonder dat het te ingewikkeld wordt.
 
 De volgende uitdaging is het bouwen van een goed werkend prototype, waarbij zowel de vormgeving als de elektronica uitgewerkt moeten worden. Tegelijk blijft het belangrijk om de feedback van de doelgroep te blijven meenemen, zoals vanaf het begin is gebeurd.
 
 ### Semester 2
-Uit het eerste semester bleek dat de juiste testen waren uitgevoerd en dat er relevante data werd verzameld, maar dat de analyse en verwerking van die data duidelijker en gestructureerder hadden gekund. De inzichten uit de testen waren er wel, maar werden niet altijd overzichtelijk genoteerd of toegepast. In het tweede semester bleef het testmateriaal relevant, maar werd er sterker ingezet op het gestructureerd bijhouden van informatie. Dit maakte het makkelijker om alles later om te zetten in een helder en onderbouwd concept.
+Uit het eerste semester bleek dat de juiste testen waren uitgevoerd en dat er relevante data werd verzameld, maar dat de analyse en verwerking van die data duidelijker en gestructureerder hadden gekund. De inzichten uit de testen waren er wel, maar werden niet altijd overzichtelijk genoteerd of toegepast. In het tweede semester bleef het testmateriaal relevant, maar werd er sterker ingezet op het gestructureerd bijhouden van informatie. Dit maakte het makkelijker om alle informatie later om te zetten in een helder en onderbouwd concept.
 
 Het tweede semester begon wel wat stroef, door de lange onderbreking van het project en een vals gevoel dat het concept al bijna af was, maar al snel werd duidelijk dat er nog veel werk aan de winkel was. Na het structureren van de informatie uit het eerste semester konden ontwerpkeuzes helder worden onderscheiden: welke al vastlagen, welke nog openstonden en welke gebaseerd waren op veronderstellingen.
 Dit gaf richting aan de verdere ontwikkeling en leidde tot een vernieuwd, en op veel vlakken aangepast, concept, dat uiteindelijk werd uitgewerkt tot het finale prototype.

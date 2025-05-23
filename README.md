@@ -84,7 +84,7 @@ Het onderdeel werkefficiëntie is zeker een hoofdzaak en staat verbonden met de 
 Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoening heeft na een werkdag. Dit, gepaard met aansporing tot meer fysieke beweging en de eerder vermelde zaken, zou het product veel mogelijkheden bieden om de werkvloer aangenamer en minder stressvol te  maken.
 <br>
 <ins> Om deze zaken duidelijker te kaderen en te verwoorden in requirements, werd een innovatrix ingevuld (bijlagen)
-
+<br>
 > [!IMPORTANT]
 > Design Requirements:
 > - D1.1 Het product moet pauzes aanraden
@@ -97,9 +97,9 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 > - D2.4 Stress moet gemeten en gecommuniceerd worden
 > - D3.1 Gebruiker voldoening hebben aan einde van de dag
 > - D4.1 Stress wordt gemeten a.d.h.v. hartslagvariabiliteit 
-
+<br>
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
-
+  
   <img src="img/discovery.png" width="70%">
 <br>
 <br>

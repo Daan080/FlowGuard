@@ -328,11 +328,13 @@ Tabblad Werkomgeving:
 
 > [!IMPORTANT]
 > Design Requirements:
+> - D1.6 Het starten van de timer moet aanvoelen als een mentale omschakeling van pauze naar werk
 > - D2.10 Als de gebruiker niet aan de bureau zit gaat het licht uit
-> - D4.4 Het voorkomen van <ins>de lamp</ins> is opvallend en zichtbaar om aandacht op zich te kunnen brengen
+> - D4.4 Het ontwerp van <ins>de lamp</ins> is opvallend en zichtbaar om aandacht op zich te kunnen brengen
 > - D4.6 Het product is in te stellen met één hand 
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende website heeft bij het eerste gebruik een tutorial
+> - 4.19 Het product moet een strakke uitstraling hebben
 <br>
 
 ### Develop 2 (N = 4)
@@ -632,6 +634,7 @@ Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer
 | 1.3 | Onnodige meldingen op de gsm moeten weggefilterd worden | user interviews | 27/10/2024 |
 | 1.4 | Werktijd en pauzetijd moeten duidelijk gescheiden worden | user interviews | 27/10/2024 |
 | 1.5 | De focusmodus kan maximaal een uur worden gebruikt, daarna moet deze status opnieuw worden ingesteld | Develop 3 wave 1 | 17/05/2025 |
+| 1.6 | Het starten van de timer moet aanvoelen als een mentale omschakeling van pauze naar werk | Develop 1 | 01/03/2025 |
 |*Groep 2* | *Communicatie* |  |  |
 | 2.1 | Werkstatus moet onderling gedeeld kunnen worden | Definition (wave 1) | 01/12/2024 |
 | 2.2 | Een focusstand moet gebruiker ongestoorde rust bieden | user interviews | 27/10/2024 |
@@ -651,21 +654,23 @@ Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer
 | 4.1 | Stress wordt gemeten a.d.h.v. hartslagvariabiliteit  | liturature review | 01/12/2024 |
 | 4.2 | Het product is snel en intuïtief in te stellen | Definition (wave 1) | 30/10/2024 |
 | 4.3 | Het product kan op elk moment opnieuw worden ingesteld of de instellingen worden aangepast | Definition (wave 1) | 01/12/2024 |
-| 4.4 | Het voorkomen van de lamp is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
+| 4.4 | Het ontwerp van de lamp is opvallend en zichtbaar om aandacht op zich te kunnen brengen | Definition (wave 1) | 01/12/2024 |
 | 4.5 | Tekst op het product dient in het Nederlands te zijn| Definition (wave 1) | 01/12/2024 |
-| 4.6 | De hub is in te stellen met één hand | Development 1 | 01/03/2024 |
-| 4.7 | De knoppen of instellingen geven geen twijfel over hun status | Development 1 | 01/03/2024 |
-| 4.8 | De ondersteunende website heeft bij het eerste gebruik een tutorial | Development 1 | 01/03/2025 |
-| 4.9 | De stressmeting is een optie dat het eerste product niet zal bevatten | Development 2 | 17/04/2025 |
-| 4.10 | De lamp moet zowel op een verticale als een horizontale vlakte bevestigd kunnen worden | Development 2 | 17/04/2025 |
-| 4.11 | De hub staat binnen handbereik van de gebruiker | Development 2 | 17/04/2025 |
-| 4.12 | Het product wordt aangeschaft door een bedrijf/organisatie, zodat iedereen deze kan gebruiken | Development 2 | 17/04/2025 |
-| 4.13 | Tijdens het werken staat het ledscherm van de hub op helderheid 25 | Development 2 | 17/04/2025 |
-| 4.14 | Het instellen van het product moet geintegreerd worden in de dagelijkse werkroutine | Development 2 | 17/04/2025 |
-| 4.15 | De integratie van de gsm mag geen verplichting zijn voor het gebruik van het product | Development 2 | 17/04/2025 |
+| 4.6 | De hub is in te stellen met één hand | Develop 1 | 01/03/2024 |
+| 4.7 | De knoppen of instellingen geven geen twijfel over hun status | Develop 1 | 01/03/2024 |
+| 4.8 | De ondersteunende website heeft bij het eerste gebruik een tutorial | Develop 1 | 01/03/2025 |
+| 4.9 | De stressmeting is een optie dat het eerste product niet zal bevatten | Develop 2 | 17/04/2025 |
+| 4.10 | De lamp moet zowel op een verticale als een horizontale vlakte bevestigd kunnen worden | Develop 2 | 17/04/2025 |
+| 4.11 | De hub staat binnen handbereik van de gebruiker | Develop 2 | 17/04/2025 |
+| 4.12 | Het product wordt aangeschaft door een bedrijf/organisatie, zodat iedereen deze kan gebruiken | Develop 2 | 17/04/2025 |
+| 4.13 | Tijdens het werken staat het ledscherm van de hub op helderheid 25 | Develop 2 | 17/04/2025 |
+| 4.14 | Het instellen van het product moet geintegreerd worden in de dagelijkse werkroutine | Develop 2 | 17/04/2025 |
+| 4.15 | De integratie van de gsm mag geen verplichting zijn voor het gebruik van het product | Develop 2 | 17/04/2025 |
 | 4.16 | Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken | Develop 3 wave 1 | 17/05/2025 |
 | 4.17 | De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten | Develop 3 wave 1 | 17/05/2025 |
 | 4.18 | Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden | Develop 3 wave 1 | 17/05/2025 |
+| 4.19 | Het product moet een strakke uitstraling hebben | Develop 1 | 01/03/2025 |
+
 <br>
 <br>
 

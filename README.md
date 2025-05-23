@@ -339,7 +339,14 @@ Uit de vorige test blijkt dat een ecntrale hub op de bureau niet van overal te z
 -	Gebruik van armband om te communiceren wordt in twijfel getrokken, dus zoeken naar alternatief
 
 #### Materiaal & methoden
-Omdat er 3 verschillende zaken dienen getest te worden en hier uitgebreid op in wordt gegaan wordt geopteerd voor een user interview gepaard met een paar opdrachten waarbij luidop nagedacht dient te worden. De participanten kunnen bij deze opdracht niet in de context worden geïnterviewd door tijdelijke beperkte mobiliteit van het onderzoeksteam. 
+Omdat er 3 verschillende zaken dienen getest te worden en hier uitgebreid op in wordt gegaan wordt geopteerd voor een user interview gepaard met een paar opdrachten waarbij luidop nagedacht dient te worden. De participanten kunnen bij deze opdracht niet in de context worden geïnterviewd door tijdelijke beperkte mobiliteit van het onderzoeksteam.  
+Bij aanvang van de test werd het huidig concept geanalyseerd aan de hand van de 4 fases van het Hook model. (zie bijlagen)  
+Over enkele zaken wordt er in de test naar gevraagd:
+- Wat doet een de gebruiker net voor ze het product gebruiken?
+- Is de gsm wegleggen een trigger om te starten met werken?
+- Haalt de gebruiker genoeg rewards uit het product?
+- Wat vindt men van een puntensysteem, competitie of analyse van persoonlijke vooruitgang als investment om het product te blijven gebruiken?  
+
 Het gebruikte materiaal voor deze test:
 - Smartphone om conversaties op te nemen
 - 4 afgeprinte informed consents
@@ -368,7 +375,7 @@ Er wordt nogmaals bevestigd door de participanten dat de lamp op een plaats moet
 > “Uniformiteit bij de plaatsgeving van het licht binnen dezelfde organisatie is belangrijk, anders moet er telkens gezocht worden”
 
 ##### <ins> Triggers en de stored value van het product </ins>
-Bij het overlopen van de triggers van het Hooked model waren er geen opvallende ondervindingen. De meeste gingen voor het werken een koffie of een thee halen, maar buiten dit waren er niet veel zaken waarop het product kan inspelen.
+Bij het overlopen van de triggers van het Hook model waren er geen opvallende ondervindingen. De meeste gingen voor het werken een koffie of een thee halen, maar buiten dit waren er niet veel zaken waarop het product kan inspelen.
 > "Koffie halen, en dan begin ik eraan."
 
 Opvallend was het feit dat ieder van de participanten aangaf hun gsm aan de kant te leggen voor ze begonnen met werken. Wanneer werd voorgesteld om misschien de gsm te integreren in het product of de werking van het product afhankelijk te maken van het gsm-gebruik, was er weinig enthousiasme door volgende zaken:

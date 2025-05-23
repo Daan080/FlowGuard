@@ -85,6 +85,7 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 <br>
 <ins> Om deze zaken duidelijker te kaderen en te verwoorden in requirements, werd een innovatrix ingevuld (bijlagen)
 <br>
+  
 > [!IMPORTANT]
 > Design Requirements:
 > - D1.1 Het product moet pauzes aanraden
@@ -99,7 +100,8 @@ Een extra toevoeging zou kunnen zijn om te zorgen dat de gebruiker meer voldoeni
 > - D4.1 Stress wordt gemeten a.d.h.v. hartslagvariabiliteit 
 <br>
 Hierna kon een correct en innovatief eerste concept opgesteld worden.
-  
+<br>
+<br>
   <img src="img/discovery.png" width="70%">
 <br>
 <br>

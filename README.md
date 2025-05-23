@@ -648,15 +648,15 @@ In het algemeen zit het project op schema. Bij de eerste stappen was er moeite m
 ## Bijlagen
 ### Discovery
 #### sota
-[Discovery probleem begrijpen](protocols/Discover_sota-FlowGuard.docx) 
+- [Discovery probleem begrijpen](protocols/Discover_sota-FlowGuard.docx)
 #### literature review:
- - [Discovery literature review protocol](protocols/user_interview_protocol.docx)
- - [Discovery literature review rapport](rapporten/user_interview_report.docx)
+ - [Discovery literature review protocol](protocols/Discover_literature_review-protocol_FlowGuard.docx)
+ - [Discovery literature review rapport](rapporten/Discover_literature_review-rapport_Flowguard.docx)
 #### user interview:
- - [Discovery user interviews protocol](protocols/literature_review_protocol.docx)
- - [Discovery user interviews rapport](rapporten/literature_review_report.docx)
+ - [Discovery user interviews protocol](protocols/Discover_user_interview_protocol_Flowguard.docx)
+ - [Discovery user interviews rapport](rapporten/Discover_user_interview-rapport_Flowguard.docx)
 #### innovatrix
-[Discovery innovatrix](protocols/Discover_innovatrix-FlowGuard.docx)
+- [Discovery innovatrix](protocols/Discover_innovatrix-FlowGuard.docx)
 ### Definition
 #### Define: wave 1
 - [Define wave 1 - protocol](protocols/Define_Wave_1-protocol_FlowGuard.docx)

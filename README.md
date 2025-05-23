@@ -704,7 +704,6 @@ Flowguard biedt dus niet alleen een antwoord op een actueel probleem in de werko
 - centrale hub (3D-print + lasercut)
 - magneten
 <br>
-<br>
 
 ## Bronnen
 - Attention and Concentration for Software Developers. (2023). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/10232991

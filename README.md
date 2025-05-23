@@ -16,7 +16,7 @@ De oplossing die in dit dossier wordt voorgesteld is een product dat helpt om ee
 <br>
 <p align="center">
   <img src="/renders/render_9.png" width="40%">
-  <img src="Renders/render_5.png" width="51%">
+  <img src="Renders/render_5.png" width="50.4%">
 </p>
 
 

@@ -315,7 +315,7 @@ Ook moet duidelijker getoond worden dat dit een aflopende timer is die overgaat 
 > "Krijg je een melding als iemand met jouw timer synchroniseert?"
 
 #### Conclusies & implicaties
-Centrale interface:
+Centrale interface: <br>
 Iedereen streeft naar een zo intuïtief mogelijk en esthetisch zo strak mogelijk ontwerp. Knoppen worden het liefst bijna blindelings en met één hand gebruikt. Indien mogelijk worden zo weinig mogelijk knoppen geprefereerd. Knoppen moeten tamelijk gegroepeerd zijn, zodat je er niet naar moet zoeken. Knoppen die vaker gebruikt worden, moeten groter zijn dan knoppen die minder vaak gebruikt worden. Ten slotte moeten knoppen duidelijke feedback geven en er mag geen twijfel zijn over de huidige staat van een product.
 De lamp moet afzonderlijk van de centrale interface kunnen worden geplaatst. Dit zorgt voor een aanpassing van D4.4
 
@@ -334,7 +334,7 @@ Tabblad Werkomgeving:
 > - D4.6 Het product is in te stellen met één hand 
 > - D4.7 De knoppen of instellingen geven geen twijfel over hun status
 > - D4.8 De ondersteunende website heeft bij het eerste gebruik een tutorial
-> - 4.19 Het product moet een strakke uitstraling hebben
+> - 4.19 Uitstraling van het product moet in de omgeving passen
 <br>
 
 ### Develop 2 (N = 4)
@@ -669,7 +669,7 @@ Deze resultaten en conclusies zouden gebruikt kunnen worden, om het product meer
 | 4.16 | Het product moet zo compact mogelijk zijn, zonder het gebruik te beperken | Develop 3 wave 1 | 17/05/2025 |
 | 4.17 | De stapgrootte is t.e.m. 20 minuten per 1, t.e.m. een uur per 5 en vanaf een uur per 15 minuten | Develop 3 wave 1 | 17/05/2025 |
 | 4.18 | Het product heeft de mogelijkheid om een GSM en de lamp draadloos op te laden | Develop 3 wave 1 | 17/05/2025 |
-| 4.19 | Het product moet een strakke uitstraling hebben | Develop 1 | 01/03/2025 |
+| 4.19 | Uitstraling van het product moet in de omgeving passen | Develop 1 | 01/03/2025 |
 <br>  
 Hier een link naar de design requirements gerangschikt op relevantie en een simpele aanduiding of de requirement al dan niet gehaald is binnen dit project:  
 https://miro.com/app/board/uXjVIa8oaKs=/?focusWidget=3458764628877495166  
